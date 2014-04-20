@@ -20,7 +20,9 @@ All content on these pages is in the [public domain](http://creativecommons.org/
 * To deploy from github to server:
 
 `ssh bmarwick@ovid.u.washington.edu`
+
 `cd public_html`
+
 `git pull origin master`
 
 
