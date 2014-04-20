@@ -19,6 +19,6 @@ All content on these pages is in the [public domain](http://creativecommons.org/
 * When building the site locally I view it at `http://localhost:4000/bmarwick/index.html` and serve it with `jekyll serve --watch` so I don't have to rebuild for every edit, only need to refresh the browser.
 * To deploy from local to server: `rsync -ravz /home/two/mysite/_site/* bmarwick@ovid.u.washington.edu:public_html`
 
+`ssh bmarwick@ovid.u.washington.edu:public_html`
+`git clone git@github.com:benmarwick/faculty.washington.edu-bmarwick.git `
 
-sftp bmarwick@ovid.u.washington.edu:public_html
-put /home/two/mysite/_site/*  bmarwick@ovid.u.washington.edu:public_html
