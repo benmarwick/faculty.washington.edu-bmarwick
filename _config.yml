@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Ben Marwick
 tagline:          'Ben Marwick'
-# url:              http://faculty.washington.edu/bmarwick/
+url:              http://faculty.washington.edu/bmarwick/
 # see http://davidpots.com/blog/jekyll-github-pages-compass/
 baseurl:          /bmarwick
 
