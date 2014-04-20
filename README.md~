@@ -17,8 +17,13 @@ All content on these pages is in the [public domain](http://creativecommons.org/
 
 * My `public_html` is in `/bmarwick` so I need to follow [these instructions](http://davidpots.com/blog/jekyll-github-pages-compass/) to get the CSS loading and internal links working
 * When building the site locally I view it at `http://localhost:4000/bmarwick/index.html` and serve it with `jekyll serve --watch` so I don't have to rebuild for every edit, only need to refresh the browser.
-* To deploy from local to server: `rsync -ravz /home/two/mysite/_site/* bmarwick@ovid.u.washington.edu:public_html`
+* To deploy from github to server:
 
-`ssh bmarwick@ovid.u.washington.edu:public_html`
-`git clone git@github.com:benmarwick/faculty.washington.edu-bmarwick.git `
+`
+ssh bmarwick@ovid.u.washington.edu
+cd public_html
+git pull origin master
+`
+
+* To deploy from local to server (bypassing github): `rsync -ravz /home/two/mysite/_site/* bmarwick@ovid.u.washington.edu:public_html`
 
