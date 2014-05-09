@@ -18,12 +18,12 @@ Covers the archaeology of mainland Southeast Asia from the first colonization by
 Archaeology of Australia with an emphasis on understanding of the evidence and interpretation of both singular events and long-term processes in prehistory. Prerequisite: ARCHY 205. 5 credits, I&S. Archaeological Sciences non-core class.
 
 ### ARCHY 482 & 486 Geoarchaeology Lab & Seminar
-Seminar on the identification, analysis, and interpretation of sediments and soils associated with archaeological remains. Covers geomorphology, geochemistry and geophysics in archaeology. Prerequisite: ARCHY 205. 3 & 3 credits. Archaeological Sciences core class.
+Lab & seminar on the identification, analysis, and interpretation of sediments and soils associated with archaeological remains. Covers geomorphology, geochemistry and geophysics in archaeology. Prerequisite: ARCHY 205. 3 & 3 credits. Archaeological Sciences core class.
 
 ### ARCHY 499 Undergraduate Research 
 Advanced laboratory procedures geared to one specific archaeological research project. Prerequisite: ARCHY 205. 5-6, max. 12 credits.
 
 ### ARCHY 509 Archaeology and Explanation
-Analytical and historical examination in archaeology and philosophy of science. Prerequisite: permission of instruction. 5 credits
+Analytical, historical and quantitative examination in archaeology and philosophy of science. Prerequisite: permission of instruction. 5 credits
 
-More information about the current offerings in the archaeology program, see the [UW ARCHY course catalog](http://www.washington.edu/students/crscat/archeo.html)
+For more information about current offerings in the archaeology program, see the [UW ARCHY course catalog](http://www.washington.edu/students/crscat/archeo.html)
