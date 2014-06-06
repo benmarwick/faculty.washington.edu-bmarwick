@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+<p>Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. <em>Quaternary International</em>.
+ [<a href="http://faculty.washington.edu/bmarwick/PDFs/Mackay_et_al_2014.pdf">PDF</a>] [<a href="http://dx.doi.org/10.1016/j.quaint.2014.05.007">sciencedirect.com</a>]</p>
 <p>Marwick, B. 2013. Discovery of Emergent Issues and Controversies in Anthropology Using Text Mining, Topic Modeling, and Social Network Analysis of Microblog Content. In Yanchang Zhao, Yonghua Cen (eds) <em>Data Mining Applications with R</em>. Elsevier. p. 63-93 [<a href="https://www.academia.edu/5508141/Discovery_of_Emergent_Issues_and_Controversies_in_Anthropology_Using_Text_Mining_Topic_Modeling_and_Social_Network_Analysis_of_Microblog_Content">PDF</a>] [<a href="http://dx.doi.org/10.1016/B978-0-12-411511-8.00003-7">sciencedirect.com</a>]</p>
 <p>Marwick, B., 2013. Multiple Optima in Hoabinhian flaked stone artefact palaeoeconomics and palaeoecology at two archaeological sites in Northwest Thailand. <em>Journal of Anthropological Archaeology</em> 32, 553-564. [<a href="http://www.academia.edu/4845513/Multiple_Optima_in_Hoabinhian_flaked_stone_artefact_palaeoeconomics_and_palaeoecology_at_two_archaeological_sites_in_Northwest_Thailand">PDF</a>] [<a href="http://dx.doi.org/10.1016/j.jaa.2013.08.004">sciencedirect.com</a>]</p>
 <p>Conrad, C. H. Van Vlack, B. Marwick, C. Thongcharoenchaikit<br />
