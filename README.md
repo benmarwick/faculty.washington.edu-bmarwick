@@ -23,8 +23,8 @@ All content on these pages is in the [public domain](http://creativecommons.org/
 # assuming we've already done jekyll build...
 git checkout ovid # move to uw server branch
 git checkout master -- _site # move dir over
-mv _site/* . # move files from _site up one level
-rmdir _site # delete _site
+rsync -a _site/* . # move files from _site up one level
+rm -rf _site # delete _site
 git add --all # add files to git
 git commit -am "update ovid branch"
 git push -u origin ovid # update github
