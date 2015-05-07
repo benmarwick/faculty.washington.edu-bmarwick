@@ -34,7 +34,7 @@ Now we branch that is just the contents of _site, ready for the UW server to rec
 ssh bmarwick@ovid.u.washington.edu
 cd public_html
 git pull origin ovid
-exit # exit ssh
+exit # exit ssh 
 ```
 
 
