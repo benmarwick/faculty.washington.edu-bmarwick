@@ -4,7 +4,7 @@ title: Publications
 ---
 <h2>2016</h2>
 
-Marwick, B., C. Clarkson, S. O'Connor, S. Collins 2016 Early modern human lithic technology from Jerimalai, East Timor. _Journal of Human Evolution_ 101, 45-64 [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[PDF](https://www.academia.edu/attachments/50423680/download_file?st=MTQ4Mzk2NDMzMSwyMDMuMjEzLjc3LjExNCwzMTMwNA)] [[Code & Data](https://osf.io/uduub/)]
+Marwick, B., C. Clarkson, S. O'Connor, S. Collins 2016 Early modern human lithic technology from Jerimalai, East Timor. _Journal of Human Evolution_ 101, 45-64 [[DOI](http://dx.doi.org/10.1016/j.jhevol.2016.09.004)] [[PDF](https://www.academia.edu/attachments/50244374/download_file?st=MTQ4Mzk2NTUzOSwyMDMuMjEzLjc3LjExNCwzMTMwNA)] [[Code & Data](http://dx.doi.org/10.6084/m9.figshare.985406)]
 
 Marwick, B., H. G. Van Vlack, C.Conrad, R. Shoocongdej, C. Thongcharoenchaikit, S. Kwak 2016 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand. _Journal of Archaeological Science_ 2016 [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[PDF](https://www.academia.edu/attachments/50423680/download_file?st=MTQ4Mzk2NDMzMSwyMDMuMjEzLjc3LjExNCwzMTMwNA)] [[Code & Data](https://osf.io/uduub/)]
 
