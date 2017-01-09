@@ -2,7 +2,19 @@
 layout: page
 title: Publications
 ---
+<h2>2016</h2>
+Eglen, S., B. Marwick, Y. Halchenko, M. Hanke, S. Sufi, P. Gleeson, R.A. Silver 2016 Towards standard practices for sharing computer code and programs in neuroscience. bioRxiv, 045104 [PDF](http://www.biorxiv.org/content/biorxiv/early/2016/04/04/045104.full.pdf)
+
+Marwick, B. 2016 Computational Reproducibility in Archaeological Research: Basic Principles and a Case Study of Their Implementation
+_Journal of Archaeological Method and Theory_ 1-27 [PDF](https://www.researchgate.net/profile/Ben_Marwick2/publication/289601506_Computational_Reproducibility_in_Archaeological_Research_Basic_Principles_and_a_Case_Study_of_Their_Implementation/links/56924d5208aec14fa55d64e5.pdf)
+
 <h2>2015</h2>
+Marwick, B. 2015 Review of "Geoarchaeology of Aboriginal Landscapes in Semi‐Arid Australia" by Simon J. Holdaway and Patricia C. Fanning. 2014. CSIRO, Collingwood. _Geoarchaeology_ 30 (5), 459-461 [PDF](http://ro.uow.edu.au/smhpapers/3435)
+
+Aung, T. H., B. Marwick, & C. Conrad 2015 Palaeolithic zooarchaeology in Myanmar: a review and future prospects. _Journal of Indo-Pacific Archaeology_ 39: 50-56. [PDF](http://ro.uow.edu.au/smhpapers/3282)
+
+Kwak, S. and B. Marwick 2015 What did they cook? A preliminary investigation into culinary practices and pottery use in the central part of the Korean peninsula during the mid to late Holocene. _Journal of Indo-Pacific Archaeology_ 37: 25-32. [PDF](http://ro.uow.edu.au/smhpapers/3432)
+<p>Marwick, B. 2015 Peer Comment: Films, digs and death: a review of the Project Eliseg videos. <em>Internet Archaeology</em> <a href="http://dx.doi.org/10.11141/ia.39.3">10.11141/ia.39.3</a><p>
 <p>Clarkson, C., Mike Smith, Ben Marwick, Richard Fullagar, Lynley A. Wallis, Patrick Faulkner, Tiina Manne, Elspeth Hayes, Richard G. Roberts, Zenobia Jacobs, Xavier Carah, Kelsey M. Lowe, Jacqueline Matthews, S. Anna Florin 2015 The archaeology, chronology and stratigraphy of Madjedbebe (Malakunanja II): A site in northern Australia with early occupation. <em>Journal of Human Evolution</em> [<a href="http://faculty.washington.edu/bmarwick/PDFs/Clarkson_et_al._2015_MJB_1989.pdf">PDF</a>] [<a href="http://dx.doi.org/10.1016/j.jhevol.2015.03.014">sciencedirect.com</a>] [<a href="https://github.com/benmarwick/1989-excavation-report-Madjebebe">code & data</a>]</p>
 <h2>2014</h2>
 <p>Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. <em>Archaeology in Oceania</em> [<a href="http://faculty.washington.edu/bmarwick/PDFs/Lowe_et_al_2014_MJB_GPR.pdf">PDF</a>] [<a href="http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract">wiley.com</a>] [<a href="https://github.com/benmarwick/Rocks-and-burials-at-Madjebebe">code & data</a>]</p>
