@@ -3,7 +3,17 @@ layout: page
 title: Publications
 ---
 
-<h2>2017</h2>
+<h2>2018</h2>
+
+Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) _Lithic Technological Organization and Paleoenvironmental Change_ Springer. pp. 63-78 [[DOI](https://doi.org/10.1007/978-3-319-64407-3_4)] [[preprint](https://doi.org/10.17605/OSF.IO/9PT8G)] [[PDF](https://doi.org/10.1007/978-3-319-64407-3_4)]
+
+<h2>2017</h2>  
+
+Marwick, B., Boettiger, C., & Mullen, L. 2017 Packaging data analytical work reproducibly using R (and friends). _The American Statistician_  [[DOI](https://doi.org/10.1080/00031305.2017.1375986)] [[preprint](https://doi.org/10.7287/peerj.preprints.3192v1)] 
+
+Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. 2017 Landform boundary effects on Holocene forager landscape use in arid South Australia. Journal of Archaeological Science: Reports.  [[DOI](http://doi.org/10.1016/j.jasrep.2017.07.004)] [[preprint](https://doi.org/10.17605/OSF.IO/V2MS9)] [[code & data](https://doi.org/10.17605/OSF.IO/EDZXS)]
+
+Clarkson, C., Jacobs, Z., Marwick, B., Fullagar, R., Wallis, L., Smith, M., ... & Florin, S. A. 2017 Human occupation of northern Australia by 65,000 years ago. _Nature_ 547(7663), 306. [[DOI](http://doi.org/10.1038/nn.4550)] [[code & data](https://doi.org/10.17605/OSF.IO/QWFCZ)]
 
 Eglen, S. J., Marwick, B., Halchenko, Y. O., Hanke, M., Sufi, S., Gleeson, P., ... & Wachtler, T. (2017). Toward standard practices for sharing computer code and programs in neuroscience. _Nature Neuroscience_ 20(6), 770-773. [[DOI](http://doi.org/10.1038/nn.4550)] [[preprint](https://doi.org/10.1101/045104)] 
 
@@ -14,6 +24,8 @@ Marwick, B., Hayes, E., Clarkson, C., & Fullagar, R. 2017 Movement of lithics by
 Marwick, B., Van Vlack, H. G., Conrad, C., Shoocongdej, R., Thongcharoenchaikit, C., & Kwak, S. 2017 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand. _Journal of Archaeological Science_ 77, 94-108. [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[code & data]](https://dx.doi.org/10.6084/m9.figshare.2065602)
 
 Marwick, B. and B. Bouasisengpaseuth 2017 The History and Practice of Archaeology in Laos. In _Handbook of East and Southeast Asian Archaeology._ Springer, New York, NY. p. 89-95  [[DOI](https://doi.org/10.1007/978-1-4939-6521-2_8)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/75ZHC)] 
+
+Marwick 2017 Using R and Related Tools for Reproducible Research in Archaeology. In Kitzes, J., Turek, D., & Deniz, F. (Eds.) _The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences._ Oakland, CA: University of California Press. [[online](https://www.practicereproducibleresearch.org/case-studies/benmarwick.html)]
 
 Ram, K. B. Marwick 2017 Building Towards a Future Where Reproducible, Open Science is the Norm. In Kitzes, J., Turek, D., & Deniz, F. (Eds.) _The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences._ Oakland, CA: University of California Press. [[online](https://www.practicereproducibleresearch.org/core-chapters/6-future.html)]
 
