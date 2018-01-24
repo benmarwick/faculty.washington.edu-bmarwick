@@ -2,7 +2,30 @@
 layout: page
 title: Publications
 ---
+
+<h2>2017</h2>
+
+Eglen, S. J., Marwick, B., Halchenko, Y. O., Hanke, M., Sufi, S., Gleeson, P., ... & Wachtler, T. (2017). Toward standard practices for sharing computer code and programs in neuroscience. _Nature Neuroscience_ 20(6), 770-773. [[DOI](http://doi.org/10.1038/nn.4550)] [[preprint](https://doi.org/10.1101/045104)] 
+
+Marwick, B. 2017 Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. _Journal of Archaeological Method and Theory_ 24(2), 424-450. [[DOI](http://doi.org/10.1007/s10816-015-9272-9)] [[preprint](https://osf.io/preprints/socarxiv/q4v73)] [[code & data]](https://doi.org/10.6084/m9.figshare.1563661)
+
+Marwick, B., Hayes, E., Clarkson, C., & Fullagar, R. 2017 Movement of lithics by trampling: An experiment in the Madjedbebe sediments, northern Australia. _Journal of Archaeological Science_ 79, 73-85. [[DOI](http://dx.doi.org/10.1016/j.jas.2017.01.008)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/7A6H6)] [[code & data]](https://doi.org/10.17605/OSF.IO/32A87)
+
+Marwick, B., Van Vlack, H. G., Conrad, C., Shoocongdej, R., Thongcharoenchaikit, C., & Kwak, S. 2017 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand. _Journal of Archaeological Science_ 77, 94-108. [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[code & data]](https://dx.doi.org/10.6084/m9.figshare.2065602)
+
+Marwick, B. and B. Bouasisengpaseuth 2017 The History and Practice of Archaeology in Laos. In _Handbook of East and Southeast Asian Archaeology._ Springer, New York, NY. p. 89-95  [[DOI](https://doi.org/10.1007/978-1-4939-6521-2_8)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/75ZHC)] 
+
+Ram, K. B. Marwick 2017 Building Towards a Future Where Reproducible, Open Science is the Norm. In Kitzes, J., Turek, D., & Deniz, F. (Eds.) _The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences._ Oakland, CA: University of California Press. [[online](https://www.practicereproducibleresearch.org/core-chapters/6-future.html)]
+
+Rokem, A., B. Marwick, V. Staneva 2017 Assessing Reproducibility. In Kitzes, J., Turek, D., & Deniz, F. (Eds.) _The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences._ Oakland, CA: University of California Press. University of California Press. [[online](https://www.practicereproducibleresearch.org/core-chapters/2-assessment.html)]
+
 <h2>2016</h2>
+
+Suryatman, S., O'Connor, S., Bulbeck, D., Marwick, B., Oktaviana, A. A., & Wibowo, U. P. 2016 Teknologi Litik di Situs Talimbue, Sulawesi Tenggara: Teknologi Berlanjut dari Masa Pleistosen Akhir Hingga Holosen. _AMERTA_ 34(2), 81-98  [[DOI](http://dx.doi.org/10.24832/amt.v34i2.146)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Suryatman_et_al_2016_Talimbue.pdf)]
+
+Aplin, K., Sue O’Connor, David Bulbeck, Philip J. Piper, Ben Marwick, Emma St Pierre, Fadhila Aziz 2016 The Walandawe Tradition from Southeast Sulawesi and Osseous Artifact Traditions in Island Southeast Asia. In Michelle C. Langley (ed) _Osseous Projectile Weaponry: Towards an Understanding of Pleistocene Cultural Variability_. Vertebrate Paleobiology and Paleoanthropology Series, Springer. pp 189-208 [[DOI](https://doi.org/10.1007/978-94-024-0899-7)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Langley_2016_Osseous_Projectile_Weaponry.pdf)]
+
+Bulbeck, D., F.A. Aziz, S. O'connor, A. Calo, J.N. Fenner, B. Marwick, J. Feathers 2016 Mortuary Caves and the Dammar Trade in the Towuti–Routa Region, Sulawesi, in an Island Southeast Asian Context. _Asian Perspectives_ 55 (2), 148-183 [[DOI](https://doi.org/10.1353/asi.2016.0017)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck_et_al_2016_Dammar.pdf)]
 
 Marwick, B., C. Clarkson, S. O'Connor, S. Collins 2016 Early modern human lithic technology from Jerimalai, East Timor. _Journal of Human Evolution_ 101, 45-64 [[DOI](http://dx.doi.org/10.1016/j.jhevol.2016.09.004)] [[PDF](https://www.academia.edu/attachments/50244374/download_file?st=MTQ4Mzk2NTUzOSwyMDMuMjEzLjc3LjExNCwzMTMwNA)] [[Code & Data](http://dx.doi.org/10.6084/m9.figshare.985406)]
 
@@ -11,11 +34,6 @@ Marwick, B., H. G. Van Vlack, C.Conrad, R. Shoocongdej, C. Thongcharoenchaikit, 
 Steele, T. E., A. MacKay, K. E. Fitzsimmons, M. Igreja, B. Marwick 2016 Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howiesons Poort Assemblages in Southern Namaqualand, South Africa. _PaleoAnthropology_ 100, 163, 2016 [[PDF](https://www.researchgate.net/profile/Marina_Igreja/publication/310607357_Varsche_Rivier_003_A_Middle_and_Later_Stone_Age_Site_with_Still_Bay_and_Howiesons_Poort_Assemblages_in_Southern_Namaqualand_South_Africa/links/5833680008aef19cb81cb299.pdf)] [[Code & Data]()]
 
 Conrad, C., C. Higham, M. Eda, & B. Marwick 2016 Palaeoecology and Forager Subsistence Strategies during the Pleistocene–Holocene Transition: A Reinvestigation of the Zooarchaeological Assemblage from Spirit Cave, Mae Hong Son Province, Thailand. _Asian Perspectives_ 55 (1), 2-27 [[PDF](http://ro.uow.edu.au/smhpapers/4188)] [[Code & Data](http://hdl.handle.net/1928/26730)]
-
-Eglen, S., B. Marwick, Y. Halchenko, M. Hanke, S. Sufi, P. Gleeson, R.A. Silver 2016 Towards standard practices for sharing computer code and programs in neuroscience. bioRxiv, 045104 [[PDF](http://www.biorxiv.org/content/biorxiv/early/2016/04/04/045104.full.pdf)]
-
-Marwick, B. 2016 Computational Reproducibility in Archaeological Research: Basic Principles and a Case Study of Their Implementation
-_Journal of Archaeological Method and Theory_ 1-27 [[PDF](https://www.researchgate.net/profile/Ben_Marwick2/publication/289601506_Computational_Reproducibility_in_Archaeological_Research_Basic_Principles_and_a_Case_Study_of_Their_Implementation/links/56924d5208aec14fa55d64e5.pdf)]
 
 <h2>2015</h2>
 Marwick, B. 2015 Review of "Geoarchaeology of Aboriginal Landscapes in Semi‐Arid Australia" by Simon J. Holdaway and Patricia C. Fanning. 2014. CSIRO, Collingwood. _Geoarchaeology_ 30 (5), 459-461 [[PDF](http://ro.uow.edu.au/smhpapers/3435)]
