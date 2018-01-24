@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ben Marwick</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Ben Marwick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ben Marwick</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>About me I am an Associate Professor of Archaeology. My other local affiliations include the eScience Institute, the Burke Museum, the Center for Statistics and Social Sciences, the Quaternary Research Center, and the Southeast Asia Center.
+ My main research activities combine models from evolutionary ecology with analyses of archaeological evidence to investigate past human behaviour. Specific interests include the hominin colonisation of mainland Southeast Asia, forager technologies and ecology in Australia, mainland Southeast Asia and elsewhere.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>2018 Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) Lithic Technological Organization and Paleoenvironmental Change Springer. pp. 63-78 [DOI] [preprint] [PDF]
+2017 Marwick, B., Boettiger, C., &amp;amp; Mullen, L. 2017 Packaging data analytical work reproducibly using R (and friends). The American Statistician [DOI] [preprint]
+Marwick, B., Hiscock, P., Sullivan, M., &amp;amp; Hughes, P. 2017 Landform boundary effects on Holocene forager landscape use in arid South Australia.</description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoarchaeology</title>
+      <link>/home/geoarchaeology/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/geoarchaeology/</guid>
+      <description>Introduction The program here at the University of Washington is primarily a doctoral program in archaeology, with an emphasis in geoarchaeology for those that wish to pursue it. We believe firmly that geoarchaeology is really archaeology using adaptations of techniques and methods. Thus, the geoarchaeologists that come from this department examine archaeological questions by looking at sedimentological, stratigraphical, petrographic (mineralogy and petrology), geomorphological, and pedologic techniques. We are really doing archaeology, with a geological orientation.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>In addition to teaching these classes I am also the coordinator of the Archaeological Sciences Option. This is a transcripted sequence of classes recommended to students who are interested in an in-depth study archaeological methods and theories.
+ARCHY 109 Archaeology in Film Deals with depictions of archaeology by and for non-archaeologists and implication of those depictions at the intersection of archaeology, the human past, and popular culture. 5 credits, I&amp;amp;S</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
