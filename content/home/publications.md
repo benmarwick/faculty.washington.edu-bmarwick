@@ -37,7 +37,7 @@ exclude_selected = false
 +++
 
 
-<h2>2018</h2>
+<h2>2018</h2>  
 
 Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) _Lithic Technological Organization and Paleoenvironmental Change_ Springer. pp. 63-78 [[DOI](https://doi.org/10.1007/978-3-319-64407-3_4)] [[preprint](https://doi.org/10.17605/OSF.IO/9PT8G)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/robinson_sellet_2017_lithic_tech_org_paleoenviron_change.pdf)]
 
