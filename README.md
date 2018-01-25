@@ -15,4 +15,4 @@ All content on these pages is in the [public domain](http://creativecommons.org/
 
 ## Things to keep in mind
 
-* Deploy from my local copy directory to the UW server (bypassing github): `rsync -ravz public/* bmarwick@ovid.u.washington.edu:public_html`. May also need to `chmod 755`
+* Deploy from my local copy directory to the UW server (bypassing github): `rsync -ravz public/* bmarwick@ovid.u.washington.edu:public_html` or use WinSCP. May also need to `chmod 755`

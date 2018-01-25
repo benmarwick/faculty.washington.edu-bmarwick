@@ -31,3 +31,30 @@ weight = 60
 <p>Most of our graduate students receive some sort of <a href="https://depts.washington.edu/anthweb/programs/grad_fellowship.php">financial assistance</a> or apply for <a href="http://www.washington.edu/students/osfa/">financial aid</a> in the form of <a href="http://www.washington.edu/students/osfa/ugaid/uw.workstudy.positions.html">work-study positions</a> that allow students to work in our labs. The Work-Study applications must be filed in the Spring in the year before new students arrive. However, the funds are small and competition for them is great. Please discuss with me opportunities for financial assistance.</p>
 <h3>The Quaternary Research Center</h3>
 <p>The <a href="http://depts.washington.edu/qrc/">Quaternary Research Center (QRC)</a> here at the University of Washington is not a degree-granting department. It is a research center. Although you cannot receive a degree from the QRC, it offers many opportunities such as scholars participating in QRC seminars and lecture series. This research center gives our students exposure to the newest ideas, and collegial contacts. Obviously the QRC is a benefit to anyone interested in geoarchaeology, but not part of the official program.</p>
+
+
+<h3>Prospective students</h3>
+
+If you'd like more information about graduate study in geoarchaeology at UW, you can easily contact me using the form below. 
+    
+<div>
+  <ul class="fa-ul" itemscope>
+       <li>
+         <i class="fa-li fa fa-comments-o fa-2x" aria-hidden="true"></i>
+         <form action="https://formspree.io/bmarwick@uw.edu" method="POST">
+            <label for="name">Your name: </label>
+            <input type="text" name="name" required="required" placeholder=""><br>
+            <label for="email">Your email:  </label>
+            <input type="email" name="_replyto" required="required" placeholder=""><br>
+            <label for="message">Your message:</label><br>
+            <textarea rows="4" name="message" id="message" required="required" class="form-control" placeholder="I'm interested to do a PhD in geoarchaeology..."></textarea>
+            <input type="hidden" name="_next" value="/html/thanks.html" />
+            <input type="submit" value="Send" name="submit" class="btn btn-primary btn-outline">
+            <input type="hidden" name="_subject" value="Website message" />
+            <input type="text" name="_gotcha" style="display:none" />
+          </form>
+        </li>
+    </ul>
+</div>
+      
+ 
