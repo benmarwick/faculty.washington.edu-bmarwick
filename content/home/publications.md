@@ -57,7 +57,7 @@ Marwick, B., Hayes, E., Clarkson, C., & Fullagar, R. 2017 Movement of lithics by
 
 Marwick, B., Van Vlack, H. G., Conrad, C., Shoocongdej, R., Thongcharoenchaikit, C., & Kwak, S. 2017 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand. _Journal of Archaeological Science_ 77, 94-108. [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[code & data]](https://dx.doi.org/10.6084/m9.figshare.2065602)
 
-Marwick, B. and B. Bouasisengpaseuth 2017 The History and Practice of Archaeology in Laos. In _Handbook of East and Southeast Asian Archaeology._ Springer, New York, NY. p. 89-95  [[DOI](https://doi.org/10.1007/978-1-4939-6521-2_8)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/75ZHC)] 
+Marwick, B. and B. Bouasisengpaseuth 2017 The History and Practice of Archaeology in Laos. In Junko Habu, Peter Lape, John Olsen and Jing Zhichun (eds) _Handbook of East and Southeast Asian Archaeology._ Springer, New York, NY. p. 89-95  [[DOI](https://doi.org/10.1007/978-1-4939-6521-2_8)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/75ZHC)] 
 
 Marwick 2017 Using R and Related Tools for Reproducible Research in Archaeology. In Kitzes, J., Turek, D., & Deniz, F. (Eds.) _The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences._ Oakland, CA: University of California Press. [[online](https://www.practicereproducibleresearch.org/case-studies/benmarwick.html)]
 
