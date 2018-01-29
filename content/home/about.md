@@ -11,6 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Archaeology",
+    "Stone artefact technology",
+    "Geoarchaeology",
     "Southeast Asia",
     "Australia",
     "Reproducible research & Open science"
