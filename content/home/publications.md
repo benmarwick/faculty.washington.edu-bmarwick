@@ -39,13 +39,15 @@ exclude_selected = false
 
 <h2>2018</h2>  
 
+Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. 2018 pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
+
 Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) _Lithic Technological Organization and Paleoenvironmental Change_ Springer. pp. 63-78 [[DOI](https://doi.org/10.1007/978-3-319-64407-3_4)] [[preprint](https://doi.org/10.17605/OSF.IO/9PT8G)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/robinson_sellet_2017_lithic_tech_org_paleoenviron_change.pdf)]
 
 <h2>2017</h2>  
 
 Marwick, B., Boettiger, C., & Mullen, L. 2017 Packaging data analytical work reproducibly using R (and friends). _The American Statistician_  [[DOI](https://doi.org/10.1080/00031305.2017.1375986)] [[preprint](https://doi.org/10.7287/peerj.preprints.3192v1)] 
 
-Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. 2017 Landform boundary effects on Holocene forager landscape use in arid South Australia. Journal of Archaeological Science: Reports.  [[DOI](http://doi.org/10.1016/j.jasrep.2017.07.004)] [[preprint](https://doi.org/10.17605/OSF.IO/V2MS9)] [[code & data](https://doi.org/10.17605/OSF.IO/EDZXS)]
+Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. 2017 Landform boundary effects on Holocene forager landscape use in arid South Australia. _Journal of Archaeological Science: Reports_.  [[DOI](http://doi.org/10.1016/j.jasrep.2017.07.004)] [[preprint](https://doi.org/10.17605/OSF.IO/V2MS9)] [[code & data](https://doi.org/10.17605/OSF.IO/EDZXS)]
 
 Clarkson, Chris, Zenobia Jacobs , Ben Marwick , Richard Fullagar , Lynley Wallis , Mike Smith , Richard Roberts , Elspeth Hayes , Kelsey Lowe , Xavier Carah , S. Anna Florin , Jessica McNeil , Lee Arnold , Quan Hua , Jillian Huntley , Helen Brand , Andrew Fairbairn , Kate Connell , Kasih Norman , Tiina Manne , James Shulmeister , Tessa Murphy , Lindsey Lyle , Makiah Salinas , Gayoung Park , Mara Page , Colin Pardoe 2017 Human occupation of northern Australia by 65,000 years ago. _Nature_ 547(7663), 306. [[DOI](http://doi.org/10.1038/nn.4550)] [[code & data](https://doi.org/10.17605/OSF.IO/QWFCZ)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Clarkson_Jacobs_Marwick_2017.pdf)]
 
@@ -76,8 +78,6 @@ Aplin, K., Sue O’Connor, David Bulbeck, Philip J. Piper, Ben Marwick, Emma St 
 Bulbeck, D., F.A. Aziz, S. O'connor, A. Calo, J.N. Fenner, B. Marwick, J. Feathers 2016 Mortuary Caves and the Dammar Trade in the Towuti–Routa Region, Sulawesi, in an Island Southeast Asian Context. _Asian Perspectives_ 55 (2), 148-183 [[DOI](https://doi.org/10.1353/asi.2016.0017)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck_et_al_2016_Dammar.pdf)]
 
 Marwick, B., C. Clarkson, S. O'Connor, S. Collins 2016 Early modern human lithic technology from Jerimalai, East Timor. _Journal of Human Evolution_ 101, 45-64 [[DOI](http://dx.doi.org/10.1016/j.jhevol.2016.09.004)] [[PDF](https://www.academia.edu/attachments/50244374/download_file?st=MTQ4Mzk2NTUzOSwyMDMuMjEzLjc3LjExNCwzMTMwNA)] [[Code & Data](http://dx.doi.org/10.6084/m9.figshare.985406)]
-
-Marwick, B., H. G. Van Vlack, C.Conrad, R. Shoocongdej, C. Thongcharoenchaikit, S. Kwak 2016 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand. _Journal of Archaeological Science_ 2016 [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[PDF](https://www.academia.edu/attachments/50423680/download_file?st=MTQ4Mzk2NDMzMSwyMDMuMjEzLjc3LjExNCwzMTMwNA)] [[Code & Data](https://osf.io/uduub/)]
 
 Steele, T. E., A. MacKay, K. E. Fitzsimmons, M. Igreja, B. Marwick 2016 Varsche Rivier 003: A Middle and Later Stone Age Site with Still Bay and Howiesons Poort Assemblages in Southern Namaqualand, South Africa. _PaleoAnthropology_ 100, 163, 2016 [[PDF](https://www.researchgate.net/profile/Marina_Igreja/publication/310607357_Varsche_Rivier_003_A_Middle_and_Later_Stone_Age_Site_with_Still_Bay_and_Howiesons_Poort_Assemblages_in_Southern_Namaqualand_South_Africa/links/5833680008aef19cb81cb299.pdf)] [[Code & Data](https://github.com/benmarwick/Steele_et_al_VR003_MSA_Pigments)]
 
