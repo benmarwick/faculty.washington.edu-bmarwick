@@ -274,6 +274,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "https://figshare.com/authors/Ben_Marwick/437155"
     
+      [[params.social]]
+    icon = "publons"
+    icon_pack = "ai"
+    link = "https://publons.com/a/427449/"
+    
     
 
 
