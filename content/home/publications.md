@@ -39,6 +39,8 @@ exclude_selected = false
 
 <h2>2018</h2>  
 
+Marwick, B., & Birch, S. 2018 A Standard for the Scholarly Citation of Archaeological Data as an Incentive to Data Sharing. _Advances in Archaeological Practice_ 1-19. [[DOI](https://doi.org/10.1017/aap.2018.3] [[preprint](https://osf.io/preprints/socarxiv/py4hz/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-and-Pilaar-Birch-2018-Data-Citation-AAP.pdf)]
+
 Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. 2018 pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
 
 Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) _Lithic Technological Organization and Paleoenvironmental Change_ Springer. pp. 63-78 [[DOI](https://doi.org/10.1007/978-3-319-64407-3_4)] [[preprint](https://doi.org/10.17605/OSF.IO/9PT8G)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/robinson_sellet_2017_lithic_tech_org_paleoenviron_change.pdf)]
