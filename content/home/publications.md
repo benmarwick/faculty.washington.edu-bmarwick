@@ -39,7 +39,7 @@ exclude_selected = false
 
 <h2>2018</h2>  
 
-Marwick, B., & Birch, S. 2018 A Standard for the Scholarly Citation of Archaeological Data as an Incentive to Data Sharing. _Advances in Archaeological Practice_ 1-19. [[DOI](https://doi.org/10.1017/aap.2018.3] [[preprint](https://osf.io/preprints/socarxiv/py4hz/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-and-Pilaar-Birch-2018-Data-Citation-AAP.pdf)]
+Marwick, B., & Birch, S. 2018 A Standard for the Scholarly Citation of Archaeological Data as an Incentive to Data Sharing. _Advances in Archaeological Practice_ 1-19. [[DOI](https://doi.org/10.1017/aap.2018.3)] [[preprint](https://osf.io/preprints/socarxiv/py4hz/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-and-Pilaar-Birch-2018-Data-Citation-AAP.pdf)]
 
 Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. 2018 pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
 
