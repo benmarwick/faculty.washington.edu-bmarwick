@@ -39,6 +39,8 @@ exclude_selected = false
 
 <h2>2018</h2>  
 
+Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_  [[DOI](https://doi.org/10.1038/s41586-018-0710-1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-Zhang-2018-Levallois-SW-China-paper-SI.pdf)]
+
 O'Connor, S., D. Bulbeck, P. Piper, F. Aziz, B. Marwick et al. 2018 The human occupation record of Gua Mo’o hono shelter, Towuti-Routa region of Southeastern Sulawesi. In _The Archaeology of Sulawesi: Current Research on the Pleistocene to the Historic Period_ (Terra Australis 48) ANU E Press: Canberra. [[DOI](https://doi.org/10.22459/TA48.11.2018.09)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/o-connor-et-al-2018-mo-o-hono.pdf)] 
 
 Clarkson, Chris, R. G. Roberts, Z. Jacobs, B. Marwick, R.

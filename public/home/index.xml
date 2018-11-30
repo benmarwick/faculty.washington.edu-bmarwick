@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/bmarwick/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Ben Marwick</title>
       <link>/bmarwick/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
       <guid>/bmarwick/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -35,11 +35,11 @@
     <item>
       <title>Publications</title>
       <link>/bmarwick/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/bmarwick/home/publications/</guid>
-      <description>2018 O&amp;rsquo;Connor, S., D. Bulbeck, P. Piper, F. Aziz, B. Marwick et al. 2018 The human occupation record of Gua Mo’o hono shelter, Towuti-Routa region of Southeastern Sulawesi. In The Archaeology of Sulawesi: Current Research on the Pleistocene to the Historic Period (Terra Australis 48) ANU E Press: Canberra. [DOI] [PDF]
-Clarkson, Chris, R. G. Roberts, Z. Jacobs, B. Marwick, R. Fullagar, L. J. Arnold &amp;amp; Q. Hua 2018 Reply to comments on Clarkson et al.</description>
+      <description>2018 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. Nature [DOI] [PDF]
+O&amp;rsquo;Connor, S., D. Bulbeck, P. Piper, F. Aziz, B. Marwick et al. 2018 The human occupation record of Gua Mo’o hono shelter, Towuti-Routa region of Southeastern Sulawesi. In The Archaeology of Sulawesi: Current Research on the Pleistocene to the Historic Period (Terra Australis 48) ANU E Press: Canberra.</description>
     </item>
     
     <item>
