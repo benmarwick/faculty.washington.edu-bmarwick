@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/bmarwick/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Ben Marwick</title>
       <link>/bmarwick/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
       <guid>/bmarwick/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -29,17 +29,18 @@
       
       <guid>/bmarwick/home/about/</guid>
       <description>About me I am an Associate Professor of Archaeology. My other local affiliations include the eScience Institute, the Burke Museum, the Center for Statistics and Social Sciences, the Quaternary Research Center, and the Southeast Asia Center.
- My main research activities combine models from evolutionary ecology with analyses of archaeological evidence to investigate past human behaviour. Specific interests include the hominin colonisation of mainland Southeast Asia, forager technologies and ecology in Australia, mainland Southeast Asia and elsewhere.</description>
+ My main research activities combine models from evolutionary ecology with analyses of archaeological evidence to investigate past human behaviour. Specific interests include hominin dispersals into mainland Southeast Asia, forager technologies and ecology in Australia, mainland Southeast Asia and elsewhere.</description>
     </item>
     
     <item>
       <title>Publications</title>
       <link>/bmarwick/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/bmarwick/home/publications/</guid>
-      <description>2018 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. Nature [DOI] [PDF]
-O&amp;rsquo;Connor, S., D. Bulbeck, P. Piper, F. Aziz, B. Marwick et al. 2018 The human occupation record of Gua Mo’o hono shelter, Towuti-Routa region of Southeastern Sulawesi. In The Archaeology of Sulawesi: Current Research on the Pleistocene to the Historic Period (Terra Australis 48) ANU E Press: Canberra.</description>
+      <description>2019 Bulbeck, D., S., O&amp;rsquo;Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B. Hakim and U. Wibowo (2019) Patterned and Plain Baked Clay in Pre-Pottery Contexts from Southeast Sulawesi, Indonesia. Antiquity [DOI] [PDF]
+2018 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. Nature [DOI] [PDF]
+Marwick, B. (2018) Review of &amp;ldquo;Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling by Marieka Brouwer Burg, Hans Peeters, and William A.</description>
     </item>
     
     <item>

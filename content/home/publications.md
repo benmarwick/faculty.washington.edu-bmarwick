@@ -36,10 +36,18 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+<h2>2019</h2> 
+
+Bulbeck, D., S., O'Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B. Hakim and U. Wibowo (2019) Patterned and Plain Baked Clay in Pre-Pottery Contexts from Southeast Sulawesi, Indonesia. _Antiquity_ [[DOI](https://doi.org/10.17605/OSF.IO/JN5TU)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs)]
 
 <h2>2018</h2>  
 
 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_  [[DOI](https://doi.org/10.1038/s41586-018-0710-1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-Zhang-2018-Levallois-SW-China-paper-SI.pdf)]
+
+Marwick, B. (2018) Review of "Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling by Marieka Brouwer Burg, Hans Peeters, and William A. Lovis, eds.," _Journal of Anthropological Research_ 74, no. 3 (Fall): 424-425.
+[[DOI](https://doi.org/10.1086/698916)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/marwick-2018-review-uncertainty.pdf)]
+
+Dominick, D., Wilson, S. R., Paton-Walsh, C., Humphries, R., Guérette, E.-A., Keywood, M.,... Marwick, B. (2018). Characteristics of airborne particle number size distributions in a coastal-urban environment. _Atmospheric Environment_, 186, 256–265. [[DOI](https://doi.org/10.1016/j.atmosenv.2018.05.031)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Dominic-et-al-2018-atmostpheric.pdf)]
 
 O'Connor, S., D. Bulbeck, P. Piper, F. Aziz, B. Marwick et al. 2018 The human occupation record of Gua Mo’o hono shelter, Towuti-Routa region of Southeastern Sulawesi. In _The Archaeology of Sulawesi: Current Research on the Pleistocene to the Historic Period_ (Terra Australis 48) ANU E Press: Canberra. [[DOI](https://doi.org/10.22459/TA48.11.2018.09)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/o-connor-et-al-2018-mo-o-hono.pdf)] 
 
@@ -61,7 +69,7 @@ Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. 2017 Landform boundary effe
 
 Clarkson, Chris, Zenobia Jacobs , Ben Marwick , Richard Fullagar , Lynley Wallis , Mike Smith , Richard Roberts , Elspeth Hayes , Kelsey Lowe , Xavier Carah , S. Anna Florin , Jessica McNeil , Lee Arnold , Quan Hua , Jillian Huntley , Helen Brand , Andrew Fairbairn , Kate Connell , Kasih Norman , Tiina Manne , James Shulmeister , Tessa Murphy , Lindsey Lyle , Makiah Salinas , Gayoung Park , Mara Page , Colin Pardoe 2017 Human occupation of northern Australia by 65,000 years ago. _Nature_ 547(7663), 306. [[DOI](https://doi.org/10.1038/nature22968)] [[code & data](https://doi.org/10.17605/OSF.IO/QWFCZ)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Clarkson_Jacobs_Marwick_2017.pdf)]
 
-Marwick, B, d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., Bollwerk, E. A., Bocinsky, R. K., Brughmans, T., Carter, A. K., Conrad, C., Contreras, D. A., Costa, S., Crema, E. R., Daggett, A., Davies, B., Drake, B. L., Dye, T. S., France, P., Fullagar, R., Giusti, D., Graham, S., Harris, M. D., Hawks, J., Health, S., Huffer, D., Kansa, E. C., Kansa, S. W., Madsen, M. E., Melcher, J., Negre, J., Neiman, F. D., Opitz, R., Orton, D. C., Przstupa, P., Raviele, M., Riel-Savatore, J., Riris, P., Romanowska, I., Smith, J., Strupler, N., Ullah, I. I., Van Vlack, H. G., VanValkenburgh, N., Watrall, E. C., Webster, C., Wells, J., Winters, J., and Wren, C. D. (2017) Open science in archaeology. _SAA Archaeological Record_, 17(4), pp. 8-14. [[PDF](http://www.saa.org/Portals/0/SAA_Record_Sept_2017_Final_LR.pdf#page=10)] [[preprint](https://osf.io/preprints/socarxiv/72n8g/)] 
+Marwick, B, d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., Bollwerk, E. A., Bocinsky, R. K., Brughmans, T., Carter, A. K., Conrad, C., Contreras, D. A., Costa, S., Crema, E. R., Daggett, A., Davies, B., Drake, B. L., Dye, T. S., France, P., Fullagar, R., Giusti, D., Graham, S., Harris, M. D., Hawks, J., Health, S., Huffer, D., Kansa, E. C., Kansa, S. W., Madsen, M. E., Melcher, J., Negre, J., Neiman, F. D., Opitz, R., Orton, D. C., Przstupa, P., Raviele, M., Riel-Savatore, J., Riris, P., Romanowska, I., Smith, J., Strupler, N., Ullah, I. I., Van Vlack, H. G., VanValkenburgh, N., Watrall, E. C., Webster, C., Wells, J., Winters, J., and Wren, C. D. (2017) Open science in archaeology. _SAA Archaeological Record_, 17(4), pp. 8-14. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2017_SAA_Record_Sept.pdf)] [[preprint](https://osf.io/preprints/socarxiv/72n8g/)] 
 
 Eglen, S. J., Marwick, B., Halchenko, Y. O., Hanke, M., Sufi, S., Gleeson, P., ... & Wachtler, T. (2017). Toward standard practices for sharing computer code and programs in neuroscience. _Nature Neuroscience_ 20(6), 770-773. [[DOI](http://doi.org/10.1038/nn.4550)] [[preprint](https://doi.org/10.1101/045104)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Eglen_Marwick_et_al_2017_sharing_code.pdf)] 
 
