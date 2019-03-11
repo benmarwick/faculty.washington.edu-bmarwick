@@ -42,6 +42,8 @@ Bulbeck, D., S., O'Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B.
 
 <h2>2018</h2>  
 
+Marwick, B. (2018) R Coding and Modelling. _The Encyclopedia of Archaeological Sciences_. Edited by Sandra L. López Varela. John Wiley & Sons, Inc. [[DOI](https://doi.org/10.1002/9781119188230.saseas0631)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2018-R-Coding-and-Modeling-The-Encyclopedia-of-Archaeological-Sciences.pdf)]
+
 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_  [[DOI](https://doi.org/10.1038/s41586-018-0710-1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-Zhang-2018-Levallois-SW-China-paper-SI.pdf)]
 
 Marwick, B. (2018) Review of "Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling by Marieka Brouwer Burg, Hans Peeters, and William A. Lovis, eds.," _Journal of Anthropological Research_ 74, no. 3 (Fall): 424-425.
