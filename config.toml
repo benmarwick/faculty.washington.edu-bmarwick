@@ -245,11 +245,6 @@ defaultContentLanguageInSubdir = false
     link = "https://www.researchgate.net/profile/Ben_Marwick2"
     
   [[params.social]]
-    icon = "google-plus"
-    icon_pack = "fa"
-    link = "https://www.google.com/+BenMarwick"
-    
-  [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
     link = "https://www.facebook.com/benmarwick"
@@ -268,6 +263,11 @@ defaultContentLanguageInSubdir = false
     icon = "osf"
     icon_pack = "ai"
     link = "https://osf.io/xh5qn/"
+    
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "https://arxiv.org/search/?searchtype=author&query=Marwick%2C+B"
     
   [[params.social]]
     icon = "figshare"
