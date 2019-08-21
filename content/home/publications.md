@@ -38,16 +38,28 @@ exclude_selected = false
 
 <h2>2019</h2> 
 
+Marwick, B. L. Wang, R. P. Robinson, H. Loiselle (2019) How to use replication assignments for teaching integrity in empirical archaeology. SocArXiv pre-print [socarxiv:tsxbv](https://osf.io/preprints/socarxiv/tsxbv/)
+
+Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Science. SocArXiv pre-print [socarxiv:4nkxv](https://osf.io/preprints/socarxiv/4nkxv/)
+
+Gray, C. T. and B. Marwick (2019) Truth, Proof, and Reproducibility: There's no counter-attack for the codeless
+arXiv preprint [arXiv:1907.05947](https://arxiv.org/abs/1907.05947)
+
+Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick 2019. “Particle Formation in a Complex Environment.” _Atmosphere_ 10(5): 275. [[DOI](https://doi.org/10.3390/atmos10050275)] 
+
 Bulbeck, D., S., O'Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B. Hakim and U. Wibowo (2019) Patterned and Plain Baked Clay in Pre-Pottery Contexts from Southeast Sulawesi, Indonesia. _Antiquity_ [[DOI](https://doi.org/10.17605/OSF.IO/JN5TU)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs)]
+
+Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. 2019 pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ 49, 262-270 [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
 
 <h2>2018</h2>  
 
 Marwick, B. (2018) R Coding and Modelling. _The Encyclopedia of Archaeological Sciences_. Edited by Sandra L. López Varela. John Wiley & Sons, Inc. [[DOI](https://doi.org/10.1002/9781119188230.saseas0631)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2018-R-Coding-and-Modeling-The-Encyclopedia-of-Archaeological-Sciences.pdf)]
 
+Nüst, D. C Boettiger, B Marwick (2018) How to Read a Research Compendium. arXiv preprint [arXiv:1806.09525](https://arxiv.org/abs/1806.09525v1)
+
 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_  [[DOI](https://doi.org/10.1038/s41586-018-0710-1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-Zhang-2018-Levallois-SW-China-paper-SI.pdf)]
 
-Marwick, B. (2018) Review of "Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling by Marieka Brouwer Burg, Hans Peeters, and William A. Lovis, eds.," _Journal of Anthropological Research_ 74, no. 3 (Fall): 424-425.
-[[DOI](https://doi.org/10.1086/698916)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/marwick-2018-review-uncertainty.pdf)]
+Marwick, B. (2018) Review of "Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling by Marieka Brouwer Burg, Hans Peeters, and William A. Lovis, eds.," _Journal of Anthropological Research_ 74, no. 3 (Fall): 424-425. [[DOI](https://doi.org/10.1086/698916)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/marwick-2018-review-uncertainty.pdf)]
 
 Dominick, D., Wilson, S. R., Paton-Walsh, C., Humphries, R., Guérette, E.-A., Keywood, M.,... Marwick, B. (2018). Characteristics of airborne particle number size distributions in a coastal-urban environment. _Atmospheric Environment_, 186, 256–265. [[DOI](https://doi.org/10.1016/j.atmosenv.2018.05.031)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Dominic-et-al-2018-atmostpheric.pdf)]
 
@@ -58,8 +70,6 @@ Fullagar, L. J. Arnold & Q. Hua 2018 Reply to comments on Clarkson et al. (2017)
 ‘Human occupation of northern Australia by 65,000 years ago’, _Australian Archaeology_ [[DOI](https://doi.org/10.1080/03122417.2018.1462884)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Clarkson-Roberts-Jacobs-Marwick-et-al-2018-AA-reply.pdf)] [[code & data](https://osf.io/qydc9/)]
 
 Marwick, B., & Birch, S. 2018 A Standard for the Scholarly Citation of Archaeological Data as an Incentive to Data Sharing. _Advances in Archaeological Practice_ 1-19. [[DOI](https://doi.org/10.1017/aap.2018.3)] [[preprint](https://osf.io/preprints/socarxiv/py4hz/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-and-Pilaar-Birch-2018-Data-Citation-AAP.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/KSRUZ)]
-
-Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. 2018 pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
 
 Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) _Lithic Technological Organization and Paleoenvironmental Change_ Springer. pp. 63-78 [[DOI](https://doi.org/10.1007/978-3-319-64407-3_4)] [[preprint](https://doi.org/10.17605/OSF.IO/9PT8G)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/robinson_sellet_2017_lithic_tech_org_paleoenviron_change.pdf)]
 
