@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Ben Marwick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/bmarwick/home/index.xml" rel="self" type="application/rss+xml" />
@@ -33,6 +33,24 @@
     </item>
     
     <item>
+      <title>Posts</title>
+      <link>/bmarwick/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bmarwick/home/posts/</guid>
+      <description>19 Aug 2019 How to make the data and code for your manuscript available to peer reviewers before making it public. Blog post for Cambridge University Press on the Cambridge Core Blog. It’s no surprise to any internet user that the way we communicate is rapidly changing. For example, in the distant past, we learned the news of the world by reading a few paragraphs of tiny text in hard copies of newspapers.</description>
+    </item>
+    
+    <item>
+      <title>Interviews and media mentions</title>
+      <link>/bmarwick/home/press/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bmarwick/home/press/</guid>
+      <description>18 Jun 2019 A “petting zoo for code” makes studies easier to reproduce: A new tool helps users to compose, compute and publish reproducible articles. by Jeffrey M. Perkel, published in Nature Index. &amp;ldquo;The result, says Ben Marwick, an archeologist and reproducibility advocate at the University of Washington in Seattle, who has used Code Ocean to publish his computing environments, is like a computational “petting zoo” &amp;ndash; a platform for making code and data available to the scientific community for interactive exploration, validation and modification.</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>/bmarwick/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
@@ -41,16 +59,7 @@
       <description>2019 Marwick, B. L. Wang, R. P. Robinson, H. Loiselle (2019) How to use replication assignments for teaching integrity in empirical archaeology. SocArXiv pre-print socarxiv:tsxbv
 Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Science. SocArXiv pre-print socarxiv:4nkxv
 Gray, C. T. and B. Marwick (2019) Truth, Proof, and Reproducibility: There&amp;rsquo;s no counter-attack for the codeless arXiv preprint arXiv:1907.05947
-Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick 2019.</description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/bmarwick/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/bmarwick/home/posts/</guid>
-      <description></description>
+Marwick, B. and L. Wang (2019) How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science.</description>
     </item>
     
     <item>
@@ -79,15 +88,6 @@ ARCHY 109 Archaeology in Film Deals with depictions of archaeology by and for no
       
       <guid>/bmarwick/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/bmarwick/home/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/bmarwick/home/publications/</guid>
-      <description>publications.utf8.md /*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */ !function(a,b){&#34;object&#34;==typeof module&amp;&amp;&#34;object&#34;==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error(&#34;jQuery requires a window with a document&#34;);return b(a)}:b(a)}(&#34;undefined&#34;!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l=&#34;1.11.3&#34;,m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:&#34;&#34;,length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0a?b:0);return this.pushStack(c=0&amp;&amp;bc?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for(&#34;boolean&#34;==typeof g&amp;&amp;(j=g,g=arguments[h]||{},h++),&#34;object&#34;==typeof g||m.isFunction(g)||(g={}),h===i&amp;&amp;(g=this,h--);ih;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&amp;&amp;(j&amp;&amp;c&amp;&amp;(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&amp;&amp;m.isArray(a)?a:[]):f=a&amp;&amp;m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&amp;&amp;(g[d]=c));return g},m.extend({expando:&#34;jQuery&#34;+(l+Math.random()).replace(/\D/g,&#34;&#34;),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return&#34;function&#34;===m.type(a)},isArray:Array.isArray||function(a){return&#34;array&#34;===m.type(a)},isWindow:function(a){return null!=a&amp;&amp;a==a.window},isNumeric:function(a){return!m.isArray(a)&amp;&amp;a-parseFloat(a)+1=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||&#34;object&#34;!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&amp;&amp;!j.call(a,&#34;constructor&#34;)&amp;&amp;!j.call(a.constructor.prototype,&#34;isPrototypeOf&#34;))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+&#34;&#34;:&#34;object&#34;==typeof a||&#34;function&#34;==typeof a?h[i.call(a)]||&#34;object&#34;:typeof a},globalEval:function(b){b&amp;&amp;m.trim(b)&amp;&amp;(a.execScript||function(b){a.eval.call(a,b)})(b)},camelCase:function(a){return a.</description>
     </item>
     
   </channel>

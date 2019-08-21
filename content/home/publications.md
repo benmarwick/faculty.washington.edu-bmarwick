@@ -45,6 +45,8 @@ Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Scie
 Gray, C. T. and B. Marwick (2019) Truth, Proof, and Reproducibility: There's no counter-attack for the codeless
 arXiv preprint [arXiv:1907.05947](https://arxiv.org/abs/1907.05947)
 
+Marwick, B. and L. Wang (2019) How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. SocArXiv pre-print [socarxiv:s8z6u](https://osf.io/preprints/socarxiv/s8z6u)
+
 Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick 2019. “Particle Formation in a Complex Environment.” _Atmosphere_ 10(5): 275. [[DOI](https://doi.org/10.3390/atmos10050275)] 
 
 Bulbeck, D., S., O'Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B. Hakim and U. Wibowo (2019) Patterned and Plain Baked Clay in Pre-Pottery Contexts from Southeast Sulawesi, Indonesia. _Antiquity_ [[DOI](https://doi.org/10.17605/OSF.IO/JN5TU)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs)]
