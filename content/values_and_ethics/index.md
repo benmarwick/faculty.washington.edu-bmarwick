@@ -201,7 +201,7 @@ Archaeological fieldwork can be exciting as well as physically and mentally chal
 
   I will not engage in behaviour that compromises the wellbeing, equality, security or dignity of other human beings. I recognise that if I am implicated in such behaviour I will be required to leave the project at my own expense and may be subject to criminal investigation.
 
-  If I witness others being subjected to such behaviour, I will report it immediately to my direct supervisor. If I feel I cannot speak to my direct supervisor, I will report it to the 2nd identified lead. If I feel I cannot report it to either my direct supervisor or the 2nd lead, then I will contact the University of York Department of Archaeology’s Manager.
+  If I witness others being subjected to such behaviour, I will report it immediately to my direct supervisor. If I feel I cannot speak to my direct supervisor,If I feel I cannot speak to my direct supervisor, then I will contact the University of Washington's Department of Anthropology Chair.
 
   If I myself feel unsafe or uncomfortable, I will report it immediately to my direct supervisor. My supervisor will support me and will implement actions to keep me safe while working to stop the behaviour. If I feel I cannot speak to my direct supervisor,  then I will contact the University of Washington's Department of Anthropology Chair.
 
@@ -227,3 +227,5 @@ Register of Professional Archaeologists Code of Conduct:
 Sexual Harassment. Retrieved January 8, 2019, from  http://rpanet.org/?page=RPACodeSexualHarassm
 
 Southeastern Archaeology (2017) SEAC Task Force on Sexual Harassment and Assault Report and Resources.  Retrieved January 8, 2019, from https://www.southeasternarchaeology.org/sexual-harassment-task-force/
+
+<!-- add section on TA -->
