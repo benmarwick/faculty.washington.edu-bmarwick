@@ -7,6 +7,7 @@ comments: false  # Show comments?
 date: "2019-08-20T00:00:00"
 showdate: false
 type: "widget_page"  # Page type is a Widget Page
+toc: true
 ---
 
 # Expectations and Responsibilities
@@ -165,6 +166,8 @@ While I may be sending this email outside my normal office hours, I have no expe
 
 It is part of my job (and, thankfully, quite often a pleasure) to write letters of recommendation for students. Please give me as much notice as possible, and make sure I know the deadline, format (electronic? printed?), official name of the organization, what you are applying for, and so on. Please also send along a current CV. If you are an undergraduate, please remind me what class you took with me, and in what year and quarter, and I will write your letters on my own. For more senior lab members, I will also write your letters on my own, but please send me some bullet points to focus my letter on. The first few times you do this it will probably feel awkward. However, keep in mind that your goal is to make it as easy as possible for a letter writer (in this case, me) to complete the task by the deadline and without error. This is extremely helpful in jogging my memory and will give me more time to focus on saying good things about you. Don’t worry about being too 'braggy'; I have no problem toning things down if need be. Like everything else, communication is key, and when in doubt, ask!
 
+## Ethics
+
 #### Code Ethics
 
 I endorse the [Code is Science Manifesto](http://sciencecodemanifesto.org/) and the [Science Code Manifesto](http://sciencecodemanifesto.org/). I prefer open code over closed (all source code written specifically to process data for a published paper must be available to the reviewers and readers of the paper), recognise that incorrect code results in incorrect science, try to follow good coding practices from the start of the project, prefer availability over perfection (the copyright ownership and license of any released source code must be clearly stated), and that code deserves credit.
@@ -173,13 +176,13 @@ I endorse the [Code is Science Manifesto](http://sciencecodemanifesto.org/) and 
 
 I support the [The Denton Declaration](https://openaccess.unt.edu/denton-declaration) and the [Panton Principles](https://pantonprinciples.org/): Open access to research data is critical for advancing science, scholarship, and society. Research data, when repurposed, has an accretive value. Publicly funded research should be publicly available for public good. Transparency in research is essential to sustain the public trust. The validation of research data by the peer community is an essential function of the responsible conduct of research. Managing research data is the responsibility of a broad community of stakeholders including researchers, funders, institutions, libraries, archivists, and the public. 
 
-#### Publishing Ethics
+#### Authorship Ethics
 
 It is important that all authors on a paper deserve the credit. I follow the [ICMJE guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two) and use the [CRediT](https://www.casrai.org/credit.html) (Contributor Roles Taxonomy) for determining when co-authorship is warranted. I encourage my students to use these guidelines when working with others. I support the [Bullied Into Bad Science](http://bulliedintobadscience.org/) campaign to provide a fairer, more open and ethical research and publication environment for early career researchers.
 
 #### Reviewing Ethics
 
-In my peer reviews of scholarly literature I follow the guidelines of the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). This means that I cannot recommend a paper for publication unless data and materials are (or will be at the time of publication) openly available at a trustworthy online repository. I support the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/) and make assessments based on scientific content rather than publication metrics. In my reviews I aim to follow [two rules](https://drive.google.com/drive/u/1/folders/0B87CmPqGXTzlN0hHVDNuNEhZZWs): Say what is good about a piece of work, and say how it can be improved. I encourage my students to use these guidelines when doing their own peer reviews.
+My approach to peer review is based on the [ethical guidelines for peer reviewers by COPE](https://publicationethics.org/resources/guidelines-new/cope-ethical-guidelines-peer-reviewers). I use the [COPE flowchart](https://publicationethics.org/resources/flowcharts/what-consider-when-asked-peer-review-manuscript) when responding to invitations to peer review. In my peer reviews of scholarly literature I follow the guidelines of the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). This means that I cannot recommend a paper for publication unless data and materials are (or will be at the time of publication) openly available at a trustworthy online repository. I support the [San Francisco Declaration on Research Assessment](https://sfdora.org/read/) and make assessments based on scientific content rather than publication metrics. In my reviews I aim to follow [two rules](https://drive.google.com/drive/u/1/folders/0B87CmPqGXTzlN0hHVDNuNEhZZWs): Say what is good about a piece of work, and say how it can be improved. I encourage my students to use these guidelines when doing their own peer reviews.
 
 ## Field research expectations for students
 
