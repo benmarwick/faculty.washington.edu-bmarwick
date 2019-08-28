@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Values_and_ethics on Ben Marwick</title>
-    <link>/bmarwick/values_and_ethics/</link>
-    <description>Recent content in Values_and_ethics on Ben Marwick</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/bmarwick/values_and_ethics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Statement of professional values, ethics, and expectations</title>
-      <link>/bmarwick/values_and_ethics/values_and_ethics/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/bmarwick/values_and_ethics/values_and_ethics/</guid>
-      <description>Code of Conduct for the UW Geoarchaeology Laboratory and Field Research Projects This document is primarily aimed at graduate students pursuing a PhD or masters degree. Some sections are also relevant to undergraduates, please ask if you have questions about what parts are appropriate to you.
-Purpose This document should be viewed as a tool to initiate discussion during the early stages of the graduate program, with an awareness that the relationship and expectations will evolve with time.</description>
-    </item>
+    <title>Ben Marwick</title>
+    <link>/values_and_ethics/</link>
+      <atom:link href="/values_and_ethics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Marwick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/portrait.jpg</url>
+      <title>Ben Marwick</title>
+      <link>/values_and_ethics/</link>
+    </image>
     
   </channel>
 </rss>
