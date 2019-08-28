@@ -3,59 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/values_and_ethics/</loc>
+    <loc>/bmarwick/values_and_ethics/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>/bmarwick/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>/bmarwick/authors/</loc>
   </url>
   
   <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>/bmarwick/</loc>
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/bmarwick/categories/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/bmarwick/courses/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/bmarwick/post/</loc>
   </url>
   
   <url>
-    <loc>/courses/</loc>
+    <loc>/bmarwick/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/bmarwick/publication/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/bmarwick/tags/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/geoarchaeology/</loc>
+    <loc>/bmarwick/geoarchaeology/</loc>
   </url>
   
 </urlset>

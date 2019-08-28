@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ben Marwick</title>
-    <link>/values_and_ethics/</link>
-      <atom:link href="/values_and_ethics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/bmarwick/values_and_ethics/</link>
+      <atom:link href="/bmarwick/values_and_ethics/index.xml" rel="self" type="application/rss+xml" />
     <description>Ben Marwick</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>/bmarwick/img/portrait.jpg</url>
       <title>Ben Marwick</title>
-      <link>/values_and_ethics/</link>
+      <link>/bmarwick/values_and_ethics/</link>
     </image>
     
   </channel>

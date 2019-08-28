@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Ben Marwick</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/bmarwick/authors/</link>
+      <atom:link href="/bmarwick/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>/bmarwick/img/portrait.jpg</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>/bmarwick/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>/bmarwick/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>/bmarwick/authors/admin/</guid>
       <description>&lt;p&gt;I am an Associate Professor of &lt;a href=&#34;http://depts.washington.edu/anthweb/archaeology&#34;&gt;Archaeology&lt;/a&gt;. My other local affiliations include the &lt;a href=&#34;http://escience.washington.edu/&#34;&gt;eScience Institute&lt;/a&gt;, &lt;a href=&#34;http://www.washington.edu/burkemuseum/&#34;&gt;the Burke Museum&lt;/a&gt;, the &lt;a href=&#34;http://www.csss.washington.edu/&#34;&gt;Center for Statistics and Social Sciences&lt;/a&gt;, the &lt;a href=&#34;http://depts.washington.edu/qrc/&#34;&gt;Quaternary Research Center&lt;/a&gt;, and the &lt;a href=&#34;https://jsis.washington.edu/seac/&#34;&gt;Southeast Asia Center&lt;/a&gt;.&lt;br /&gt;
 &lt;p&gt;
 My main research activities combine models from evolutionary ecology with analyses of archaeological evidence to investigate past human behaviour. Specific interests include hominin dispersals into mainland Southeast Asia, forager technologies and ecology in Australia, mainland Southeast Asia and elsewhere. I analyse how archaeology engages with local and online communities, and with popular culture. I am also interested in techniques and methods for reproducible research and open science. I supervise the geoarchaeology laboratory.&lt;/p&gt;&lt;/p&gt;

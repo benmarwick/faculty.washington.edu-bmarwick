@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Ben Marwick</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/bmarwick/publication/</link>
+      <atom:link href="/bmarwick/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/portrait.jpg</url>
+      <url>/bmarwick/img/portrait.jpg</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>/bmarwick/publication/</link>
     </image>
     
   </channel>
