@@ -10,6 +10,7 @@ weight = 1
     name = "Expectations and Responsibilities"
     weight = 1
 +++
+<script src="https://hypothes.is/embed.js" async></script>
 
 ## Big Picture
 

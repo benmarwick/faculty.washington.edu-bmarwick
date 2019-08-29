@@ -11,6 +11,7 @@ weight = 10
     name = "Field research expectations for students"
     weight = 2
 +++
+<script src="https://hypothes.is/embed.js" async></script>
 
 Archaeological fieldwork can be exciting as well as physically and mentally challenging. My fieldwork is often in remote locations with limited access to clean water, electricity, internet connectivity, and comfortable places to sit or sleep. Because of these limitations, it may not be possible to make accommodations for students with disabilities during field research, please discuss your needs with me in advance. Despite the challenging conditions, field research can be great fun, and an excellent learning experience. Here are my expectations for students joining me in field research (adapted from [Sara Perry](https://saraperry.wordpress.com/2018/05/04/fieldwork-code-of-conduct/)):
 

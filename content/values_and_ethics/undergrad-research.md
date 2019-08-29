@@ -10,6 +10,7 @@ weight = 10
     name = "Undergraduate research"
     weight = 8
 +++
+<script src="https://hypothes.is/embed.js" async></script>
 
 Undergraduate researchers play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one quarter volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to me because we want all students to be able to pursue their research interests.
 

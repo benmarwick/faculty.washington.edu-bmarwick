@@ -10,6 +10,7 @@ weight = 10
     name = "Communicating"
     weight = 2
 +++
+<script src="https://hypothes.is/embed.js" async></script>
 
 # Here are some general rules of thumb to guide our communications:
 

@@ -10,6 +10,7 @@ weight = 10
     name = "Policies and Guidelines"
     weight = 3
 +++
+<script src="https://hypothes.is/embed.js" async></script>
 
 ## Accommodations for students with disabilities
 

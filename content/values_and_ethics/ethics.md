@@ -10,6 +10,7 @@ weight = 10
     name = "Ethics"
     weight = 9
 +++
+<script src="https://hypothes.is/embed.js" async></script>
 
 
 

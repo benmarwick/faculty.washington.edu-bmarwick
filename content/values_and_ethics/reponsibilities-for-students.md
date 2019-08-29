@@ -11,6 +11,7 @@ weight = 10
     name = "Responsibilities for graduate and undergraduate students"
     weight = 1
 +++
+<script src="https://hypothes.is/embed.js" async></script>
 
 ## As a graduate student, it is your responsibility to:
 

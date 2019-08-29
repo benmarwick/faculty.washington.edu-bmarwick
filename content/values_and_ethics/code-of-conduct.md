@@ -10,6 +10,7 @@ weight = 10
     name = "Code of Conduct"
     weight = 2
 +++
+<script src="https://hypothes.is/embed.js" async></script>
  
 This document is primarily aimed at graduate students pursuing a PhD or masters degree. Some sections are also relevant to undergraduates, please ask if you have questions about what parts are appropriate to you.
 
