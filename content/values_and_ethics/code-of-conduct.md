@@ -26,7 +26,7 @@ We value the participation of every member of our community and want to ensure t
 
 To make clear what is expected, all participants (including myself) must conform to the following Code of Conduct:
 
-Ben Marwick, as head of the UW Geoarchaeology Laboratory and director of field research projects, and participants, are dedicated to a harassment-free experience for everyone, regardless of age, disability, gender, gender identity and expression, national origin, physical appearance, religion, relationship status, or sexual orientation. Harassment includes offensive comments related to age, body size, deliberate intimidation, disability, gender, gender identity and expression, physical appearance, race, religion, relationship status, or sexual orientation. Harassment also includes unwanted following, harassing photography or recording, inappropriate physical contact, stalking, sexual images in public spaces, sustained disruption of talks or other events, and unwelcome sexual attention. We do not tolerate harassment by and/or of members of our community in any form.
+Ben Marwick, as head of the UW Geoarchaeology Laboratory and director of field research projects, and participants, are dedicated to a harassment-free experience for everyone, regardless of age, disability, gender, gender identity and expression, national origin, physical appearance, religion, relationship status, or sexual orientation. Harassment includes offensive comments related to age, body size, deliberate intimidation, disability, gender, gender identity and expression, physical appearance, race, religion, relationship status, or sexual orientation. Harassment also includes discouraging comments, excessive negative comments, harassing photography or recording, inappropriate physical contact, personalisation of critique, stalking, sexual images in public spaces, sustained disruption of talks or other events, unwanted following, and unwelcome sexual attention. We do not tolerate harassment by and/or of members of our community in any form.
 
 **In summary:**  
 
@@ -43,5 +43,5 @@ Participants who violate these rules – no matter how much they have contribute
 To report violation, you can do any of the following:
 
 - Please feel free to talk to me or other UW faculty person.   
-- Report to the the [Chair of the Anthropology Department](https://anthropology.washington.edu/contact) or the [University of Washington ombud office](https://www.washington.edu/ombud/).   
+- Report to the [Chair of the Anthropology Department](https://anthropology.washington.edu/contact) or the [University of Washington ombud office](https://www.washington.edu/ombud/).   
 - Make an anonymous report and get advice from the [UW SafeCampus Office](http://www.washington.edu/safecampus/) 

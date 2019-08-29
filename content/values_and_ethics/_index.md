@@ -13,7 +13,9 @@ On these pages I have documented some of my professional values, expectations, a
 
 The goal of having these documents is to help us manage our expectations so we can enjoy our learning and research work while minimizing misunderstandings and bad assumptions. If you are a student, these are the documents that we start with when we discuss our expectations in greater detail. 
 
-Most of the content is adapted from the sources acknowledged below, so these are mostly professional norms in adademia that are typical and widely held. Although not of the content here is original, it does truly express my values, ethics and expectations, and I refer to these documents regularly when working with students.
+Most of the content is adapted from the sources acknowledged below, so these are mostly professional norms in adademia that are typical and widely held. Although not of the content here is original, it does truly express my values, ethics and expectations, and I refer to these documents regularly when working with students. 
+
+<!-- You can highlight and annotate the text on these pages by selecting it. We can view all public annotations here: https://hypothes.is/search?q=url%3Ahttp%3A%2F%2Ffaculty.washington.edu%2Fbmarwick%2F* -->
 
 ## Acknowledgements
 

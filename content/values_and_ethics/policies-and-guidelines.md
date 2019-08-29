@@ -14,7 +14,7 @@ weight = 10
 
 ## Accommodations for students with disabilities
 
-For students with disabilities or specific medical needs, we will meet to discuss what accommodations should to be made to your work schedule or lab responsibilities to facilitate your productivity in the lab without compromising on your physical or mental health. Before we talk, you should have already made contact with the [UW Disability Resources for Students (DRS) Unit](http://depts.washington.edu/uwdrs/). If changes in your needs occur over time, we will meet again to revise this accommodation. My aim is to prioritize your health for the good of the lab community.
+For students with disabilities or specific medical needs, we will meet to discuss what accommodations should  be made to your work schedule or lab responsibilities to facilitate your productivity in the lab without compromising on your physical or mental health. Before we talk, you should have already made contact with the [UW Disability Resources for Students (DRS) Unit](http://depts.washington.edu/uwdrs/). If changes in your needs occur over time, we will meet again to revise this accommodation. My aim is to prioritize your health for the good of the lab community.
 
 ## Meetings 
 
