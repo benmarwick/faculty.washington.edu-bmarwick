@@ -66,6 +66,7 @@ subtitle = "Plain English essays for diverse audiences"
  css_class = ""
 +++
 
+29 Aug 2019 **Surveying archaeologists across the globe reveals deeper and more widespread roots of the human age, the Anthropocene** [_The Conversation_](https://theconversation.com/surveying-archaeologists-across-the-globe-reveals-deeper-and-more-widespread-roots-of-the-human-age-the-anthropocene-122008) with Erle C. Ellis, Lucas Stephens, and Nicole Boivin. Think the anthropocene age started with plastics or nuclear testing? Think again. Surveying archaeologists around the globe underscores for how long and how widely people have been changing Earth. 
 
 19 Aug 2019 **How to make the data and code for your manuscript available to peer reviewers before making it public.** Blog post for Cambridge University Press on the [Cambridge Core Blog](https://www.cambridge.org/core/blog/2019/08/19/how-to-make-the-data-and-code-for-your-manuscript-available-to-peer-reviewers-before-making-it-public/). It’s no surprise to any internet user that the way we communicate is rapidly changing. For example, in the distant past, we learned the news of the world by reading a few paragraphs of tiny text in hard copies of newspapers. For especially newsworthy events we got a black and white photo or two. Nowadays, we are accustomed to news websites that transmit distant events to us with full color video, images, infographics, and a stream of live tweets. Just as news broadcasting is changing, so has scholarly communication.
 

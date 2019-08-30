@@ -69,6 +69,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2019</h2> 
 
+Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, B., [...] Ellis, E. (2019). Archaeological assessment reveals Earth’s early transformation through land use. _Science_, 365(6456), 897–902. [[DOI](https://doi.org/10.1126/science.aax1192) [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stephens-et-al-2019-10.1126-science.aax1192.pdf)]
+
 Marwick, B. L. Wang, R. P. Robinson, H. Loiselle (2019) How to use replication assignments for teaching integrity in empirical archaeology. SocArXiv pre-print [socarxiv:tsxbv](https://osf.io/preprints/socarxiv/tsxbv/)
 
 Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Science. SocArXiv pre-print [socarxiv:4nkxv](https://osf.io/preprints/socarxiv/4nkxv/)
