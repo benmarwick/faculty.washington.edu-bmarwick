@@ -22,14 +22,14 @@ weight = 10
 * **Participate in the intellectual life of our local academic community.** This means regularly attending talks and seminars in our program. It also means asking questions and joining in the discussion during research presentations by other scholars, including your peers.
 * **Do some soul-searching as to what type of career you want to pursue**, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.
 * **Stay up-to-date** (and keep me up-to-date, I will be happy to hear from you!) on any deadlines that you need to meet to fulfill departmental requirements. I welcome gentle reminders if the deadline is approaching and you haven't heard from me.
-* **Prioritize time for your dissertation research**. It is easy to get caught up in coursework or TA-ing, but eventually you need to have completed a dissertation.
+* **Prioritize time for your dissertation research**. It is easy to get caught up in coursework or TA-ing, but eventually you need to have completed a dissertation. Actively [manage your time effectively](https://www.nature.com/articles/d41586-019-00973-6) and [manage your project](https://www.nature.com/articles/d41586-018-07860-6) to get your dissertation done. 
 
 ## As an undergraduate student doing independent research with me, it is your responsibility to:
 
 * **Communicate often**. This includes face-to-face meetings, email and other methods. I expect to hear from you in some way every week. Reach out with questions as soon as they pop up. Send a follow-up message if I don't reply in three days, I welcome gentle reminders. I'm always thrilled to receive your updates.
 * **Set specific goals**. We will discuss the overall objective of your research, and we will negotiate how to divide this up into smaller tasks. You will organise your time to accomplish these tasks, and communicate with me if there are unexpected changes to your schedule.
 * **Take detailed notes**. Keep a record of your work in a place we can both see it, such as a Google Doc or on GitHub. Update your notes weekly or more often. Keep notes about what we talk about when we meet.
-* **Participate in the UW Undergraduate Research Symposium*. This is an excellent way to show the results of your efforts in a way that your friends and family can enjoy also.
+* **Participate in the UW Undergraduate Research Symposium**. This is an excellent way to show the results of your efforts in a way that your friends and family can enjoy also.
 * **Be responsive to advice and constructive criticism**. The feedback you get from me and your course instructors is intended to improve you. Provide feedback on my mentoring to you. Not everyone has the same mentoring needs and personalities, so there will inevitably be places where my efforts do not line up with your preferences. I am not infallible, but can only make adjustments when I know that they are needed.
 
 ## As a PI, it is my responsibility to:

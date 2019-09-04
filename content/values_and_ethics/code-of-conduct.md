@@ -28,15 +28,22 @@ To make clear what is expected, all participants (including myself) must conform
 
 Ben Marwick, as head of the UW Geoarchaeology Laboratory and director of field research projects, and participants, are dedicated to a harassment-free experience for everyone, regardless of age, disability, gender, gender identity and expression, national origin, physical appearance, religion, relationship status, or sexual orientation. Harassment includes offensive comments related to age, body size, deliberate intimidation, disability, gender, gender identity and expression, physical appearance, race, religion, relationship status, or sexual orientation. Harassment also includes discouraging comments, excessive negative comments, harassing photography or recording, inappropriate physical contact, personalisation of critique, stalking, sexual images in public spaces, sustained disruption of talks or other events, unwanted following, and unwelcome sexual attention. We do not tolerate harassment by and/or of members of our community in any form.
 
+In order to foster a positive and professional learning and research environment we encourage the following kinds of behaviours in all activities and communication platforms:
+
+- Use welcoming, supportive, and inclusive language   
+- Be respectful of different viewpoints and experiences    
+- Gracefully accept constructive criticism    
+- Focus on what is best for all participants    
+- Show courtesy and respect towards all participants   
+
 **In summary:**  
 
 - All communication – online and in person – should be appropriate for a professional audience including people of many different backgrounds.  
 - Be kind and respectful to others and their opinions.  
 - Behave professionally.  
 - Do not insult or put down other lab members. Your ideas are not more valuable than others'.
-- Remember that harassment and sexist, racist, or exclusionary jokes will not be tolerated in this space.
-- Sexual language and imagery is not appropriate at any time.    
-
+- Remember that harassment and sexist, racist, or exclusionary jokes, languagege or imagery is not acceptable and will not be tolerated in this space.
+ 
 Participants asked to stop any harassing or disrespectful behavior are expected to comply immediately.
 Participants who violate these rules – no matter how much they have contributed to the UW Geoarchaeology Laboratory or field research projects, or how specialized their skill set – will need to meet with Ben and/or other faculty and staff. If inappropriate behaviour persists after a discussion with Ben, the perpetuator will be asked to discontinue their participation.
 

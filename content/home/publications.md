@@ -108,9 +108,9 @@ Marwick, B., & Birch, S. 2018 A Standard for the Scholarly Citation of Archaeolo
 
 Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) _Lithic Technological Organization and Paleoenvironmental Change_ Springer. pp. 63-78 [[DOI](https://doi.org/10.1007/978-3-319-64407-3_4)] [[preprint](https://doi.org/10.17605/OSF.IO/9PT8G)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/robinson_sellet_2017_lithic_tech_org_paleoenviron_change.pdf)]
 
-<h2>2017</h2>  
+Marwick, B., Boettiger, C., & Mullen, L. 2018 Packaging data analytical work reproducibly using R (and friends). _The American Statistician_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)] [[DOI](https://doi.org/10.1080/00031305.2017.1375986)] [[preprint](https://doi.org/10.7287/peerj.preprints.3192v1)] 
 
-Marwick, B., Boettiger, C., & Mullen, L. 2017 Packaging data analytical work reproducibly using R (and friends). _The American Statistician_  [[DOI](https://doi.org/10.1080/00031305.2017.1375986)] [[preprint](https://doi.org/10.7287/peerj.preprints.3192v1)] 
+<h2>2017</h2>  
 
 Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. 2017 Landform boundary effects on Holocene forager landscape use in arid South Australia. _Journal of Archaeological Science: Reports_.  [[DOI](http://doi.org/10.1016/j.jasrep.2017.07.004)] [[preprint](https://doi.org/10.17605/OSF.IO/V2MS9)] [[code & data](https://doi.org/10.17605/OSF.IO/EDZXS)]
 
