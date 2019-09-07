@@ -16,7 +16,7 @@ weight = 10
 
 ## Code Ethics
 
-I endorse the [Code is Science Manifesto](http://sciencecodemanifesto.org/) and the [Science Code Manifesto](http://sciencecodemanifesto.org/). I prefer open code over closed (all source code written specifically to process data for a published paper must be available to the reviewers and readers of the paper), recognise that incorrect code results in incorrect science, try to follow good coding practices from the start of the project, prefer availability over perfection (the copyright ownership and license of any released source code must be clearly stated), and that code deserves credit.
+I endorse the [Code is Science Manifesto](http://sciencecodemanifesto.org/) and the [Science Code Manifesto](http://sciencecodemanifesto.org/). I prefer open code over closed (all source code written specifically to process data for a published paper must be available to the reviewers and readers of the paper), recognise that incorrect code results in incorrect science, try to follow good coding practices from the start of the project, prefer availability over perfection (the copyright ownership and license of any released source code must be clearly stated), and that code deserves credit. I support publication of research software packages, for example in [Journal of Open Source Software](https://joss.theoj.org/), and recommend the [rOpenSci Guide to R Package Development, Maintenance, and Peer Review](https://devguide.ropensci.org/)
 
 ## Data Ethics
 
