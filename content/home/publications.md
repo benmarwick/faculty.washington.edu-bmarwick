@@ -69,22 +69,21 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2019</h2> 
 
+Bulbeck, D., O’Connor, S., Fakhri, Fenner, J. N., Marwick, B., Suryatman, Wibowo, U. P. (2019). Patterned and plain baked clay from pre-pottery contexts in Southeast Sulawesi, Indonesia. _Antiquity_, 1–19. [[DOI](https://doi.org/10.15184/aqy.2019.134)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck-et-al-2019-baked-clay-Antiquity.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/JN5TU)]
+
 Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, B., [...] Ellis, E. (2019). Archaeological assessment reveals Earth’s early transformation through land use. _Science_, 365(6456), 897–902. [[DOI](https://doi.org/10.1126/science.aax1192)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stephens-et-al-2019-10.1126-science.aax1192.pdf)] [[code & data](https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE)]
 
 Marwick, B. L. Wang, R. P. Robinson, H. Loiselle (2019) How to use replication assignments for teaching integrity in empirical archaeology. SocArXiv pre-print [socarxiv:tsxbv](https://osf.io/preprints/socarxiv/tsxbv/)
 
 Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Science. SocArXiv pre-print [socarxiv:4nkxv](https://osf.io/preprints/socarxiv/4nkxv/)
 
-Gray, C. T. and B. Marwick (2019) Truth, Proof, and Reproducibility: There's no counter-attack for the codeless
-arXiv preprint [arXiv:1907.05947](https://arxiv.org/abs/1907.05947)
+Gray, C. T. and B. Marwick (2019) Truth, Proof, and Reproducibility: There's no counter-attack for the codeless. arXiv preprint [arXiv:1907.05947](https://arxiv.org/abs/1907.05947)
 
 Marwick, B. and L. Wang (2019) How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. SocArXiv pre-print [socarxiv:s8z6u](https://osf.io/preprints/socarxiv/s8z6u)
 
-Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick 2019. “Particle Formation in a Complex Environment.” _Atmosphere_ 10(5): 275. [[DOI](https://doi.org/10.3390/atmos10050275)] 
+Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick (2019). “Particle Formation in a Complex Environment.” _Atmosphere_ 10(5): 275. [[DOI](https://doi.org/10.3390/atmos10050275)] 
 
-Bulbeck, D., S., O'Connor, Fakhri, J. Fenner, B. Marwick, Suryatman, F. Aziz, B. Hakim and U. Wibowo (2019) Patterned and Plain Baked Clay in Pre-Pottery Contexts from Southeast Sulawesi, Indonesia. _Antiquity_ [[DOI](https://doi.org/10.17605/OSF.IO/JN5TU)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs)]
-
-Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. 2019 pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ 49, 262-270 [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
+Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. (2019) pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ 49, 262-270 [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
 
 <h2>2018</h2>  
 
