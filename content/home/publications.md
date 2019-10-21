@@ -69,9 +69,13 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2019</h2> 
 
-Bulbeck, D., O’Connor, S., Fakhri, Fenner, J. N., Marwick, B., Suryatman, Wibowo, U. P. (2019). Patterned and plain baked clay from pre-pottery contexts in Southeast Sulawesi, Indonesia. _Antiquity_, 1–19. [[DOI](https://doi.org/10.15184/aqy.2019.134)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck-et-al-2019-baked-clay-Antiquity.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/JN5TU)]
+Marwick, B. (2019). Galisonian logic devices and data availability: Revitalising Upper Palaeolithic cultural taxonomies. _Antiquity_, 93(371), 1365-1367. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2019-galisonian_logic_devices.pdf)] [[DOI](https://doi.org/10.15184/aqy.2019.131)] [[preprint](https://osf.io/preprints/socarxiv/v8dej/)]
+
+Bulbeck, D., O’Connor, S., Fakhri, Fenner, J. N., Marwick, B., Suryatman, Wibowo, U. P. (2019). Patterned and plain baked clay from pre-pottery contexts in Southeast Sulawesi, Indonesia. _Antiquity_, 93(371), 1284-1302 [[DOI](https://doi.org/10.15184/aqy.2019.134)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck-et-al-2019-baked-clay-Antiquity.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/JN5TU)]
 
 Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, B., [...] Ellis, E. (2019). Archaeological assessment reveals Earth’s early transformation through land use. _Science_, 365(6456), 897–902. [[DOI](https://doi.org/10.1126/science.aax1192)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stephens-et-al-2019-10.1126-science.aax1192.pdf)] [[code & data](https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE)]
+
+Marwick, B. (2019) Over research and ethics dumping in international archaeology. SocArXiv pre-print [socarxiv:7cb5q](https://osf.io/preprints/socarxiv/7cb5q/)
 
 Marwick, B. L. Wang, R. P. Robinson, H. Loiselle (2019) How to use replication assignments for teaching integrity in empirical archaeology. SocArXiv pre-print [socarxiv:tsxbv](https://osf.io/preprints/socarxiv/tsxbv/)
 
@@ -139,7 +143,7 @@ Suryatman, S., O'Connor, S., Bulbeck, D., Marwick, B., Oktaviana, A. A., & Wibow
 
 Aplin, K., Sue O’Connor, David Bulbeck, Philip J. Piper, Ben Marwick, Emma St Pierre, Fadhila Aziz 2016 The Walandawe Tradition from Southeast Sulawesi and Osseous Artifact Traditions in Island Southeast Asia. In Michelle C. Langley (ed) _Osseous Projectile Weaponry: Towards an Understanding of Pleistocene Cultural Variability_. Vertebrate Paleobiology and Paleoanthropology Series, Springer. pp 189-208 [[DOI](https://doi.org/10.1007/978-94-024-0899-7)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Langley_2016_Osseous_Projectile_Weaponry.pdf)]
 
-Bulbeck, D., F.A. Aziz, S. O'connor, A. Calo, J.N. Fenner, B. Marwick, J. Feathers 2016 Mortuary Caves and the Dammar Trade in the Towuti–Routa Region, Sulawesi, in an Island Southeast Asian Context. _Asian Perspectives_ 55 (2), 148-183 [[DOI](https://doi.org/10.1353/asi.2016.0017)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck_et_al_2016_Dammar.pdf)]
+Bulbeck, D., F.A. Aziz, S. O'Connor, A. Calo, J.N. Fenner, B. Marwick, J. Feathers 2016 Mortuary Caves and the Dammar Trade in the Towuti–Routa Region, Sulawesi, in an Island Southeast Asian Context. _Asian Perspectives_ 55 (2), 148-183 [[DOI](https://doi.org/10.1353/asi.2016.0017)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck_et_al_2016_Dammar.pdf)]
 
 Marwick, B., C. Clarkson, S. O'Connor, S. Collins 2016 Early modern human lithic technology from Jerimalai, East Timor. _Journal of Human Evolution_ 101, 45-64 [[DOI](http://dx.doi.org/10.1016/j.jhevol.2016.09.004)] [[PDF](https://www.academia.edu/attachments/50244374/download_file?st=MTQ4Mzk2NTUzOSwyMDMuMjEzLjc3LjExNCwzMTMwNA)] [[Code & Data](http://dx.doi.org/10.6084/m9.figshare.985406)]
 
