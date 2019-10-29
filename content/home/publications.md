@@ -66,18 +66,20 @@ subtitle = "Scholarly publications & pre-prints"
  css_class = ""
 +++
 
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h2>2019</h2> 
 
-Marwick, B. (2019). Galisonian logic devices and data availability: Revitalising Upper Palaeolithic cultural taxonomies. _Antiquity_, 93(371), 1365-1367. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2019-galisonian_logic_devices.pdf)] [[DOI](https://doi.org/10.15184/aqy.2019.131)] [[preprint](https://osf.io/preprints/socarxiv/v8dej/)]
+Marwick, B., Wang, L.-Y., Robinson, R., & Loiselle, H. (2019) How to Use Replication Assignments for Teaching Integrity in Empirical Archaeology. _Advances in Archaeological Practice_, 1–9. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2019_AAP_how_to_use_replication_assignments_for_teaching_integrity_in_empirical_archaeology.pdf)] [[DOI](https://doi.org/10.1017/aap.2019.38)] [[preprint](https://osf.io/preprints/socarxiv/tsxbv/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aap.2019.38" class="altmetric-embed" style="display: inline"></span>
 
-Bulbeck, D., O’Connor, S., Fakhri, Fenner, J. N., Marwick, B., Suryatman, Wibowo, U. P. (2019). Patterned and plain baked clay from pre-pottery contexts in Southeast Sulawesi, Indonesia. _Antiquity_, 93(371), 1284-1302 [[DOI](https://doi.org/10.15184/aqy.2019.134)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck-et-al-2019-baked-clay-Antiquity.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/JN5TU)]
+Marwick, B. (2019). Galisonian logic devices and data availability: Revitalising Upper Palaeolithic cultural taxonomies. _Antiquity_, 93(371), 1365-1367. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2019-galisonian_logic_devices.pdf)] [[DOI](https://doi.org/10.15184/aqy.2019.131)] [[preprint](https://osf.io/preprints/socarxiv/v8dej/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2019.131" class="altmetric-embed" style="display: inline"></span>
 
-Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, B., [...] Ellis, E. (2019). Archaeological assessment reveals Earth’s early transformation through land use. _Science_, 365(6456), 897–902. [[DOI](https://doi.org/10.1126/science.aax1192)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stephens-et-al-2019-10.1126-science.aax1192.pdf)] [[code & data](https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE)]
+Bulbeck, D., O’Connor, S., Fakhri, Fenner, J. N., Marwick, B., Suryatman, Wibowo, U. P. (2019). Patterned and plain baked clay from pre-pottery contexts in Southeast Sulawesi, Indonesia. _Antiquity_, 93(371), 1284-1302 [[DOI](https://doi.org/10.15184/aqy.2019.134)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck-et-al-2019-baked-clay-Antiquity.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/JN5TU)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2019.134" class="altmetric-embed" style="display: inline"></span>
+
+Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, B., [...] Ellis, E. (2019). Archaeological assessment reveals Earth’s early transformation through land use. _Science_, 365(6456), 897–902. [[DOI](https://doi.org/10.1126/science.aax1192)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stephens-et-al-2019-10.1126-science.aax1192.pdf)] [[code & data](https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1126/science.aax1192" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. (2019) Over research and ethics dumping in international archaeology. SocArXiv pre-print [socarxiv:7cb5q](https://osf.io/preprints/socarxiv/7cb5q/)
-
-Marwick, B. L. Wang, R. P. Robinson, H. Loiselle (2019) How to use replication assignments for teaching integrity in empirical archaeology. SocArXiv pre-print [socarxiv:tsxbv](https://osf.io/preprints/socarxiv/tsxbv/)
 
 Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Science. SocArXiv pre-print [socarxiv:4nkxv](https://osf.io/preprints/socarxiv/4nkxv/)
 
@@ -85,9 +87,9 @@ Gray, C. T. and B. Marwick (2019) Truth, Proof, and Reproducibility: There's no 
 
 Marwick, B. and L. Wang (2019) How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. SocArXiv pre-print [socarxiv:s8z6u](https://osf.io/preprints/socarxiv/s8z6u)
 
-Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick (2019). “Particle Formation in a Complex Environment.” _Atmosphere_ 10(5): 275. [[DOI](https://doi.org/10.3390/atmos10050275)] 
+Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick (2019). “Particle Formation in a Complex Environment.” _Atmosphere_ 10(5): 275. [[DOI](https://doi.org/10.3390/atmos10050275)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/atmos10050275" class="altmetric-embed" style="display: inline"></span>
 
-Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. (2019) pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ 49, 262-270 [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)]
+Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts, R. G. (2019) pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves–First luminescence ages for Myanmar. _Quaternary Geochronology_ 49, 262-270 [[DOI](https://doi.org/10.1016/j.quageo.2018.01.001)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quageo.2018.01.001" class="altmetric-embed" style="display: inline"></span>
 
 <h2>2018</h2>  
 
@@ -95,7 +97,7 @@ Marwick, B. (2018) R Coding and Modelling. _The Encyclopedia of Archaeological S
 
 Nüst, D. C Boettiger, B Marwick (2018) How to Read a Research Compendium. arXiv preprint [arXiv:1806.09525](https://arxiv.org/abs/1806.09525v1)
 
-Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_  [[DOI](https://doi.org/10.1038/s41586-018-0710-1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-Zhang-2018-Levallois-SW-China-paper-SI.pdf)]
+Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_  [[DOI](https://doi.org/10.1038/s41586-018-0710-1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-Zhang-2018-Levallois-SW-China-paper-SI.pdf)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41586-018-0710-1" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. (2018) Review of "Uncertainty and Sensitivity Analysis in Archaeological Computational Modeling by Marieka Brouwer Burg, Hans Peeters, and William A. Lovis, eds.," _Journal of Anthropological Research_ 74, no. 3 (Fall): 424-425. [[DOI](https://doi.org/10.1086/698916)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/marwick-2018-review-uncertainty.pdf)]
 
@@ -107,23 +109,24 @@ Clarkson, Chris, R. G. Roberts, Z. Jacobs, B. Marwick, R.
 Fullagar, L. J. Arnold & Q. Hua 2018 Reply to comments on Clarkson et al. (2017)
 ‘Human occupation of northern Australia by 65,000 years ago’, _Australian Archaeology_ [[DOI](https://doi.org/10.1080/03122417.2018.1462884)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Clarkson-Roberts-Jacobs-Marwick-et-al-2018-AA-reply.pdf)] [[code & data](https://osf.io/qydc9/)]
 
-Marwick, B., & Birch, S. 2018 A Standard for the Scholarly Citation of Archaeological Data as an Incentive to Data Sharing. _Advances in Archaeological Practice_ 1-19. [[DOI](https://doi.org/10.1017/aap.2018.3)] [[preprint](https://osf.io/preprints/socarxiv/py4hz/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-and-Pilaar-Birch-2018-Data-Citation-AAP.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/KSRUZ)]
+Marwick, B., & Birch, S. 2018 A Standard for the Scholarly Citation of Archaeological Data as an Incentive to Data Sharing. _Advances in Archaeological Practice_ 1-19. [[DOI](https://doi.org/10.1017/aap.2018.3)] [[preprint](https://osf.io/preprints/socarxiv/py4hz/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-and-Pilaar-Birch-2018-Data-Citation-AAP.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/KSRUZ)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aap.2018.3" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. 2018 The Hoabinhian of Southeast Asia and its Relationship to Regional Pleistocene Lithic Technologies. In Robinson, Erick, Sellet, Frederic (Eds.) _Lithic Technological Organization and Paleoenvironmental Change_ Springer. pp. 63-78 [[DOI](https://doi.org/10.1007/978-3-319-64407-3_4)] [[preprint](https://doi.org/10.17605/OSF.IO/9PT8G)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/robinson_sellet_2017_lithic_tech_org_paleoenviron_change.pdf)]
 
-Marwick, B., Boettiger, C., & Mullen, L. 2018 Packaging data analytical work reproducibly using R (and friends). _The American Statistician_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)] [[DOI](https://doi.org/10.1080/00031305.2017.1375986)] [[preprint](https://doi.org/10.7287/peerj.preprints.3192v1)] 
+Marwick, B., Boettiger, C., & Mullen, L. 2018 Packaging data analytical work reproducibly using R (and friends). _The American Statistician_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Boettiger-Mullen-2018-TAS-research-compendia.pdf)] [[DOI](https://doi.org/10.1080/00031305.2017.1375986)] [[preprint](https://doi.org/10.7287/peerj.preprints.3192v1)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/00031305.2017.1375986" class="altmetric-embed" style="display: inline"></span>
 
 <h2>2017</h2>  
 
 Marwick, B., Hiscock, P., Sullivan, M., & Hughes, P. 2017 Landform boundary effects on Holocene forager landscape use in arid South Australia. _Journal of Archaeological Science: Reports_.  [[DOI](http://doi.org/10.1016/j.jasrep.2017.07.004)] [[preprint](https://doi.org/10.17605/OSF.IO/V2MS9)] [[code & data](https://doi.org/10.17605/OSF.IO/EDZXS)]
 
-Clarkson, Chris, Zenobia Jacobs , Ben Marwick , Richard Fullagar , Lynley Wallis , Mike Smith , Richard Roberts , Elspeth Hayes , Kelsey Lowe , Xavier Carah , S. Anna Florin , Jessica McNeil , Lee Arnold , Quan Hua , Jillian Huntley , Helen Brand , Andrew Fairbairn , Kate Connell , Kasih Norman , Tiina Manne , James Shulmeister , Tessa Murphy , Lindsey Lyle , Makiah Salinas , Gayoung Park , Mara Page , Colin Pardoe 2017 Human occupation of northern Australia by 65,000 years ago. _Nature_ 547(7663), 306. [[DOI](https://doi.org/10.1038/nature22968)] [[code & data](https://doi.org/10.17605/OSF.IO/QWFCZ)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Clarkson_Jacobs_Marwick_2017.pdf)]
+Clarkson, Chris, Zenobia Jacobs , Ben Marwick , Richard Fullagar , Lynley Wallis , Mike Smith , Richard Roberts , Elspeth Hayes , Kelsey Lowe , Xavier Carah , S. Anna Florin , Jessica McNeil , Lee Arnold , Quan Hua , Jillian Huntley , Helen Brand , Andrew Fairbairn , Kate Connell , Kasih Norman , Tiina Manne , James Shulmeister , Tessa Murphy , Lindsey Lyle , Makiah Salinas , Gayoung Park , Mara Page , Colin Pardoe 2017 Human occupation of northern Australia by 65,000 years ago. _Nature_ 547(7663), 306. [[DOI](https://doi.org/10.1038/nature22968)] [[code & data](https://doi.org/10.17605/OSF.IO/QWFCZ)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Clarkson_Jacobs_Marwick_2017.pdf)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/nature22968" class="altmetric-embed" style="display: inline"></span>
+
 
 Marwick, B, d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Bevan, A., Bollwerk, E. A., Bocinsky, R. K., Brughmans, T., Carter, A. K., Conrad, C., Contreras, D. A., Costa, S., Crema, E. R., Daggett, A., Davies, B., Drake, B. L., Dye, T. S., France, P., Fullagar, R., Giusti, D., Graham, S., Harris, M. D., Hawks, J., Health, S., Huffer, D., Kansa, E. C., Kansa, S. W., Madsen, M. E., Melcher, J., Negre, J., Neiman, F. D., Opitz, R., Orton, D. C., Przstupa, P., Raviele, M., Riel-Savatore, J., Riris, P., Romanowska, I., Smith, J., Strupler, N., Ullah, I. I., Van Vlack, H. G., VanValkenburgh, N., Watrall, E. C., Webster, C., Wells, J., Winters, J., and Wren, C. D. (2017) Open science in archaeology. _SAA Archaeological Record_, 17(4), pp. 8-14. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2017_SAA_Record_Sept.pdf)] [[preprint](https://osf.io/preprints/socarxiv/72n8g/)] 
 
-Eglen, S. J., Marwick, B., Halchenko, Y. O., Hanke, M., Sufi, S., Gleeson, P., ... & Wachtler, T. (2017). Toward standard practices for sharing computer code and programs in neuroscience. _Nature Neuroscience_ 20(6), 770-773. [[DOI](http://doi.org/10.1038/nn.4550)] [[preprint](https://doi.org/10.1101/045104)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Eglen_Marwick_et_al_2017_sharing_code.pdf)] 
+Eglen, S. J., Marwick, B., Halchenko, Y. O., Hanke, M., Sufi, S., Gleeson, P., ... & Wachtler, T. (2017). Toward standard practices for sharing computer code and programs in neuroscience. _Nature Neuroscience_ 20(6), 770-773. [[DOI](http://doi.org/10.1038/nn.4550)] [[preprint](https://doi.org/10.1101/045104)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Eglen_Marwick_et_al_2017_sharing_code.pdf)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1101/045104" class="altmetric-embed" style="display: inline"></span>
 
-Marwick, B. 2017 Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. _Journal of Archaeological Method and Theory_ 24(2), 424-450. [[DOI](http://doi.org/10.1007/s10816-015-9272-9)] [[preprint](https://osf.io/preprints/socarxiv/q4v73)] [[code & data]](https://doi.org/10.6084/m9.figshare.1563661)
+Marwick, B. 2017 Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. _Journal of Archaeological Method and Theory_ 24(2), 424-450. [[DOI](http://doi.org/10.1007/s10816-015-9272-9)] [[preprint](https://osf.io/preprints/socarxiv/q4v73)] [[code & data]](https://doi.org/10.6084/m9.figshare.1563661) <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s10816-015-9272-9" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B., Hayes, E., Clarkson, C., & Fullagar, R. 2017 Movement of lithics by trampling: An experiment in the Madjedbebe sediments, northern Australia. _Journal of Archaeological Science_ 79, 73-85. [[DOI](http://dx.doi.org/10.1016/j.jas.2017.01.008)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/7A6H6)] [[code & data]](https://doi.org/10.17605/OSF.IO/32A87)
 
