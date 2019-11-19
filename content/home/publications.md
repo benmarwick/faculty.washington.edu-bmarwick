@@ -71,6 +71,9 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h2>2019</h2> 
 
+Yue Hu, Ben Marwick, Jia-Fu Zhang, Xue Rui, Ya-Mei Hou, Wen-Rong Chen, Wei-Wen Huang, Bo Li (2019)
+Robust technological readings identify integrated structures typical of the Levallois concept in Guanyindong Cave, South China _National Science Review_ [[DOI](https://doi.org/10.1093/nsr/nwz192)]
+
 Marwick, B., Wang, L.-Y., Robinson, R., & Loiselle, H. (2019) How to Use Replication Assignments for Teaching Integrity in Empirical Archaeology. _Advances in Archaeological Practice_, 1–9. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2019_AAP_how_to_use_replication_assignments_for_teaching_integrity_in_empirical_archaeology.pdf)] [[DOI](https://doi.org/10.1017/aap.2019.38)] [[preprint](https://osf.io/preprints/socarxiv/tsxbv/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aap.2019.38" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. (2019). Galisonian logic devices and data availability: Revitalising Upper Palaeolithic cultural taxonomies. _Antiquity_, 93(371), 1365-1367. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2019-galisonian_logic_devices.pdf)] [[DOI](https://doi.org/10.15184/aqy.2019.131)] [[preprint](https://osf.io/preprints/socarxiv/v8dej/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2019.131" class="altmetric-embed" style="display: inline"></span>
