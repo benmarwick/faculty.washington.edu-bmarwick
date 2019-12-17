@@ -69,6 +69,10 @@ subtitle = "Scholarly publications & pre-prints"
 <script id="altmetric-embed-js" type="text/javascript"
 src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<h2>2020</h2> 
+
+Hayes, E., R. Fullagar, B. Marwick (2020) Australian Usewear/Residue Studies, Artefact Design and Multi-purpose Tools. In: Juan F. Gibaja, Joao Marreiros, Niccolò Mazzucco, Ignacio Clemente (eds)  _Hunter-Gatherers’ Tool-Kit: A Functional Perspective_. Cambridge Scholars Publishing. [[code & data](https://osf.io/mybg2/)]
+
 <h2>2019</h2> 
 
 Yue Hu, Ben Marwick, Jia-Fu Zhang, Xue Rui, Ya-Mei Hou, Wen-Rong Chen, Wei-Wen Huang, Bo Li (2019)
@@ -132,7 +136,7 @@ Marwick, B. 2017 Computational reproducibility in archaeological research: Basic
 
 Marwick, B., Hayes, E., Clarkson, C., & Fullagar, R. 2017 Movement of lithics by trampling: An experiment in the Madjedbebe sediments, northern Australia. _Journal of Archaeological Science_ 79, 73-85. [[DOI](http://dx.doi.org/10.1016/j.jas.2017.01.008)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/7A6H6)] [[code & data]](https://doi.org/10.17605/OSF.IO/32A87)
 
-Marwick, B., Van Vlack, H. G., Conrad, C., Shoocongdej, R., Thongcharoenchaikit, C., & Kwak, S. 2017 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand. _Journal of Archaeological Science_ 77, 94-108. [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[code & data]](https://dx.doi.org/10.6084/m9.figshare.2065602)
+Marwick, B., Van Vlack, H. G., Conrad, C., Shoocongdej, R., Thongcharoenchaikit, C., & Kwak, S. 2017 Adaptations to sea level change and transitions to agriculture at Khao Toh Chong rockshelter, Peninsular Thailand. _Journal of Archaeological Science_ 77, 94-108. [[DOI](http://dx.doi.org/10.1016/j.jas.2016.10.010)] [[code & data]](https://dx.doi.org/10.6084/m9.figshare.2065602) <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2016.10.010" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. and B. Bouasisengpaseuth 2017 The History and Practice of Archaeology in Laos. In Junko Habu, Peter Lape, John Olsen and Jing Zhichun (eds) _Handbook of East and Southeast Asian Archaeology._ Springer, New York, NY. p. 89-95  [[DOI](https://doi.org/10.1007/978-1-4939-6521-2_8)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/75ZHC)] 
 
