@@ -39,5 +39,5 @@ There are a few day-to-day things to keep in mind to keep lab and field research
 - Be on time for your meetings with me and others: respect that others have packed days and everyone’s time is valuable.
 - Make sure the door to the lab is locked if no one is inside. Turn off the lights if you’re the last one leaving for the day. Check any equipment that you've been using and ensure it's safe to leave it. 
 - Keep the lab and field research areas tidy. It's not safe to eat in the lab, but drinks with lids on them are fine. Put lab equipment back where you found it. Keep common areas uncluttered.
-- Dress code is casual (and you can dress up if you want!) but not too casual. Ensure you have appropriate personal protective equipment, minimally long pants, enclosed shoes, a lab coat and safety classes.
+- Dress code is casual (and you can dress up if you want!) but not too casual. Ensure you have appropriate personal protective equipment, minimally long pants, enclosed shoes, a lab coat and safety glasses.
 

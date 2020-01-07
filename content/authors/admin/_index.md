@@ -55,7 +55,7 @@ social:
   link: "https://figshare.com/authors/Ben_Marwick/437155"
 - icon: publons
   icon_pack: ai
-  link: "https://publons.com/a/427449/"
+  link: "https://publons.com/researcher/427449/ben-marwick/peer-review/"
 - icon: wikipedia-w
   icon_pack: fab
   link: "https://en.wikipedia.org/wiki/User:Comtebenoit"
@@ -70,4 +70,4 @@ user_groups:
 
 I am an Associate Professor of <a href="http://depts.washington.edu/anthweb/archaeology">Archaeology</a>. My other local affiliations include the <a href="http://escience.washington.edu/">eScience Institute</a>, <a href="http://www.washington.edu/burkemuseum/">the Burke Museum</a>, the <a href="http://www.csss.washington.edu/">Center for Statistics and Social Sciences</a>, the <a href="http://depts.washington.edu/qrc/">Quaternary Research Center</a>, and the <a href="https://jsis.washington.edu/seac/">Southeast Asia Center</a>.  
 <p>
-My main research activities combine models from evolutionary ecology with analyses of archaeological evidence to investigate past human behaviour. Specific interests include hominin dispersals into mainland Southeast Asia, forager technologies and ecology in Australia, mainland Southeast Asia and elsewhere. I analyse how archaeology engages with local and online communities, and with popular culture. I am also interested in techniques and methods for reproducible research and open science. I supervise the geoarchaeology laboratory.</p>
+My main research activities combine models from evolutionary ecology with analyses of archaeological evidence to investigate past human behaviour. Specific interests include hominin dispersals into mainland Southeast Asia, forager technologies and ecology in Australia, mainland Southeast Asia and elsewhere. I analyse how archaeology engages with local and online communities, and with popular culture. I am also interested in techniques and methods for <a href="http://uwescience.github.io/reproducible/">reproducible research and open science</a>. I supervise the geoarchaeology laboratory.</p>
