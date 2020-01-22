@@ -75,7 +75,9 @@ Hayes, E., R. Fullagar, B. Marwick (2020) Australian Usewear/Residue Studies, Ar
 
 <h2>2019</h2> 
 
-Yue Hu, Qijun Ruan, Jianhu Liu, Ben Marwick, Bo Li (2019) Luminescence chronology and lithic technology of Tianhuadong Cave, an early Upper Pleistocene Paleolithic site in southwest China. _Quaternary Research_ [[DOI](http://doi.org/10.1017/qua.2019.67)] 
+Gray, C. T., & Marwick, B. (2019). Truth, Proof, and Reproducibility: There’s No Counter-Attack for the Codeless. In H. Nguyen (Ed.), _Communications in Computer and Information Science 1150: Statistics and Data Science_ (pp. 111–129). Springer. [[DOI](https://doi.org/10.1007/978-981-15-1960-4_8)] [[arXiv preprint arXiv:1907.05947](https://arxiv.org/abs/1907.05947)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Gray-and-Marwick-2019.pdf)] [[code & data](https://github.com/softloud/proof)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/978-981-15-1960-4_8" class="altmetric-embed" style="display: inline"></span>
+
+Yue Hu, Qijun Ruan, Jianhu Liu, Ben Marwick, Bo Li (2019) Luminescence chronology and lithic technology of Tianhuadong Cave, an early Upper Pleistocene Paleolithic site in southwest China. _Quaternary Research_ [[DOI](http://doi.org/10.1017/qua.2019.67)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-et-al-2019-QR.pdf)] 
 
 Yue Hu, Ben Marwick, Jia-Fu Zhang, Xue Rui, Ya-Mei Hou, Wen-Rong Chen, Wei-Wen Huang, Bo Li (2019)
 Robust technological readings identify integrated structures typical of the Levallois concept in Guanyindong Cave, South China _National Science Review_ [[DOI](https://doi.org/10.1093/nsr/nwz192)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/nsr/nwz192" class="altmetric-embed" style="display: inline"></span>
@@ -91,8 +93,6 @@ Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, 
 Marwick, B. (2019) Over research and ethics dumping in international archaeology. SocArXiv pre-print [socarxiv:7cb5q](https://osf.io/preprints/socarxiv/7cb5q/)
 
 Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Science. SocArXiv pre-print [socarxiv:4nkxv](https://osf.io/preprints/socarxiv/4nkxv/)
-
-Gray, C. T. and B. Marwick (2019) Truth, Proof, and Reproducibility: There's no counter-attack for the codeless. arXiv preprint [arXiv:1907.05947](https://arxiv.org/abs/1907.05947)
 
 Marwick, B. and L. Wang (2019) How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. SocArXiv pre-print [socarxiv:s8z6u](https://osf.io/preprints/socarxiv/s8z6u)
 

@@ -20,7 +20,7 @@ This document should be viewed as a tool to initiate discussion during the early
 
 ## The code
 
-The UW Geoarchaeology Laboratory and Ben Marwick's field research projects and on campus class communities are committed to a harassment-free policy
+The UW Geoarchaeology Laboratory and Ben Marwick's field research projects and on-campus class communities are committed to a harassment-free policy
 
 We value the participation of every member of our community and want to ensure that every member has an enjoyable and fulfilling learning and working experience. Accordingly, everyone who participates is expected to show respect and courtesy to other participants at all times.
 
