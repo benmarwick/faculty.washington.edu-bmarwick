@@ -71,6 +71,8 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h2>2020</h2> 
 
+Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological Science. _Journal of Computer Applications in Archaeology_, 3(1), pp.18–32. [[DOI](http://doi.org/10.5334/jcaa.29)] [[code & data](http://doi.org/10.17605/OSF.IO/RHVN5)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.5334/jcaa.29" class="altmetric-embed" style="display: inline"></span>
+
 Hayes, E., R. Fullagar, B. Marwick (2020) Australian Usewear/Residue Studies, Artefact Design and Multi-purpose Tools. In: Juan F. Gibaja, Joao Marreiros, Niccolò Mazzucco, Ignacio Clemente (eds)  _Hunter-Gatherers’ Tool-Kit: A Functional Perspective_. Cambridge Scholars Publishing. [[code & data](https://osf.io/mybg2/)]
 
 <h2>2019</h2> 
@@ -91,8 +93,6 @@ Bulbeck, D., O’Connor, S., Fakhri, Fenner, J. N., Marwick, B., Suryatman, Wibo
 Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, B., [...] Ellis, E. (2019). Archaeological assessment reveals Earth’s early transformation through land use. _Science_, 365(6456), 897–902. [[DOI](https://doi.org/10.1126/science.aax1192)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stephens-et-al-2019-10.1126-science.aax1192.pdf)] [[code & data](https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1126/science.aax1192" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. (2019) Over research and ethics dumping in international archaeology. SocArXiv pre-print [socarxiv:7cb5q](https://osf.io/preprints/socarxiv/7cb5q/)
-
-Schmidt, S. and B. Marwick (2019) Tool-driven Revolutions in Archaeological Science. SocArXiv pre-print [socarxiv:4nkxv](https://osf.io/preprints/socarxiv/4nkxv/)
 
 Marwick, B. and L. Wang (2019) How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. SocArXiv pre-print [socarxiv:s8z6u](https://osf.io/preprints/socarxiv/s8z6u)
 
