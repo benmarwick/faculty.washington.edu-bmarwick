@@ -71,6 +71,8 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h2>2020</h2> 
 
+Nüst, Daniel, Dirk Eddelbuettel, Dom Bennett, Robrecht Cannoodt, Dav Clark, Gergely Daroczi, Mark Edmondson, Colin Fay, Ellis Hughes, Sean Lopp, Ben Marwick, Heather Nolis, Jacqueline Nolis, Hong Ooi, Karthik Ram, Noam Ross, Lori Shepherd, Nitesh Turaga, Craig Willis, Nan Xiao, Charlotte Van Petegem (2020). The Rockerverse: Packages and Applications for Containerization with R. arXiv preprint [arXiv:2001.10641](https://arxiv.org/abs/2001.10641)  <span data-badge-popover="right" data-badge-type="4" data-arxiv-id="2001.10641" class="altmetric-embed" style="display: inline"></span>
+
 Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological Science. _Journal of Computer Applications in Archaeology_, 3(1), pp.18–32. [[DOI](http://doi.org/10.5334/jcaa.29)] [[code & data](http://doi.org/10.17605/OSF.IO/RHVN5)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.5334/jcaa.29" class="altmetric-embed" style="display: inline"></span>
 
 Hayes, E., R. Fullagar, B. Marwick (2020) Australian Usewear/Residue Studies, Artefact Design and Multi-purpose Tools. In: Juan F. Gibaja, Joao Marreiros, Niccolò Mazzucco, Ignacio Clemente (eds)  _Hunter-Gatherers’ Tool-Kit: A Functional Perspective_. Cambridge Scholars Publishing. [[code & data](https://osf.io/mybg2/)]
@@ -104,7 +106,7 @@ Schaarschmidt, M., Fu, X., Li, B., Marwick, B., Khaing, K., Douka, K., & Roberts
 
 Marwick, B. (2018) R Coding and Modelling. _The Encyclopedia of Archaeological Sciences_. Edited by Sandra L. López Varela. John Wiley & Sons, Inc. [[DOI](https://doi.org/10.1002/9781119188230.saseas0631)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2018-R-Coding-and-Modeling-The-Encyclopedia-of-Archaeological-Sciences.pdf)]
 
-Nüst, D. C Boettiger, B Marwick (2018) How to Read a Research Compendium. arXiv preprint [arXiv:1806.09525](https://arxiv.org/abs/1806.09525v1)
+Nüst, D. C Boettiger, B Marwick (2018) How to Read a Research Compendium. arXiv preprint [arXiv:1806.09525](https://arxiv.org/abs/1806.09525v1) <span data-badge-popover="right" data-badge-type="4" data-arxiv-id="1806.09525" class="altmetric-embed" style="display: inline"></span>
 
 Hu, Y., Marwick, B., Zhang, J.-F., Rui, X., Hou, Y.-M., Yue, J.-P., … Li, B. (2018). Late Middle Pleistocene Levallois stone-tool technology in southwest China. _Nature_  [[DOI](https://doi.org/10.1038/s41586-018-0710-1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-Zhang-2018-Levallois-SW-China-paper-SI.pdf)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41586-018-0710-1" class="altmetric-embed" style="display: inline"></span>
 
