@@ -71,6 +71,8 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h2>2020</h2> 
 
+Riede, Felix, Astolfo G.M. Araujo Michael C. Barton Knut Andreas Bergsvik Huw S. Groucutt Shumon T. Hussain Javier Fernandez‐Lopez de Pablo Andreas Maier Ben Marwick Lydia Pyne Kathryn Ranhorn Natasha Reynolds Julien Riel‐Salvatore Florian Sauer Kamil Serwatka Annabell Zander (2020). Cultural taxonomies in the Paleolithic—Old questions, novel perspectives. _Evolutionary Anthropology_ 1–13. [[DOI](https://doi.org/10.1002/evan.21819)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1002/evan.21819" class="altmetric-embed" style="display: inline"></span>
+
 Nüst, Daniel, Dirk Eddelbuettel, Dom Bennett, Robrecht Cannoodt, Dav Clark, Gergely Daroczi, Mark Edmondson, Colin Fay, Ellis Hughes, Sean Lopp, Ben Marwick, Heather Nolis, Jacqueline Nolis, Hong Ooi, Karthik Ram, Noam Ross, Lori Shepherd, Nitesh Turaga, Craig Willis, Nan Xiao, Charlotte Van Petegem (2020). The Rockerverse: Packages and Applications for Containerization with R. arXiv preprint [arXiv:2001.10641](https://arxiv.org/abs/2001.10641)  <span data-badge-popover="right" data-badge-type="4" data-arxiv-id="2001.10641" class="altmetric-embed" style="display: inline"></span>
 
 Schmidt, S.C. and Marwick, B., (2020). Tool-Driven Revolutions in Archaeological Science. _Journal of Computer Applications in Archaeology_, 3(1), pp.18–32. [[DOI](http://doi.org/10.5334/jcaa.29)] [[code & data](http://doi.org/10.17605/OSF.IO/RHVN5)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.5334/jcaa.29" class="altmetric-embed" style="display: inline"></span>
