@@ -71,6 +71,10 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h2>2020</h2> 
 
+Marwick, B. 2020. Open access to publications to expand participation in archaeology. SocArXiv preprint [SocArXiv:v9kfy](https://osf.io/preprints/socarxiv/v9kfy/)
+
+Marwick, B. and Prema Smith 2020. World Heritage Sites on Wikipedia: Controversies in a Context of Constrained Agency for Cultural Heritage Activism. SocArXiv preprint [SocArXiv:7gvza](https://osf.io/preprints/socarxiv/7gvza/)
+
 Marwick, B. 2020. 考古学における研究成果公開の動向　－データ管理・方法の透明性・再現性 [Transparency, Reproducibility, Data Management and Methods for Archaeological Research Publications]. In 独立行政法人国立文化財機構奈良文化財研究所 2020 『デジタル技術による文化財情報の記録と利活用2』奈良文化財研究所研究報告24 [Nara Institute of Cultural Assets, National Institute of Cultural Assets, Independent Administrative Corporation 2020 "Recording and Utilization of Cultural Property Information via Digital Technologies Vol. 2 Open Science, Data Preservation, Intellectual Property, GIS" Nara Institute of Cultural Assets Research Report 24] [[DOI](http://doi.org/10.24484/sitereports.69974)] [[PDF](https://sitereports.nabunken.go.jp/files/attach/35/35324/69974_1_%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E6%8A%80%E8%A1%93%E3%81%AB%E3%82%88%E3%82%8B%E6%96%87%E5%8C%96%E8%B2%A1%E6%83%85%E5%A0%B1%E3%81%AE%E8%A8%98%E9%8C%B2%E3%81%A8%E5%88%A9%E6%B4%BB%E7%94%A82.pdf)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.24484/sitereports.69974)" class="altmetric-embed" style="display: inline"></span>
 
 Florin, S. Anna, Andrew S. Fairbairn, May Nango, Djaykuk Djandjomerr, Ben Marwick, Richard Fullagar, Mike Smith, Lynley A. Wallis & Chris Clarkson  (2020). The first Australian plant foods at Madjedbebe, 65,000–53,000 years ago. _Nature Communications_ 11, 924 [[DOI](https://doi.org/10.1038/s41467-020-14723-0)] [[code & data]( https://doi-org/10.17605/OSF.IO/YDUZP)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41467-020-14723-0" class="altmetric-embed" style="display: inline"></span>
