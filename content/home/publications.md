@@ -66,8 +66,7 @@ subtitle = "Scholarly publications & pre-prints"
  css_class = ""
 +++
 
-<script id="altmetric-embed-js" type="text/javascript"
-src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <h2>2020</h2> 
 
@@ -146,7 +145,7 @@ Marwick, B, d’Alpoim Guedes, J., Barton, C. M., Bates, L. A., Baxter, M., Beva
 
 Eglen, S. J., Marwick, B., Halchenko, Y. O., Hanke, M., Sufi, S., Gleeson, P., ... & Wachtler, T. (2017). Toward standard practices for sharing computer code and programs in neuroscience. _Nature Neuroscience_ 20(6), 770-773. [[DOI](http://doi.org/10.1038/nn.4550)] [[preprint](https://doi.org/10.1101/045104)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Eglen_Marwick_et_al_2017_sharing_code.pdf)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1101/045104" class="altmetric-embed" style="display: inline"></span>
 
-Marwick, B. 2017 Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. _Journal of Archaeological Method and Theory_ 24(2), 424-450. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick_2017_ComputationalReproducibilityIn (1).pdf)] [[DOI](http://doi.org/10.1007/s10816-015-9272-9)] [[preprint](https://osf.io/preprints/socarxiv/q4v73)] [[code & data]](https://doi.org/10.6084/m9.figshare.1563661) <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s10816-015-9272-9" class="altmetric-embed" style="display: inline"></span>
+Marwick, B. 2017 Computational reproducibility in archaeological research: Basic principles and a case study of their implementation. _Journal of Archaeological Method and Theory_ 24(2), 424-450. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick_2017_ComputationalReproducibilityIn.pdf)] [[DOI](http://doi.org/10.1007/s10816-015-9272-9)] [[preprint](https://osf.io/preprints/socarxiv/q4v73)] [[code & data]](https://doi.org/10.6084/m9.figshare.1563661) <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s10816-015-9272-9" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B., Hayes, E., Clarkson, C., & Fullagar, R. 2017 Movement of lithics by trampling: An experiment in the Madjedbebe sediments, northern Australia. _Journal of Archaeological Science_ 79, 73-85. [[DOI](http://dx.doi.org/10.1016/j.jas.2017.01.008)] [[preprint](https://dx.doi.org/10.17605/OSF.IO/7A6H6)] [[code & data]](https://doi.org/10.17605/OSF.IO/32A87) <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2017.01.008" class="altmetric-embed" style="display: inline"></span>
 
@@ -188,9 +187,9 @@ Kwak, S. and B. Marwick 2015 What did they cook? A preliminary investigation int
 
 <h2>2014</h2>
 
-<p>Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. <em>Archaeology in Oceania</em> [<a href="http://faculty.washington.edu/bmarwick/PDFs/Lowe_et_al_2014_MJB_GPR.pdf">PDF</a>] [<a href="http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract">wiley.com</a>] [<a href="https://github.com/benmarwick/Rocks-and-burials-at-Madjebebe">code & data</a>]</p> <span data-badge-popover="right" data-badge-type="4" data-doi="10.1002/arco.5039" class="altmetric-embed" style="display: inline"></span>
+<p>Lowe, K., Wallis, L., Pardoe, C., Marwick, B., Clarkson, C., Manne, T., Smith, M. and R. Fullagar 2014 Ground-penetrating radar and burial practices in western Arnhem Land, Australia. <em>Archaeology in Oceania</em> [<a href="http://faculty.washington.edu/bmarwick/PDFs/Lowe_et_al_2014_MJB_GPR.pdf">PDF</a>] [<a href="http://onlinelibrary.wiley.com/doi/10.1002/arco.5039/abstract">wiley.com</a>] [<a href="https://github.com/benmarwick/Rocks-and-burials-at-Madjebebe">code & data</a>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1002/arco.5039" class="altmetric-embed" style="display: inline"></span>
 
-<p>Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. <em>Quaternary International</em>. [<a href="http://faculty.washington.edu/bmarwick/PDFs/Mackay_et_al_2014.pdf">PDF</a>] [<a href="http://dx.doi.org/10.1016/j.quaint.2014.05.007">sciencedirect.com</a>] [<a href="https://github.com/benmarwick/Particle-size-analysis-Putslaagte-1">code & data</a>]</p> <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quaint.2014.05.007" class="altmetric-embed" style="display: inline"></span>
+<p>Mackay A, Sumner A, Jacobs Z, Marwick B, Bluff K and Shaw M 2014. Putslaagte 1 (PL1), the Doring River, and the later Middle Stone Age in southern Africa's Winter Rainfall Zone. <em>Quaternary International</em>. [<a href="http://faculty.washington.edu/bmarwick/PDFs/Mackay_et_al_2014.pdf">PDF</a>] [<a href="http://dx.doi.org/10.1016/j.quaint.2014.05.007">sciencedirect.com</a>] [<a href="https://github.com/benmarwick/Particle-size-analysis-Putslaagte-1">code & data</a>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quaint.2014.05.007" class="altmetric-embed" style="display: inline"></span>
  
 <h2>2013</h2>
 
@@ -215,7 +214,7 @@ R. Shoocongdej &amp; B. Chaisuwan 2013 Summary of Vertebrate and Molluscan Assem
 
 <p>Mackay, A. and B. Marwick 2011.&nbsp;Costs and benefits in technological decision making under variable conditions: examples from the late Pleistocene in southern Africa. In B. Marwick and A. Mackay (eds)&nbsp;<em>Keeping your Edge: Recent Approaches to the Organisation of Stone Artefact Technology</em>. BAR S2273. [<a href="http://faculty.washington.edu/bmarwick/PDFs/Mackay_and_Marwick_2011_timecost.pdf">PDF</a>]</p>
 
-<p>Marwick, B. and M. K. Gagan 2011. Late Pleistocene monsoon variability in northwest Thailand: an oxygen isotope sequence from the bivalve <em>Margaritanopsis laosensi</em><em>s</em> excavated in Mae Hong Son province.&nbsp;<em>Quaternary Science Reviews</em>&nbsp;30(21-22): 3088-3098&nbsp;[<a href="http://dx.doi.org/10.1016/j.quascirev.2011.07.007">sciencedirect.com</a>]&nbsp;[<a href="http://faculty.washington.edu/bmarwick/PDFs/Marwick_and_Gagan_2011_QSR.pdf">PDF</a>]</p>
+Marwick, B. and M. K. Gagan 2011. Late Pleistocene monsoon variability in northwest Thailand: an oxygen isotope sequence from the bivalve <em>Margaritanopsis laosensi</em><em>s</em> excavated in Mae Hong Son province.&nbsp;<em>Quaternary Science Reviews</em>&nbsp;30(21-22): 3088-3098&nbsp;[<a href="http://dx.doi.org/10.1016/j.quascirev.2011.07.007">sciencedirect.com</a>]&nbsp;[<a href="http://faculty.washington.edu/bmarwick/PDFs/Marwick_and_Gagan_2011_QSR.pdf">PDF</a>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quascirev.2011.07.007" class="altmetric-embed" style="display: inline"></span>
 
 <p>Hughes, P. P. Hiscock, M. Sullivan and B. Marwick. 2011. An outline of archaeological investigations for the Olympic Dam Expansion in arid northeast South Australia. <em>Journal of the Anthropological Society of South Australia</em> 34:21-37 [<a href="http://faculty.washington.edu/bmarwick/PDFs/Hughes_et_al_2011_[JASSA].pdf">PDF</a>]</p>
 
@@ -231,7 +230,7 @@ R. Shoocongdej &amp; B. Chaisuwan 2013 Summary of Vertebrate and Molluscan Assem
 
 <p>Marwick, B.,&nbsp;White, J.C., B. Bouasisengpaseuth&nbsp;2009. The Middle Mekong Archaeology Project and International Collaboration in Luang Prabang, Laos.&nbsp;<i>SAA Archaeological Record</i>&nbsp;9 (3) 25-27 [<a href="http://www.saa.org/AbouttheSociety/Publications/TheSAAArchaeologicalRecord/tabid/64/Default.aspx">saa.org</a>]&nbsp;[<a href="http://faculty.washington.edu/bmarwick/PDFs/Marwick_et_al_2009_MMAP.pdf" style="color: rgb(51, 51, 51);">PDF</a>]</p>
 
-<p>Marwick, B. 2009c. Biogeography of Middle Pleistocene hominins in  mainland Southeast Asia: A review of current evidence, <i>Quaternary International</i>&nbsp; 202 (2009) 51&ndash;58 [<a href="http://dx.doi.org/10.1016/j.quaint.2008.01.012">sciencedirect.com</a>] [<a href="http://faculty.washington.edu/bmarwick/PDFs/Marwick_2009_QI.pdf">PDF</a>]</p>
+<p>Marwick, B. 2009c. Biogeography of Middle Pleistocene hominins in  mainland Southeast Asia: A review of current evidence, <i>Quaternary International</i>&nbsp; 202 (2009) 51&ndash;58 [<a href="http://dx.doi.org/10.1016/j.quaint.2008.01.012">sciencedirect.com</a>] [<a href="http://faculty.washington.edu/bmarwick/PDFs/Marwick_2009_QI.pdf">PDF</a>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quaint.2008.01.012" class="altmetric-embed" style="display: inline"></span>
 
 <p>White, J.C., Lewis, H., Bouasisengpaseuth, B., Marwick, B. and K. Arrell 2009. Archaeological investigations in northern Laos: New contributions to Southeast Asian prehistory. <em>Antiquity</em> 83(319) [<a href="http://antiquity.ac.uk/projgall/white/">antiquity.ac.uk</a>]</p>
 
@@ -247,7 +246,7 @@ R. Shoocongdej &amp; B. Chaisuwan 2013 Summary of Vertebrate and Molluscan Assem
 
 <p>Marwick, B. 2008c. Beyond typologies: The reduction thesis and its implications for lithic assemblages in Southeast Asia. <i>Bulletin of the Indo-Pacific Prehistory Association</i> 28: 108-116 [<a href="http://ejournal.anu.edu.au/index.php/bippa/article/viewFile/649/637">PDF at ejournal.anu.edu.au</a>]</p>
 
-<p>Marwick, B. 2008d. What attributes are important for the measurement of assemblage reduction intensity? Results from an experimental stone artefact assemblage with relevance to the Hoabinhian of mainland Southeast Asia. <em>Journal</em> <em>of Archaeological Science</em> 35(5): 1189-1200 [<a href="http://dx.doi.org/10.1016/j.jas.2007.08.007">sciencedirect.com</a>] [<a href="/bmarwick/PDFs/experiment.pdf">PDF</a>]</p>
+<p>Marwick, B. 2008d. What attributes are important for the measurement of assemblage reduction intensity? Results from an experimental stone artefact assemblage with relevance to the Hoabinhian of mainland Southeast Asia. <em>Journal</em> <em>of Archaeological Science</em> 35(5): 1189-1200 [<a href="http://dx.doi.org/10.1016/j.jas.2007.08.007">sciencedirect.com</a>] [<a href="/bmarwick/PDFs/experiment.pdf">PDF</a>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2007.08.007" class="altmetric-embed" style="display: inline"></span>
 
 <p>Marwick, B. 2008e. Review of &quot;Genes, Culture and Human Evolution:&nbsp;A Synthesis.&quot; by Linda Stone and Paul F. Lurquin. Blackwell, Oxford, (2005). <em>The Australian Journal of Anthropology</em> 19(1): 119-121. [<a href="http://faculty.washington.edu/bmarwick/PDFs/Marwick_2008_Stone_Lurquin_Review.pdf">PDF</a>]</p>
 
@@ -271,7 +270,7 @@ R. Shoocongdej &amp; B. Chaisuwan 2013 Summary of Vertebrate and Molluscan Assem
 
 <p>Marwick, B. 2005a. The interpersonal origins of language: Social and linguistic implications of an archaeological approach to language evolution. <em>Linguistics and the Human Sciences</em> 1.2: 197-224. [<a href="http://dspace.anu.edu.au/handle/1885/43264">PDF at dspace.anu.edu.au</a>]</p>
 
-<p>Marwick, B. 2005b. Element concentrations and magnetic susceptibility of anthrosols: Indicators of prehistoric human occupation in the inland Pilbara, Western Australia. <em>Journal of Archaeological Science</em> 32: 1357-1368. [<a href="http://dx.doi.org/10.1016/j.jas.2005.03.009">sciencedirect.com</a>] [<a href="/bmarwick/PDFs/Marwick_2005_Marillana_A.pdf">PDF</a>]</p>
+<p>Marwick, B. 2005b. Element concentrations and magnetic susceptibility of anthrosols: Indicators of prehistoric human occupation in the inland Pilbara, Western Australia. <em>Journal of Archaeological Science</em> 32: 1357-1368. [<a href="http://dx.doi.org/10.1016/j.jas.2005.03.009">sciencedirect.com</a>] [<a href="/bmarwick/PDFs/Marwick_2005_Marillana_A.pdf">PDF</a>] 
 
 <p>Marwick, B. 2005c. Review of &quot;Marx's ghost: Conversations with archaeologists&quot;, by Thomas C. Patterson. Berg, Oxford. (2003). <i>Anthropological Forum</i> 15(1): 92-94 [<a href="/bmarwick/PDFs/Ghosts.pdf">PDF</a>]</p>
 
@@ -287,7 +286,7 @@ R. Shoocongdej &amp; B. Chaisuwan 2013 Summary of Vertebrate and Molluscan Assem
 
 <p>Marwick, B. 2002a. Milly's Cave: Evidence for human occupation of the Inland Pilbara during the Last Glacial Maximum. <em>Tempus</em> 7: 21-33. [<a href="http://dspace.anu.edu.au/handle/1885/42085">PDF at dspace.anu.edu.au</a>]</p>
 
-<p>Marwick, B. 2002b. Evidence of prehistoric occupation of the Abrolhos Islands, Western Australia. <em>Records of the Western Australian Museum</em> 20(4): 461-464.</p>
+<p>Marwick, B. 2002b. Evidence of prehistoric occupation of the Abrolhos Islands, Western Australia. <em>Records of the Western Australian Museum</em> 20(4): 461-464.  [<a href="http://museum.wa.gov.au/research/records-supplements/records/eocene-fossiliferous-chert-artefact-beacon-island-first-evidenc">PDF at http://museum.wa.gov.au/</a>]</p>
 
 
 
