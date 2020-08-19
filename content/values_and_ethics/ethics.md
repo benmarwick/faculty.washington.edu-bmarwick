@@ -24,7 +24,7 @@ I support the [The Denton Declaration](https://openaccess.unt.edu/denton-declara
 
 ## Authorship Ethics
 
-It is important that all authors on a paper deserve the credit. I follow the [ICMJE guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two) and use the [CRediT](https://www.casrai.org/credit.html) (Contributor Roles Taxonomy) for determining when co-authorship is warranted. I encourage my students to use these guidelines when working with others. I support the [Bullied Into Bad Science](http://bulliedintobadscience.org/) campaign to provide a fairer, more open and ethical research and publication environment for early career researchers.
+It is important that all authors on a paper deserve the credit. I follow the [ICMJE guidelines](http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html#two) and use the [CRediT](http://credit.niso.org/) (Contributor Roles Taxonomy) for determining when co-authorship is warranted. I encourage my students to use these guidelines when working with others. I support the [Bullied Into Bad Science](http://bulliedintobadscience.org/) campaign to provide a fairer, more open and ethical research and publication environment for early career researchers.
 
 ## Reviewing Ethics
 
