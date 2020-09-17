@@ -70,7 +70,7 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2020</h2> 
 
-Wang, L. and B. Marwick 2020. Investigating shape standardization using geometric morphometry of pottery from Iron Age northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Wang-and-Marwick-2020-KWL-pottery-shape.pdf)] [[DOI](ttps://doi.org/10.1016/j.jasrep.2020.102554)] [[code & data](https://osf.io/abvgf/)] [[preprint](https://osf.io/preprints/socarxiv/q8hn9)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jasrep.2020.102554" class="altmetric-embed" style="display: inline"></span>
+Wang, L. and B. Marwick 2020. Investigating shape standardization using geometric morphometry of pottery from Iron Age northeastern Taiwan. _Journal of Archaeological Science: Reports_ 33 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Wang-and-Marwick-2020-KWL-pottery-shape.pdf)] [[DOI](https://doi.org/10.1016/j.jasrep.2020.102554)] [[code & data](https://osf.io/abvgf/)] [[preprint](https://osf.io/preprints/socarxiv/q8hn9)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jasrep.2020.102554" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. 2020. Open access to publications to expand participation in archaeology. SocArXiv preprint [SocArXiv:v9kfy](https://osf.io/preprints/socarxiv/v9kfy/)
 
