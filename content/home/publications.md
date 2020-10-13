@@ -70,7 +70,9 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2020</h2> 
 
-Marwick, B. 2020. Open access to publications to expand participation in archaeology. _Norwegian Archaeological Review_ [[pre-print](https://osf.io/preprints/socarxiv/v9kfy/)]
+Nüst, D., Eddelbuettel, D., Bennett, D., Cannoodt, R., Clark, D., Daróczi, G., Edmondson, M., Fay, C., Hughes, E., Kjeldgaard, L., Lopp, S., Marwick, B., Nolis, H., Nolis, J., Ooi, H., Ram, K., Ross, N., Shepherd, L., Sólymos, P., … Xiao, N. 2020. The Rockerverse: Packages and Applications for Containerisation with R. _The R Journal_, 12(1), 437–461. https://doi.org/10.32614/RJ-2020-007 <span data-badge-popover="right" data-badge-type="4" data-doi="10.32614/RJ-2020-007" class="altmetric-embed" style="display: inline"></span>  
+
+Marwick, B. 2020. Open access to publications to expand participation in archaeology. _Norwegian Archaeological Review_ [[DOI](https://doi.org/10.1080/00293652.2020.1837233)] [[pre-print](https://osf.io/preprints/socarxiv/v9kfy/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/00293652.2020.1837233" class="altmetric-embed" style="display: inline"></span> 
 
 Wang, L. and B. Marwick 2020. Ornaments as indicators of social changes in northeastern Taiwan before and after European colonial period. _Archaeological Research in Asia_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Wang-and-Marwick-2020-KWL-ornaments.pdf)] [[DOI](https://doi.org/10.1016/j.ara.2020.100226)] [[code & data](http://doi.org/10.17605/OSF.IO/R8YGA)] [[preprint](https://osf.io/preprints/socarxiv/z9p5k/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.ara.2020.100226" class="altmetric-embed" style="display: inline"></span>  
 
