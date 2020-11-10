@@ -70,7 +70,7 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2020</h2> 
 
-Nüst D, Sochat V, Marwick B, Eglen SJ, Head T, Hirst T, et al. (2020) Ten simple rules for writing Dockerfiles for reproducible data science. _PLoS Comput Biol_ 16(11): e1008316. [[DOI](https://doi.org/10.1371/journal.pcbi.1008316)  <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pcbi.1008316" class="altmetric-embed" style="display: inline"></span>
+Nüst D, Sochat V, Marwick B, Eglen SJ, Head T, Hirst T, et al. (2020) Ten simple rules for writing Dockerfiles for reproducible data science. _PLoS Comput Biol_ 16(11): e1008316. [[DOI](https://doi.org/10.1371/journal.pcbi.1008316)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pcbi.1008316" class="altmetric-embed" style="display: inline"></span>
 
 Nüst, D., Eddelbuettel, D., Bennett, D., Cannoodt, R., Clark, D., Daróczi, G., Edmondson, M., Fay, C., Hughes, E., Kjeldgaard, L., Lopp, S., Marwick, B., Nolis, H., Nolis, J., Ooi, H., Ram, K., Ross, N., Shepherd, L., Sólymos, P., … Xiao, N. 2020. The Rockerverse: Packages and Applications for Containerisation with R. _The R Journal_, 12(1), 437–461. arXiv preprint [arXiv:2001.10641](https://arxiv.org/abs/2001.10641) [[DOI](https://doi.org/10.32614/RJ-2020-007)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.32614/RJ-2020-007" class="altmetric-embed" style="display: inline"></span>
 
