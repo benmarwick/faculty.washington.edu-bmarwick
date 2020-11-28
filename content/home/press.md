@@ -63,6 +63,8 @@ subtitle = "Interviews and media mentions"
  css_class = ""
 +++
 
+26 Nov 2020 **Looking back on ARCHON Day 2020** by Ela Altay for [ARCHON Research School of Archaeology (Netherlands)](https://www.archonline.nl/october-2020/looking-back-on-archon-day-2020/) "The [ARCHON Day 2020](https://www.archonline.nl/october-2020/archon-day-2020-online/) took place on 30 October 2020 as an online event. Students and professional researchers virtually came together to talk about this year’s central topic: 'Advancing access to Research'... The poster session was followed by a [keynote lecture](https://t.co/ETUYHXLM1S), titled 'Open access, open data and open methods – three steps to transparency that are redefining archaeological science' given by Ben Marwick. He gave insight in the benefits and importance of these methods, which included both private and public ones. Needless to say, these benefits required individual effort. Marwick defined all three to be 'free, immediate and online'." 
+
 18 Nov 2020 **UW introduces new minor in data science** by Jackson Holtz for [UW News](https://www.washington.edu/news/2020/11/18/uw-introduces-new-minor-in-data-science/) "'The goal is to combine some of the technical skills that relate to the new developments of generating and analyzing large amounts of data. And then giving students the context and the critical thinking skills to do something meaningful with that,' said Ben Marwick, an associate professor of archaeology and director of the new data science minor. 'Data science education must distinguish itself by closely coupling the teaching of methods, tools, applications and meta-examination of data science practice,' Marwick said."
 
 1 October 2020 **Guest Editorial** by 
