@@ -68,6 +68,10 @@ subtitle = "Scholarly publications & pre-prints"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<h2>2021</h2> 
+
+Hayes, E. H., Field, J. H., Coster, A. C. F., Fullagar, R., Matheson, C., Florin, S. A., Nango, M., Djandjomerr, D., Marwick, B., Wallis, L. A., Smith, M. A., & Clarkson, C. (2021). Holocene grinding stones at Madjedbebe reveal the processing of starchy plant taxa and animal tissue. _Journal of Archaeological Science: Reports_, 35, 102754. [[DOI](https://doi.org/10.1016/j.jasrep.2020.102754)] 
+
 <h2>2020</h2> 
 
 Marwick, B., Pham Thanh Son, May Su Ko 2020 Over research and ethics dumping in international archaeology. _SPAFA Journal_ Vol 4 (2020), [[DOI](https://doi.org/10.26721/spafajournal.v4i0.625)] [[pre-print](https://osf.io/preprints/socarxiv/7cb5q/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.26721/spafajournal.v4i0.625" class="altmetric-embed" style="display: inline"></span>
