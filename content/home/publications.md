@@ -70,7 +70,7 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2021</h2> 
 
-Hayes, E. H., Field, J. H., Coster, A. C. F., Fullagar, R., Matheson, C., Florin, S. A., Nango, M., Djandjomerr, D., Marwick, B., Wallis, L. A., Smith, M. A., & Clarkson, C. (2021). Holocene grinding stones at Madjedbebe reveal the processing of starchy plant taxa and animal tissue. _Journal of Archaeological Science: Reports_, 35, 102754. [[DOI](https://doi.org/10.1016/j.jasrep.2020.102754)] 
+Hayes, E. H., Field, J. H., Coster, A. C. F., Fullagar, R., Matheson, C., Florin, S. A., Nango, M., Djandjomerr, D., Marwick, B., Wallis, L. A., Smith, M. A., & Clarkson, C. (2021). Holocene grinding stones at Madjedbebe reveal the processing of starchy plant taxa and animal tissue. _Journal of Archaeological Science: Reports_, 35, 102754. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hayes-et-al-2021.pdf)] [[DOI](https://doi.org/10.1016/j.jasrep.2020.102754)] 
 
 <h2>2020</h2> 
 
