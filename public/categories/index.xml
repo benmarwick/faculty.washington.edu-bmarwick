@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Ben Marwick</title>
-    <link>/bmarwick/categories/</link>
-      <atom:link href="/bmarwick/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>bmarwick/categories/</link>
+      <atom:link href="bmarwick/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/bmarwick/img/portrait.jpg</url>
+      <url>bmarwick/img/portrait.jpg</url>
       <title>Categories</title>
-      <link>/bmarwick/categories/</link>
+      <link>bmarwick/categories/</link>
     </image>
     
   </channel>
