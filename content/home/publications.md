@@ -70,6 +70,10 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2021</h2> 
 
+Marwick, Ben, Li-Ying Wang, Kaylee Pruski, Eloise Potter,and Raelee Hampton (2021). Views on the Future of Archaeological Ethics from the 2020 SAA Ethics Survey. _The SAA Archaeological Record_ Volume 21, No. 2 March 2021, p. 45-54 [[online]( http://onlinedigeditions.com/publication/?m=16146&i=700116&p=46&ver=html5)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-et-al-tSAR-2021.pdf)] [[DOI](http://doi.org/10.17605/OSF.IO/643C8)] 
+
+Pruski, Kaylee, Ben Marwick, Eloise Potter, Raelee Hampton, and Li-Ying Wang (2021). Views on the Nine Principles of Archaeological Ethics from the 2020 SAA Ethics Survey. _The SAA Archaeological Record_ Volume 21, No. 2 March 2021, p. 29-40 [[online](http://onlinedigeditions.com/publication/?m=16146&i=700116&p=30&ver=html5)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Pruski-et-al-tSAR-2021.pdf)] [[DOI](http://doi.org/10.17605/OSF.IO/643C8)]
+
 Florin, S.A., Roberts, P., Marwick, B. et al. (2021) Pandanus nutshell generates a palaeoprecipitation record for human occupation at Madjedbebe, northern Australia. _Nature Ecology and Evolution_ . [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Florin-et-al-2021-palaeoprecip.pdf)] [[DOI](https://doi.org/10.1038/s41559-020-01379-8)] [[code & data](http://doi.org/10.17605/OSF.IO/9TN4F)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41559-020-01379-8" class="altmetric-embed" style="display: inline"></span>  
 
 Hayes, E. H., Field, J. H., Coster, A. C. F., Fullagar, R., Matheson, C., Florin, S. A., Nango, M., Djandjomerr, D., Marwick, B., Wallis, L. A., Smith, M. A., & Clarkson, C. (2021). Holocene grinding stones at Madjedbebe reveal the processing of starchy plant taxa and animal tissue. _Journal of Archaeological Science: Reports_, 35, 102754. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hayes-et-al-2021.pdf)] [[DOI](https://doi.org/10.1016/j.jasrep.2020.102754)] 
