@@ -6,41 +6,46 @@
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
+  weight = 50
 
 [[main]]
   name = "Press"
   url = "#press"
-  weight = 30
+  weight = 51
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 52
+  
+[[main]]
+  name = "Presentations"
+  url = "#presentations"
+  weight = 53
 
 [[main]]
   name = "Courses"
   url = "courses/"
-  weight = 50
+  weight = 54
   
 [[main]]
   name = "Geoarchaeology"
   url = "geoarchaeology/"
-  weight = 51
+  weight = 55
   
 [[main]]
   name = "Ethics and Values"
   url = "values_and_ethics/"
-  weight = 52
+  weight = 56
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 57
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
  name = "CV"
  url = "https://github.com/benmarwick/bm-vita/blob/master/bm-vita-master.pdf"
- weight = 70
+ weight = 58
