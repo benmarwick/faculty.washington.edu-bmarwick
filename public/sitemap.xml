@@ -3,56 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>bmarwick/values_and_ethics/expectations-and-responsibilities/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/code-of-conduct/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/communicating/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/ethics/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/field-research-expectations/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/policies-and-guidelines/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/reponsibilities-for-students/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/undergrad-research/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/values_and_ethics/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>bmarwick/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>bmarwick/authors/admin/</loc>
   </url>
   
@@ -61,11 +11,19 @@
   </url>
   
   <url>
+    <loc>bmarwick/</loc>
+  </url>
+  
+  <url>
     <loc>bmarwick/categories/</loc>
   </url>
   
   <url>
     <loc>bmarwick/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>bmarwick/values_and_ethics/</loc>
   </url>
   
   <url>

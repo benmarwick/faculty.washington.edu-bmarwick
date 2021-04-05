@@ -35,7 +35,7 @@
   
 [[main]]
   name = "Ethics and Values"
-  url = "values_and_ethics/"
+  url = "values_and_ethics"
   weight = 56
 
 [[main]]
