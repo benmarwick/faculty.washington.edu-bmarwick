@@ -191,6 +191,8 @@ Conrad, C., C. Higham, M. Eda, & B. Marwick 2016 Palaeoecology and Forager Subsi
 
 <h2>2015</h2>
 
+Kretzler, I. and B. Marwick 2015 Investigating Archaeologists’ Engagement With Feminist Theory Using Textual Macroanalysis: 25 Years after Chacmool 1989. In Robyn Crook, Kim Edwards and Colleen Hughes (eds), _BREAKING BARRIERS: Proceedings of the 47th Annual Chacmool Archaeological Conference November 7-9, 2014 Calgary, Alberta, Canada_, The Chacmool Archaeological Association of the University of Calgary. p. 158-168 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Kretzler_Marwick_2014_Chacmool.pdf)] 
+
 Marwick, B. 2015 Review of "Geoarchaeology of Aboriginal Landscapes in Semi‐Arid Australia" by Simon J. Holdaway and Patricia C. Fanning. 2014. CSIRO, Collingwood. _Geoarchaeology_ 30 (5), 459-461 [[PDF](http://ro.uow.edu.au/smhpapers/3435)]
 
 Aung, T. H., B. Marwick, & C. Conrad 2015 Palaeolithic zooarchaeology in Myanmar: a review and future prospects. _Journal of Indo-Pacific Archaeology_ 39: 50-56. [[PDF](http://ro.uow.edu.au/smhpapers/3282)]
