@@ -63,7 +63,7 @@ subtitle = "Recordings of scholarly talks"
  css_class = ""
 +++
 
-
+25 June 2021  **[Improving the transparency and reproducibility of historical archaeological research: A case study in teaching how slavery ended at New River Village, Nevis](https://vimeo.com/567642061)** This presentation was invited by DAACS (Digital Archaeological Archive of Comparative Slavery) for their series _[Discover with DAACS Conversations](https://www.daacs.org/research/playlists/daacs-conversations/)_
 
 5 Mar 2021 **[Data Skills & Data Studies: A New Interdisciplinary Minor in Data Science](hhttps://youtu.be/Z5jjg0NAfT4)** (34:01) This presentation is an overview of the UW's new interdisciplinary Minor in Data Science. It was invited by the South Big Data Innovation Hub Education and Workforce Working Group.
 
