@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2021</h2> 
 
+Wang, L. and B. Marwick 2021. A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. _Journal of Archaeological Science_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/10.1016/j.jas.2021.105471)] [[code & data](http://doi.org/10.17605/OSF.IO/XGA6N)] [[preprint](https://doi.org/10.31235/osf.io/3vfea)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2021.105471" class="altmetric-embed" style="display: inline"></span>  
+
 Marwick, Ben and Prema Smith (2020). World Heritage sites on Wikipedia: Cultural heritage activism in a context of constrained agency.  _Big Data & Society_ January–June: 1–19 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Smith-WH-Wikipedia-2021.pdf)] [[DOI](http://dx.doi.org/10.1177/20539517211017304)] [[code & data](http://doi.org/10.17605/OSF.IO/AY27G)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1177/20539517211017304" class="altmetric-embed" style="display: inline"></span>  
 
 Marwick, Ben, Li-Ying Wang, Kaylee Pruski, Eloise Potter,and Raelee Hampton (2021). Views on the Future of Archaeological Ethics from the 2020 SAA Ethics Survey. _The SAA Archaeological Record_ Volume 21, No. 2 March 2021, p. 45-54 [[online]( http://onlinedigeditions.com/publication/?m=16146&i=700116&p=46&ver=html5)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-et-al-tSAR-2021.pdf)] [[DOI](http://doi.org/10.17605/OSF.IO/643C8)] 
