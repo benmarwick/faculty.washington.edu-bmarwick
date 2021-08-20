@@ -70,6 +70,9 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2021</h2> 
 
+Marwick, B., S. T. Pham, R. Brewer, & L. Wang (2021). Tektite geoarchaeology in mainland Southeast Asia. SocArXiv pre-print [socarxiv:93fpa](https://osf.io/preprints/socarxiv/93fpa)
+ 
+
 Wang, L. and B. Marwick 2021. A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. _Journal of Archaeological Science_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/10.1016/j.jas.2021.105471)] [[code & data](http://doi.org/10.17605/OSF.IO/XGA6N)] [[preprint](https://doi.org/10.31235/osf.io/3vfea)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2021.105471" class="altmetric-embed" style="display: inline"></span>  
 
 Marwick, Ben and Prema Smith (2020). World Heritage sites on Wikipedia: Cultural heritage activism in a context of constrained agency.  _Big Data & Society_ January–June: 1–19 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Smith-WH-Wikipedia-2021.pdf)] [[DOI](http://dx.doi.org/10.1177/20539517211017304)] [[code & data](http://doi.org/10.17605/OSF.IO/AY27G)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1177/20539517211017304" class="altmetric-embed" style="display: inline"></span>  
