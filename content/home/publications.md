@@ -70,15 +70,15 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2021</h2> 
 
-Marwick, B., S. T. Pham, R. Brewer, & L. Wang (2021). Tektite geoarchaeology in mainland Southeast Asia. SocArXiv pre-print [socarxiv:93fpa](https://osf.io/preprints/socarxiv/93fpa)
+Marwick, Ben, Pham Thanh Son, Rachel Brewer, & Li-Ying Wang (2021). Tektite geoarchaeology in mainland Southeast Asia. SocArXiv pre-print [socarxiv:93fpa](https://osf.io/preprints/socarxiv/93fpa)
 
 
-Park, G., L. Wang, & B. Marwick (accepted 2021). How do archaeologists write about racism? Computational text analysis of 41 years of Society of American Archaeology Annual Meeting Abstracts. _Antiquity_ [[pre-print](https://osf.io/preprints/socarxiv/zm73f)] 
+Park, Gayoung, Li-Ying Wang, & Ben Marwick (accepted 2021). How do archaeologists write about racism? Computational text analysis of 41 years of Society of American Archaeology Annual Meeting Abstracts. _Antiquity_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/)] [[code & data](http://doi.org/10.17605/OSF.IO/2N3RF)] [[preprint](https://doi.org/10.31219/osf.io/zm73f)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span> 
  
 
-Wang, L. and B. Marwick (accepted 2021). A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. _Journal of Archaeological Science_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/10.1016/j.jas.2021.105471)] [[code & data](http://doi.org/10.17605/OSF.IO/XGA6N)] [[preprint](https://doi.org/10.31235/osf.io/3vfea)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2021.105471" class="altmetric-embed" style="display: inline"></span>  
+Wang, Li-Ying and Ben Marwick (2021). A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. _Journal of Archaeological Science_ 134: 105471 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Wang-and-Marwick-2021-burials.pdf)] [[DOI](https://doi.org/10.1016/j.jas.2021.105471)] [[code & data](http://doi.org/10.17605/OSF.IO/XGA6N)] [[preprint](https://doi.org/10.31235/osf.io/3vfea)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2021.105471" class="altmetric-embed" style="display: inline"></span>  
 
-Marwick, Ben and Prema Smith (2020). World Heritage sites on Wikipedia: Cultural heritage activism in a context of constrained agency.  _Big Data & Society_ January–June: 1–19 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Smith-WH-Wikipedia-2021.pdf)] [[DOI](http://dx.doi.org/10.1177/20539517211017304)] [[code & data](http://doi.org/10.17605/OSF.IO/AY27G)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1177/20539517211017304" class="altmetric-embed" style="display: inline"></span>  
+Marwick, Ben and Prema Smith (2021). World Heritage sites on Wikipedia: Cultural heritage activism in a context of constrained agency.  _Big Data & Society_ January–June: 1–19 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Smith-WH-Wikipedia-2021.pdf)] [[DOI](http://dx.doi.org/10.1177/20539517211017304)] [[code & data](http://doi.org/10.17605/OSF.IO/AY27G)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1177/20539517211017304" class="altmetric-embed" style="display: inline"></span>  
 
 Marwick, Ben, Li-Ying Wang, Kaylee Pruski, Eloise Potter,and Raelee Hampton (2021). Views on the Future of Archaeological Ethics from the 2020 SAA Ethics Survey. _The SAA Archaeological Record_ Volume 21, No. 2 March 2021, p. 45-54 [[online]( http://onlinedigeditions.com/publication/?m=16146&i=700116&p=46&ver=html5)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-et-al-tSAR-2021.pdf)] [[DOI](http://doi.org/10.17605/OSF.IO/643C8)] 
 
@@ -90,7 +90,7 @@ Hayes, E. H., Field, J. H., Coster, A. C. F., Fullagar, R., Matheson, C., Florin
 
 <h2>2020</h2> 
 
-Marwick, B., Pham Thanh Son, May Su Ko 2020 Over research and ethics dumping in international archaeology. _SPAFA Journal_ Vol 4 (2020), [[DOI](https://doi.org/10.26721/spafajournal.v4i0.625)] [[pre-print](https://osf.io/preprints/socarxiv/7cb5q/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.26721/spafajournal.v4i0.625" class="altmetric-embed" style="display: inline"></span>
+Marwick, Ben, Pham Thanh Son, May Su Ko 2020 Over research and ethics dumping in international archaeology. _SPAFA Journal_ Vol 4 (2020), [[DOI](https://doi.org/10.26721/spafajournal.v4i0.625)] [[pre-print](https://osf.io/preprints/socarxiv/7cb5q/)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.26721/spafajournal.v4i0.625" class="altmetric-embed" style="display: inline"></span>
 
 Nüst D, Sochat V, Marwick B, Eglen SJ, Head T, Hirst T, et al. (2020) Ten simple rules for writing Dockerfiles for reproducible data science. _PLoS Comput Biol_ 16(11): e1008316. [[DOI](https://doi.org/10.1371/journal.pcbi.1008316)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pcbi.1008316" class="altmetric-embed" style="display: inline"></span>
 
