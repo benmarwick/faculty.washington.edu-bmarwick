@@ -68,14 +68,18 @@ subtitle = "Scholarly publications & pre-prints"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<h2>2022</h2> 
+
+Dosseto, Anthony, and Ben Marwick (2022). UThwigl — An R Package for Closed- and Open-System Uranium–Thorium Dating. _Quaternary Geochronology_ 67: 101235. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/10.1016/j.quageo.2021.101235)] [[code & data](https://github.com/tonydoss/UThwigl)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quageo.2021.101235" class="altmetric-embed" style="display: inline"></span> 
+
 <h2>2021</h2> 
+
+Conrad, Cyler, Rasmi Shoocongdej, Ben Marwick, et al. (2021). Re-Evaluating Pleistocene–Holocene Occupation of Cave Sites in North-West Thailand: New Radiocarbon and Luminescence Dating. _Antiquity_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/10.15184/aqy.2021.44)] [[code & data](https://doi.org/10.17605/OSF.IO/J3Z6F)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2021.44" class="altmetric-embed" style="display: inline"></span> 
 
 Marwick, Ben, Pham Thanh Son, Rachel Brewer, & Li-Ying Wang (2021). Tektite geoarchaeology in mainland Southeast Asia. SocArXiv pre-print [socarxiv:93fpa](https://osf.io/preprints/socarxiv/93fpa)
 
-
 Park, Gayoung, Li-Ying Wang, & Ben Marwick (accepted 2021). How do archaeologists write about racism? Computational text analysis of 41 years of Society of American Archaeology Annual Meeting Abstracts. _Antiquity_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/)] [[code & data](http://doi.org/10.17605/OSF.IO/2N3RF)] [[preprint](https://doi.org/10.31219/osf.io/zm73f)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span> 
  
-
 Wang, Li-Ying and Ben Marwick (2021). A Bayesian networks approach to infer social changes in burials in northeastern Taiwan during the European colonization period. _Journal of Archaeological Science_ 134: 105471 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Wang-and-Marwick-2021-burials.pdf)] [[DOI](https://doi.org/10.1016/j.jas.2021.105471)] [[code & data](http://doi.org/10.17605/OSF.IO/XGA6N)] [[preprint](https://doi.org/10.31235/osf.io/3vfea)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2021.105471" class="altmetric-embed" style="display: inline"></span>  
 
 Marwick, Ben and Prema Smith (2021). World Heritage sites on Wikipedia: Cultural heritage activism in a context of constrained agency.  _Big Data & Society_ January–June: 1–19 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-Smith-WH-Wikipedia-2021.pdf)] [[DOI](http://dx.doi.org/10.1177/20539517211017304)] [[code & data](http://doi.org/10.17605/OSF.IO/AY27G)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1177/20539517211017304" class="altmetric-embed" style="display: inline"></span>  
