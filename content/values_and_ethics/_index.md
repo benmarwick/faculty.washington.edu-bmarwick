@@ -46,7 +46,7 @@ I endorse the [Code is Science Manifesto](http://sciencecodemanifesto.org/) and 
 
 ## Data Ethics
 
-I support the [The Denton Declaration](https://openaccess.unt.edu/denton-declaration) and the [Panton Principles](https://pantonprinciples.org/): Open access to research data is critical for advancing science, scholarship, and society. Research data, when repurposed, has an accretive value. Publicly funded research should be publicly available for public good. Transparency in research is essential to sustain the public trust. The validation of research data by the peer community is an essential function of the responsible conduct of research. Managing research data is the responsibility of a broad community of stakeholders including researchers, funders, institutions, libraries, archivists, and the public. 
+I support the [The Denton Declaration](https://openaccess.unt.edu/denton-declaration) and the [Panton Principles](https://pantonprinciples.org/): Open access to research data is critical for advancing science, scholarship, and society. Research data, when repurposed, has an accumulative value. Publicly funded research should be publicly available for public good. Transparency in research is essential to sustain public trust. Data should be openly available only if it does not cause harm. The validation of research data by the peer community is an essential function of the responsible conduct of research. Managing research data is the responsibility of a broad community of stakeholders including researchers, funders, institutions, libraries, archivists, and the public. The [FAIR](https://www.nature.com/articles/sdata201618) and [CARE](https://www.gida-global.org/care) principles guide how I work with data.
 
 ## Authorship Ethics
 
