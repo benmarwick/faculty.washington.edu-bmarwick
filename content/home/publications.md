@@ -70,7 +70,9 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2022</h2> 
 
-Marwick, Ben., Son, Pham Tanh, Brewer, Rachel, Wang, Li-Ying (2022) Tektite geoarchaeology in mainland Southeast Asia. SocArXiv, 93fpa, ver. 6, peer-reviewed and recommended by [_PCI Archaeology_](https://archaeo.peercommunityin.org/PCIArchaeology/articles/rec?id=193), https://osf.io/93fpa
+Marwick, Ben and Li-Ying Wang (2022). How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. In: Ethan Watrall, Lynne Goldstein (eds) _Digital Heritage and Archaeology in Practice_. University Press Florida. [[pre-print](https://osf.io/preprints/socarxiv/s8z6u)] [[code & data](https://doi.org/10.17605/OSF.IO/SBMT2)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/s8z6u" class="altmetric-embed" style="display: inline"></span> 
+
+Marwick, Ben, Son, Pham Tanh, Brewer, Rachel, Wang, Li-Ying (2022) Tektite geoarchaeology in mainland Southeast Asia. SocArXiv, 93fpa, ver. 6, peer-reviewed and recommended by [_PCI Archaeology_](https://archaeo.peercommunityin.org/PCIArchaeology/articles/rec?id=193), https://osf.io/93fpa <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/93fpa" class="altmetric-embed" style="display: inline"></span> 
 
 Park, Gayoung & Ben Marwick (2022). How did the introduction of stemmed points affect mobility and site occupation during the late Pleistocene in Korea? _Quaternary Science Reviews_, 277, 107312. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Park-and-Marwick-2021-QSR-stemmed-points.pdf)] [[DOI](https://doi.org/10.1016/j.quascirev.2021.107312)] [[code & data](https://github.com/parkgayoung/koreapaleolithicmobilityoccupation)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quascirev.2021.107312" class="altmetric-embed" style="display: inline"></span> 
 
@@ -134,8 +136,6 @@ Marwick, B. (2019). Galisonian logic devices and data availability: Revitalising
 Bulbeck, D., O’Connor, S., Fakhri, Fenner, J. N., Marwick, B., Suryatman, Wibowo, U. P. (2019). Patterned and plain baked clay from pre-pottery contexts in Southeast Sulawesi, Indonesia. _Antiquity_, 93(371), 1284-1302 [[DOI](https://doi.org/10.15184/aqy.2019.134)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck-et-al-2019-baked-clay-Antiquity.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/JN5TU)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2019.134" class="altmetric-embed" style="display: inline"></span>
 
 Stephens, L., Fuller, D., Boivin, N., Rick, T., Gauthier, N., Kay, A., Marwick, B., [...] Ellis, E. (2019). Archaeological assessment reveals Earth’s early transformation through land use. _Science_, 365(6456), 897–902. [[DOI](https://doi.org/10.1126/science.aax1192)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stephens-et-al-2019-10.1126-science.aax1192.pdf)] [[code & data](https://dataverse.harvard.edu/dataverse/ArchaeoGLOBE)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1126/science.aax1192" class="altmetric-embed" style="display: inline"></span>
-
-Marwick, B. and L. Wang (2019) How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. SocArXiv pre-print [socarxiv:s8z6u](https://osf.io/preprints/socarxiv/s8z6u)
 
 Dominick, Doreena, Stephen R. Wilson,, Clare Paton-Walsh, Ruhi Humphries, Élise-Andrée Guérette, Melita Keywood, Paul Selleck, Dagmar Kubistin and Ben Marwick (2019). “Particle Formation in a Complex Environment.” _Atmosphere_ 10(5): 275. [[DOI](https://doi.org/10.3390/atmos10050275)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/atmos10050275" class="altmetric-embed" style="display: inline"></span>
 
