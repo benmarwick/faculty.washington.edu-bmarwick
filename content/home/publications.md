@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2022</h2> 
 
+Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Park-et-al-2022-how-do-archaeologists-write-about-racism-computational-text-analysis-of-41-years-of-society-for-american-archaeology-annual-meeting-abstracts.pdf)] [[DOI](https://doi.org/10.15184/aqy.2021.181)] [[code & data](http://doi.org/10.17605/OSF.IO/2N3RF)] [[preprint](https://doi.org/10.31219/osf.io/zm73f)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2021.181" class="altmetric-embed" style="display: inline"></span> 
+
 Marwick, Ben and Li-Ying Wang (2022). How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. In: Ethan Watrall, Lynne Goldstein (eds) _Digital Heritage and Archaeology in Practice_. University Press Florida. [[pre-print](https://osf.io/preprints/socarxiv/s8z6u)] [[code & data](https://doi.org/10.17605/OSF.IO/SBMT2)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/s8z6u" class="altmetric-embed" style="display: inline"></span> 
 
 Marwick, Ben, Son, Pham Tanh, Brewer, Rachel, Wang, Li-Ying (2022) Tektite geoarchaeology in mainland Southeast Asia. SocArXiv, 93fpa, ver. 6, peer-reviewed and recommended by [_PCI Archaeology_](https://archaeo.peercommunityin.org/PCIArchaeology/articles/rec?id=193), https://osf.io/93fpa <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/93fpa" class="altmetric-embed" style="display: inline"></span> 
@@ -81,8 +83,6 @@ Dosseto, Anthony, and Ben Marwick (2022). UThwigl — An R Package for Closed- a
 <h2>2021</h2> 
 
 Bulbeck, D., & Marwick, B. (2021). Stone Industries of Mainland and Island Southeast Asia. In Charles F. W. Higham and Nam C. Kim (eds) _The Oxford Handbook of Early Southeast Asia_. Oxford University Press.  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Bulbeck-and-Marwick-2021-Oxford.pdf)] [[DOI](https://doi.org/10.1093/oxfordhb/9780199355358.013.15)]
-
-Park, Gayoung, Li-Ying Wang, & Ben Marwick (accepted 2021). How do archaeologists write about racism? Computational text analysis of 41 years of Society of American Archaeology Annual Meeting Abstracts. _Antiquity_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/)] [[code & data](http://doi.org/10.17605/OSF.IO/2N3RF)] [[preprint](https://doi.org/10.31219/osf.io/zm73f)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span> 
 
 Conrad, Cyler, Rasmi Shoocongdej, Ben Marwick, et al. (2021). Re-Evaluating Pleistocene–Holocene Occupation of Cave Sites in North-West Thailand: New Radiocarbon and Luminescence Dating. _Antiquity_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](https://doi.org/10.15184/aqy.2021.44)] [[code & data](https://doi.org/10.17605/OSF.IO/J3Z6F)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2021.44" class="altmetric-embed" style="display: inline"></span> 
  
