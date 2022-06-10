@@ -70,6 +70,11 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2022</h2> 
 
+Riede, F., A. Araujo, A, and B. Marwick (2022). Robert C. Dunnell’s Systematics in Prehistory at 50. _Evolutionary Anthropology_ [[DOI](http://doi.org/10.1017/ehs.2022.18)] [[code & data](http://doi.org/10.17605/OSF.IO/JBPFW)] [[preprint](https://doi.org/10.31219/osf.io/rtd8w)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/ehs.2022.18" class="altmetric-embed" style="display: inline"></span>  
+
+Florin, A S., A. S. Fairbairn, M. Nango, D. Djandjomerr, Quan Hua, B. Marwick, D. C. Reutens, R. Fullagar, M. Smith, L. A. Wallis, C. Clarkson (2022). 65,000 years of changing plant food and landscape use at Madjedbebe, Mirarr country, northern Australia. _Quaternary Science Reviews_ [[DOI](https://doi.org/10.1016/j.quascirev.2022.107498)] [[code & data](http://doi.org/10.17605/OSF.IO/KPH5Z)] [[preprint](http://doi.org/10.17605/OSF.IO/KPH5Z)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quascirev.2022.107498" class="altmetric-embed" style="display: inline"></span>
+
+
 Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Park-et-al-2022-how-do-archaeologists-write-about-racism-computational-text-analysis-of-41-years-of-society-for-american-archaeology-annual-meeting-abstracts.pdf)] [[DOI](https://doi.org/10.15184/aqy.2021.181)] [[code & data](http://doi.org/10.17605/OSF.IO/2N3RF)] [[preprint](https://doi.org/10.31219/osf.io/zm73f)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2021.181" class="altmetric-embed" style="display: inline"></span> 
 
 Marwick, Ben and Li-Ying Wang (2022). How to align disciplinary ideals with actual practices: Transparency and openness in archaeological science. In: Ethan Watrall, Lynne Goldstein (eds) _Digital Heritage and Archaeology in Practice_. University Press Florida. [[pre-print](https://osf.io/preprints/socarxiv/s8z6u)] [[code & data](https://doi.org/10.17605/OSF.IO/SBMT2)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/s8z6u" class="altmetric-embed" style="display: inline"></span> 
