@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2022</h2> 
 
+Hayes, E.H., Fullagar, R., Field, J.H. ... Marwick, B. et al. (2022). 65,000-years of continuous grinding stone use at Madjedbebe, Northern Australia. _Scientific Reports_ 12, 11747 [[DOI](10.1038/s41598-022-15174-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41598-022-15174-x" class="altmetric-embed" style="display: inline"></span>
+
 Riede, F., A. Araujo, A, and B. Marwick (2022). Robert C. Dunnell’s Systematics in Prehistory at 50. _Evolutionary Anthropology_ [[DOI](http://doi.org/10.1017/ehs.2022.18)] [[code & data](http://doi.org/10.17605/OSF.IO/JBPFW)] [[preprint](https://doi.org/10.31219/osf.io/rtd8w)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/ehs.2022.18" class="altmetric-embed" style="display: inline"></span>  
 
 Florin, A S., A. S. Fairbairn, M. Nango, D. Djandjomerr, Quan Hua, B. Marwick, D. C. Reutens, R. Fullagar, M. Smith, L. A. Wallis, C. Clarkson (2022). 65,000 years of changing plant food and landscape use at Madjedbebe, Mirarr country, northern Australia. _Quaternary Science Reviews_ [[DOI](https://doi.org/10.1016/j.quascirev.2022.107498)] [[code & data](http://doi.org/10.17605/OSF.IO/KPH5Z)] [[preprint](http://doi.org/10.17605/OSF.IO/KPH5Z)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quascirev.2022.107498" class="altmetric-embed" style="display: inline"></span>
