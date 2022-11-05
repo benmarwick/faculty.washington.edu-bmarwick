@@ -1,41 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>bmarwick/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/courses/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/values_and_ethics/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>bmarwick/geoarchaeology/</loc>
   </url>
-  
 </urlset>
