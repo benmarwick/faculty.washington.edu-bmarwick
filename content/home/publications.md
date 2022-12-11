@@ -70,7 +70,7 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2022</h2> 
 
-Hu, Y., Marwick, B., Lu, H., Hou, Y., Huang, W., & Li, B. (2023). Evidence of Levallois strategies on cores at Guanyindong cave, Southwest China during the Late Middle Pleistocene. Journal of Archaeological Science: Reports, 47, 103727. [[DOI](https://doi.org/10.1016/j.jasrep.2022.103727)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jasrep.2022.103727" class="altmetric-embed" style="display: inline"></span>
+Hu, Y., Marwick, B., Lu, H., Hou, Y., Huang, W., & Li, B. (2023). Evidence of Levallois strategies on cores at Guanyindong cave, Southwest China during the Late Middle Pleistocene. Journal of Archaeological Science: Reports, 47, 103727. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-et-al-JASR-2023.pdf)] [[DOI](https://doi.org/10.1016/j.jasrep.2022.103727)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jasrep.2022.103727" class="altmetric-embed" style="display: inline"></span>
 
 Hayes, E.H., Fullagar, R., Field, J.H. ... Marwick, B. et al. (2022). 65,000-years of continuous grinding stone use at Madjedbebe, Northern Australia. _Scientific Reports_ 12, 11747 [[DOI](10.1038/s41598-022-15174-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41598-022-15174-x" class="altmetric-embed" style="display: inline"></span>
 
