@@ -70,11 +70,13 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2023</h2> 
 
+Shafizadeh, S. & B. Marwick (2023). Book review: The Upper Paleolithic of Zagros: by Sonia Shidrang, Tehran, Iran, Iranology Foundation, 2019, 5 chapters, 128 pp., many figures [Persian language]. _Lithic Technology_, [[DOI](https://doi.org/10.1080/01977261.2023.2185741)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2023.2185741" class="altmetric-embed" style="display: inline"></span> 
+
 Hu, Y., Marwick, B., Lu, H., Hou, Y., Huang, W., & Li, B. (2023). Evidence of Levallois strategies on cores at Guanyindong cave, Southwest China during the Late Middle Pleistocene. Journal of Archaeological Science: Reports, 47, 103727. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-et-al-JASR-2023.pdf)] [[DOI](https://doi.org/10.1016/j.jasrep.2022.103727)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jasrep.2022.103727" class="altmetric-embed" style="display: inline"></span>
 
 <h2>2022</h2> 
 
-Hayes, E.H., Fullagar, R., Field, J.H. ... Marwick, B. et al. (2022). 65,000-years of continuous grinding stone use at Madjedbebe, Northern Australia. _Scientific Reports_ 12, 11747 [[DOI](10.1038/s41598-022-15174-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41598-022-15174-x" class="altmetric-embed" style="display: inline"></span>
+Hayes, E.H., Fullagar, R., Field, J.H. ... Marwick, B. et al. (2022). 65,000-years of continuous grinding stone use at Madjedbebe, Northern Australia. _Scientific Reports_ 12, 11747 [[DOI](https://doi.org/10.1038/s41598-022-15174-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41598-022-15174-x" class="altmetric-embed" style="display: inline"></span>
 
 Riede, F., A. Araujo, A, and B. Marwick (2022). Robert C. Dunnell’s Systematics in Prehistory at 50. _Evolutionary Anthropology_ [[DOI](http://doi.org/10.1017/ehs.2022.18)] [[code & data](http://doi.org/10.17605/OSF.IO/JBPFW)] [[preprint](https://doi.org/10.31219/osf.io/rtd8w)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/ehs.2022.18" class="altmetric-embed" style="display: inline"></span>  
 
