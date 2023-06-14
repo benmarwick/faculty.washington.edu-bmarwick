@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2023</h2> 
 
+Mackay, A., Saktura, R.B.K., O’Driscoll, C.A., Boyd, K., B. Marwick et al. (2023). The Middle Stone Age Sequence at Klipfonteinrand 1 (KFR1), Western Cape, South Africa. _Journal of Paleolithic Archaeology_ 6, 20 [[DOI](https://doi.org/10.1007/s41982-023-00147-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s41982-023-00147-x" class="altmetric-embed" style="display: inline"></span> 
+
 Shafizadeh, S. & B. Marwick (2023). Book review: The Upper Paleolithic of Zagros: by Sonia Shidrang, Tehran, Iran, Iranology Foundation, 2019, 5 chapters, 128 pp., many figures [Persian language]. _Lithic Technology_, [[DOI](https://doi.org/10.1080/01977261.2023.2185741)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2023.2185741" class="altmetric-embed" style="display: inline"></span> 
 
 Hu, Y., Marwick, B., Lu, H., Hou, Y., Huang, W., & Li, B. (2023). Evidence of Levallois strategies on cores at Guanyindong cave, Southwest China during the Late Middle Pleistocene. Journal of Archaeological Science: Reports, 47, 103727. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-et-al-JASR-2023.pdf)] [[DOI](https://doi.org/10.1016/j.jasrep.2022.103727)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jasrep.2022.103727" class="altmetric-embed" style="display: inline"></span>
