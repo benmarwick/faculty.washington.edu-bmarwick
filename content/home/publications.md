@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2023</h2> 
 
+Chen, Y. & B. Marwick (2023). Women in the Lab, Men in the Field? Correlations between Gender and Research Topics at Three Major Archaeology Conferences, _Journal of Field Archaeology_ [[pre-print](https://osf.io/fsujr)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Chen-and-Marwick-2023-JFA-Women-in-the-Lab.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/ZFB36)] [[DOI](https://doi.org/10.1080/00934690.2023.2261083)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/00934690.2023.2261083" class="altmetric-embed" style="display: inline"></span>
+
 Mackay, A., Saktura, R.B.K., O’Driscoll, C.A., Boyd, K., B. Marwick et al. (2023). The Middle Stone Age Sequence at Klipfonteinrand 1 (KFR1), Western Cape, South Africa. _Journal of Paleolithic Archaeology_ 6, 20 [[DOI](https://doi.org/10.1007/s41982-023-00147-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s41982-023-00147-x" class="altmetric-embed" style="display: inline"></span> 
 
 Shafizadeh, S. & B. Marwick (2023). Book review: The Upper Paleolithic of Zagros: by Sonia Shidrang, Tehran, Iran, Iranology Foundation, 2019, 5 chapters, 128 pp., many figures [Persian language]. _Lithic Technology_, [[DOI](https://doi.org/10.1080/01977261.2023.2185741)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2023.2185741" class="altmetric-embed" style="display: inline"></span> 
