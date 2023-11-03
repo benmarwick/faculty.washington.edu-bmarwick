@@ -68,16 +68,23 @@ subtitle = "Scholarly publications & pre-prints"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<h2>2022</h2> 
+<h2>2023</h2> 
+
+Chen, Y. & B. Marwick (2023). Women in the Lab, Men in the Field? Correlations between Gender and Research Topics at Three Major Archaeology Conferences, _Journal of Field Archaeology_ [[pre-print](https://osf.io/fsujr)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Chen-and-Marwick-2023-JFA-Women-in-the-Lab.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/ZFB36)] [[DOI](https://doi.org/10.1080/00934690.2023.2261083)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/00934690.2023.2261083" class="altmetric-embed" style="display: inline"></span>
+
+Mackay, A., Saktura, R.B.K., O’Driscoll, C.A., Boyd, K., B. Marwick et al. (2023). The Middle Stone Age Sequence at Klipfonteinrand 1 (KFR1), Western Cape, South Africa. _Journal of Paleolithic Archaeology_ 6, 20 [[DOI](https://doi.org/10.1007/s41982-023-00147-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s41982-023-00147-x" class="altmetric-embed" style="display: inline"></span> 
+
+Shafizadeh, S. & B. Marwick (2023). Book review: The Upper Paleolithic of Zagros: by Sonia Shidrang, Tehran, Iran, Iranology Foundation, 2019, 5 chapters, 128 pp., many figures [Persian language]. _Lithic Technology_, [[DOI](https://doi.org/10.1080/01977261.2023.2185741)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2023.2185741" class="altmetric-embed" style="display: inline"></span> 
 
 Hu, Y., Marwick, B., Lu, H., Hou, Y., Huang, W., & Li, B. (2023). Evidence of Levallois strategies on cores at Guanyindong cave, Southwest China during the Late Middle Pleistocene. Journal of Archaeological Science: Reports, 47, 103727. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-Marwick-et-al-JASR-2023.pdf)] [[DOI](https://doi.org/10.1016/j.jasrep.2022.103727)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jasrep.2022.103727" class="altmetric-embed" style="display: inline"></span>
 
-Hayes, E.H., Fullagar, R., Field, J.H. ... Marwick, B. et al. (2022). 65,000-years of continuous grinding stone use at Madjedbebe, Northern Australia. _Scientific Reports_ 12, 11747 [[DOI](10.1038/s41598-022-15174-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41598-022-15174-x" class="altmetric-embed" style="display: inline"></span>
+<h2>2022</h2> 
+
+Hayes, E.H., Fullagar, R., Field, J.H. ... Marwick, B. et al. (2022). 65,000-years of continuous grinding stone use at Madjedbebe, Northern Australia. _Scientific Reports_ 12, 11747 [[DOI](https://doi.org/10.1038/s41598-022-15174-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41598-022-15174-x" class="altmetric-embed" style="display: inline"></span>
 
 Riede, F., A. Araujo, A, and B. Marwick (2022). Robert C. Dunnell’s Systematics in Prehistory at 50. _Evolutionary Anthropology_ [[DOI](http://doi.org/10.1017/ehs.2022.18)] [[code & data](http://doi.org/10.17605/OSF.IO/JBPFW)] [[preprint](https://doi.org/10.31219/osf.io/rtd8w)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/ehs.2022.18" class="altmetric-embed" style="display: inline"></span>  
 
 Florin, A S., A. S. Fairbairn, M. Nango, D. Djandjomerr, Quan Hua, B. Marwick, D. C. Reutens, R. Fullagar, M. Smith, L. A. Wallis, C. Clarkson (2022). 65,000 years of changing plant food and landscape use at Madjedbebe, Mirarr country, northern Australia. _Quaternary Science Reviews_ [[DOI](https://doi.org/10.1016/j.quascirev.2022.107498)] [[code & data](http://doi.org/10.17605/OSF.IO/KPH5Z)] [[preprint](http://doi.org/10.17605/OSF.IO/KPH5Z)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.quascirev.2022.107498" class="altmetric-embed" style="display: inline"></span>
-
 
 Park, G., Wang, L., & Marwick, B. (2022). How do archaeologists write about racism? Computational text analysis of 41 years of Society for American Archaeology annual meeting abstracts. _Antiquity_, 1-14. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Park-et-al-2022-how-do-archaeologists-write-about-racism-computational-text-analysis-of-41-years-of-society-for-american-archaeology-annual-meeting-abstracts.pdf)] [[DOI](https://doi.org/10.15184/aqy.2021.181)] [[code & data](http://doi.org/10.17605/OSF.IO/2N3RF)] [[preprint](https://doi.org/10.31219/osf.io/zm73f)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15184/aqy.2021.181" class="altmetric-embed" style="display: inline"></span> 
 

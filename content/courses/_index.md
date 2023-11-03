@@ -11,6 +11,9 @@ In addition to teaching these classes I am also the coordinator of the [Archaeol
 ### ARCHY 109 Archaeology in Film  
 Deals with depictions of archaeology by and for non-archaeologists and implication of those depictions at the intersection of archaeology, the human past, and popular culture. 5 credits, I&S
 
+### ARCHY 208 Introduction to Archaeological Data Science
+This course is an introduction to basic methods of archaeology and data science. 5 credits, I&S. Archaeological Sciences non-core class.
+
 ### ARCHY 270 Field Course in Archaeology 
 Introduction to field acquisition of archaeological data through survey and excavation. On-going field projects; recovery and recording techniques. 12 credits, I&S
 
@@ -18,7 +21,7 @@ Introduction to field acquisition of archaeological data through survey and exca
 Laboratory procedures geared to one specific archaeological research project. Prerequisite: either ARCHY 105 or ARCHY 205. 1-3, max. 12 credits, I&S
 
 ### ARCHY 309 Archaeology of Mainland Southeast Asia
-Covers the archaeology of mainland Southeast Asia from the first colonization by hominins to the appearance of written texts, especially in Thailand, Cambodia, Laos, Vietnam, and Myanmar. Emphasizes methods of acquiring archaeological data and addressing current controversies about mainland Southeast Asia prehistory. Prerequisite: ARCHY 205.  5 credits, I&S. Archaeological Sciences non-core class.
+Covers the archaeology of mainland Southeast Asia from the first colonization by hominins to the appearance of written texts, especially in Thailand, Cambodia, Laos, Vietnam, and Myanmar. Emphasizes methods of acquiring archaeological data and addressing current controversies about mainland Southeast Asia prehistory. 5 credits, I&S. Archaeological Sciences non-core class.
 
 ### ARCHY 319 Archaeology of Australia
 Archaeology of Australia with an emphasis on understanding of the evidence and interpretation of both singular events and long-term processes in prehistory. Prerequisite: ARCHY 205. 5 credits, I&S. Archaeological Sciences non-core class.

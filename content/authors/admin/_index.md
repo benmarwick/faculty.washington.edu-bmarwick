@@ -36,9 +36,6 @@ social:
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@benmarwick
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/benmarwick
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=S6a1mTEAAAAJ&hl=en
@@ -60,9 +57,10 @@ social:
 - icon: wikipedia-w
   icon_pack: fab
   link: "https://en.wikipedia.org/wiki/User:Comtebenoit"
-- icon: arxiv
+- icon: zotero
   icon_pack: ai
-  link: "https://arxiv.org/search/?searchtype=author&query=Marwick%2C+B"
+  link: "https://www.zotero.org/benmarwick/"
+
 superuser: true
 user_groups:
 - Researchers
