@@ -25,6 +25,7 @@ title: Ethics and Values
 - [Undergraduate research](#undergraduate-research)
 - [Field research expectations for students](#field-research-expectations-for-students)
 - [Policies and Guidelines](#policies-and-guidelines)
+- [Recommendation letters](#recommendation-letters)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -269,10 +270,9 @@ A very worthwhile use of your time as a graduate student is to actively cultivat
 
 While I sometimes send emails outside my normal office hours, I have no expectation to receive a reply from you outside of normal business hours. Please don't feel you have to reply to me instantly, instead use your professional judgment to determine when your reply should be sent, and take time to ensure your reply is an effective communication. The hours that members of the lab choose to work is up to them. We are each welcome to send work-related emails or communications over the weekend or late at night, but no lab members are required to reply to them outside of their typical work hours. Lab members are welcome to work flexibly for any reason. Ideally, all lab members will have at least a few hours each week to overlap with Ben in order to stay in touch on any challenges or successes, but it is the policy of the Lab that every member is already self-motivated and doesn't need to work a traditional 9 to 5 day in order to meet their goals. If you experience any challenges related to flexible working within the lab please contact Ben Marwick. All communication will be treated as confidential.
 
-## Recommendation letters
+## Recommendation letters 
 
-It is part of my job (and, thankfully, quite often a pleasure) to write letters of recommendation for students. Please give me as much notice as possible, at least two weeks is ideal, and make sure I know the deadline, format (electronic? printed?), official name of the organization, what you are applying for, and so on. Please study the excellent guidance on getting letters [here](https://expd.uw.edu/scholarships/why-apply/letters-of-recommendation/) which tells you how to prepare to request a letter from me. If you are asking for a letter to support your application to graduate programs, do follow the guidance on preparing your statement of purpose [here](https://grad.berkeley.edu/admissions/apply/statement-purpose/), and share your statement with me. If you are an undergraduate, please remind me what class you took with me, and in what year and quarter, and I will write your letters on my own. For more senior lab members, I will also write your letters on my own, but please send me some bullet points to focus my letter on. The first few times you do this it will probably feel awkward. However, keep in mind that your goal is to make it as easy as possible for a letter writer (in this case, me) to complete the task by the deadline and without error. This is extremely helpful in jogging my memory and will give me more time to focus on saying good things about you. Don’t worry about being too 'braggy'; I have no problem toning things down if need be. Like everything else, communication is key, and when in doubt, ask!
-
+It is part of my job (and, thankfully, quite often a pleasure) to write letters of recommendation for students. Please give me as much notice as possible, at least two weeks is ideal, and make sure I know the deadline, format (electronic? printed?), official name of the organization, what you are applying for, and so on. To get started with requesting a letter, please fill out [this form](https://forms.gle/qWRu85iXYaRy1Uzq5) to give me the essential information I need to write a strong letter. Please send me reminders by email of the due date, and create a calendar event for us so I can see the due date on my calendar. Your goal is to make it as easy as possible for a letter writer (in this case, me) to complete the task by the deadline and without error. Your responses to this form are extremely helpful in jogging my memory and will give me more time to focus on saying good things about you. Don’t worry about being too 'braggy'; I have no problem toning things down if need be. Like everything else, communication is key, and when in doubt, ask!
 
 ## Acknowledgements
 
@@ -286,7 +286,7 @@ The text here includes material from:
 - [Jonathan Peelle's](http://jonathanpeelle.net/) lab manual: http://jpeelle.net/peellelab_manual.pdf
 - [Sara Perry's](https://twitter.com/ArchaeologistSP) [Code of conduct for teams on field projects](https://saraperry.wordpress.com/2018/05/04/fieldwork-code-of-conduct/)
 - [Jennifer F. Mckinnon's](https://history.ecu.edu/jennifer-mckinnon/) [Fieldwork Expectations Agreement](https://www.researchgate.net/publication/326426337_Fieldwork_Expectations_Agreement). 
-- [The Seven C’s of Communication](http://csl.cofc.edu/documents/study-strategies/communication/Effective%20Communication.pdf) from the College of Charleston Center for Student Learning
+- [The Seven C's of Communication](http://csl.cofc.edu/documents/study-strategies/communication/Effective%20Communication.pdf) from the College of Charleston Center for Student Learning
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). 
 
