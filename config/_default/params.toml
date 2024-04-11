@@ -18,9 +18,6 @@ description = ""
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "portrait.jpg"
 
-# Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "benmarwick"
-
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
 logo = ""
@@ -72,7 +69,6 @@ appointment_url = "https://calendly.com/bmarwick"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/benmarwick"},
   {icon = "video", icon_pack = "fas", name = "Zoom Me", link = "https://washington.zoom.us/my/bmarwick"},
   {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/benmarwick"}
   ]

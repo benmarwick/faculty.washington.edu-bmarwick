@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2023</h2> 
 
+Park, G., Lombard, M., Chong, D., B. Marwick (2023). Variation in Use of East Asian Late Paleolithic Weapons: a Study of Tip Cross-sectional Area of Stemmed Points from Korea. _Journal Paleolithic Archaeology_ 6, 36 (2023). [[pre-print](https://osf.io/preprints/urw95/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Park-et-al-2023-JPA.pdf)] [[code & data](https://doi.org/10.17605/osf.io/dqna8)] [[DOI](https://doi.org/10.1007/s41982-023-00163-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s41982-023-00163-x" class="altmetric-embed" style="display: inline"></span>
+
 Chen, Y. & B. Marwick (2023). Women in the Lab, Men in the Field? Correlations between Gender and Research Topics at Three Major Archaeology Conferences, _Journal of Field Archaeology_ [[pre-print](https://osf.io/fsujr)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Chen-and-Marwick-2023-JFA-Women-in-the-Lab.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/ZFB36)] [[DOI](https://doi.org/10.1080/00934690.2023.2261083)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/00934690.2023.2261083" class="altmetric-embed" style="display: inline"></span>
 
 Mackay, A., Saktura, R.B.K., O’Driscoll, C.A., Boyd, K., B. Marwick et al. (2023). The Middle Stone Age Sequence at Klipfonteinrand 1 (KFR1), Western Cape, South Africa. _Journal of Paleolithic Archaeology_ 6, 20 [[DOI](https://doi.org/10.1007/s41982-023-00147-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s41982-023-00147-x" class="altmetric-embed" style="display: inline"></span> 
