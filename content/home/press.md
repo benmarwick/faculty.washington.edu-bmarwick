@@ -2,7 +2,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 51  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Press"
 subtitle = "Interviews and media mentions"
@@ -62,6 +62,10 @@ subtitle = "Interviews and media mentions"
  # CSS class.
  css_class = ""
 +++
+
+1 Jul 2024 **[12,000-year-old Aboriginal sticks may be evidence of the oldest known culturally transmitted ritual in the world](https://www.livescience.com/archaeology/12000-year-old-aboriginal-sticks-may-be-evidence-of-the-oldest-known-culturally-transmitted-ritual-in-the-world)** by Kristina Killgrove on _Live Science_ "The study sets a high bar for investigating ancient ritual practice, Ben Marwick, an archaeologist at the University of Washington who was not involved in the study, told Live Science in an email. "There are older examples of more generic rituals, such as burial of the dead," Marwick said, "but this one is special because it is a specific ritual practice that has continued from time immemorial until recently." Commenting on David et al. (2024) _Nature Human Behaviour_ https://doi.org/10.1038/s41562-024-01912-w
+
+3 May 2024 **[How reproducibility is gaining first-class status in scientific research](https://www.elsevier.com/connect/how-reproducibility-is-gaining-first-class-status-in-scientific-research)** by Milly Sell on _Elsevier Connect_ for the _[Journal of Archaeological Science](https://www.sciencedirect.com/journal/journal-of-archaeological-science)_ "Ensuring research is reproducible is crucial to instilling confidence in research. Prof Ben Marwick, Associate Editor of the Journal of Archaeological Science, talks about recent initiatives that are encouraging software and data sharing." This is an interview on the occasion of my appointment as inaugural Associate Editor for Reproducibility at JAS. 
 
 3 Nov 2023 [_On an island in Southeast Asia, early humans coped with climate change by tailoring their technology_](https://www.pnas.org/post/journal-club/island-southeast-asia-early-humans-coped-climate-change-tailoring-their-technology) by Amy McDermott for **PNAS Journal Club** "Ben Marwick, an archaeologist at the University of Washington in Seattle, says these authors did 'a fantastic job of analyzing these artifacts and putting them in context relevant to Southeast Asia and elsewhere in the world.' He notes that in this particular region of Island Southeast Asia, many of the stone artifacts, like those the researchers inspected, are small, and not particularly showy pieces that haven’t attracted as much archaeological interest as the spectacular hand axes and blades found in other parts of the world, including Europe and Africa. In this region of Southeast Asia in particular, archaeologists had imagined that people used such stone tools 'once or twice' and then threw them away, Marwick says. But by taking a closer look at these small pieces, 'these authors interpret the stone artifact technology as people making decisions to extend the life of their tools,' he notes. 'At some periods, the makers of these tools do extend [the tools’] useful life, whereas at other times they don’t,' he explains." Commenting on Clarkson et al. (2023) _Quaternary Science Reviews_ https://doi.org/10.1016/j.quascirev.2023.108340
 
