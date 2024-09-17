@@ -68,6 +68,17 @@ subtitle = "Scholarly publications & pre-prints"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<h2>2024</h2> 
+
+Matzig D. N., Marwick B., Riede F. and Warnock R. C. M. (2024) A macroevolutionary analysis of European Late Upper Palaeolithic stone tool shape using a Bayesian phylodynamic framework. Royal Society Open Science 11240321  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/matzig-et-al-2024-a-macroevolutionary-analysis-of-european-late-upper-palaeolithic-stone-tool-shape-using-a-bayesian.pdf)] [[code & data](http://dx.doi.org/10.5281/zenodo.10693325)] [[DOI](http://doi.org/10.1098/rsos.240321)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1098/rsos.240321" class="altmetric-embed" style="display: inline"></span>
+
+DiCiro, A., N. Mitchell, and B. Marwick (2024). Everything is a Deposit: An interview with pioneering geoarchaeologist Julie K. Stein. Bulletin of the History of Archaeology [[pre-print](https://doi.org/10.31235/osf.io/sdnu4)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Diciro-et-al-2024-Stein-BHA.pdf)] [[DOI](https://doi.org/10.5334/bha-697)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.5334/bha-697" class="altmetric-embed" style="display: inline"></span>
+
+Hu, Y., Marwick, B., Lu, H. et al. (2024) Lithic technologies at Guanyindong cave, Southwest China: diversity and innovation during the Chinese Middle Palaeolithic. Archaeological and Anthropological Sciences 16, 119  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hu-et-al-2024-gyd-AAS.pdf)] [[DOI](https://10.1007/s12520-024-02022-4)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s12520-024-02022-4" class="altmetric-embed" style="display: inline"></span>
+
+Stoudt S, Jernite Y, Marshall B, Marwick B, Sharan M, et al. (2024) Ten simple rules for building and maintaining a responsible data science workflow. PLOS Computational Biology 20(7): e1012232. 
+[[PDF](http://faculty.washington.edu/bmarwick/PDFs/Stoudt-et-al-2024-PLOS-cb.pdf)] [[DOI](https://10.1371/journal.pcbi.1012232)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pcbi.1012232" class="altmetric-embed" style="display: inline"></span>
+
 <h2>2023</h2> 
 
 Park, G., Lombard, M., Chong, D., B. Marwick (2023). Variation in Use of East Asian Late Paleolithic Weapons: a Study of Tip Cross-sectional Area of Stemmed Points from Korea. _Journal Paleolithic Archaeology_ 6, 36 (2023). [[pre-print](https://osf.io/preprints/urw95/)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Park-et-al-2023-JPA.pdf)] [[code & data](https://doi.org/10.17605/osf.io/dqna8)] [[DOI](https://doi.org/10.1007/s41982-023-00163-x)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s41982-023-00163-x" class="altmetric-embed" style="display: inline"></span>
