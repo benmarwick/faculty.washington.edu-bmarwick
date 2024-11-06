@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2024</h2> 
 
+Marwick B. (2024) Introducing the Associate Editor of Reproducibility. _Advances in Archaeological Practice_. 2024;12(2):61-62.  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2024-introducing-the-associate-editor-of-reproducibility.pdf)] [[DOI](http://doi.org/10.1017/aap.2024.15)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aap.2024.15" class="altmetric-embed" style="display: inline"></span>
+
 Matzig D. N., Marwick B., Riede F. and Warnock R. C. M. (2024) A macroevolutionary analysis of European Late Upper Palaeolithic stone tool shape using a Bayesian phylodynamic framework. Royal Society Open Science 11240321  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/matzig-et-al-2024-a-macroevolutionary-analysis-of-european-late-upper-palaeolithic-stone-tool-shape-using-a-bayesian.pdf)] [[code & data](http://dx.doi.org/10.5281/zenodo.10693325)] [[DOI](http://doi.org/10.1098/rsos.240321)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1098/rsos.240321" class="altmetric-embed" style="display: inline"></span>
 
 DiCiro, A., N. Mitchell, and B. Marwick (2024). Everything is a Deposit: An interview with pioneering geoarchaeologist Julie K. Stein. Bulletin of the History of Archaeology [[pre-print](https://doi.org/10.31235/osf.io/sdnu4)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Diciro-et-al-2024-Stein-BHA.pdf)] [[DOI](https://doi.org/10.5334/bha-697)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.5334/bha-697" class="altmetric-embed" style="display: inline"></span>
