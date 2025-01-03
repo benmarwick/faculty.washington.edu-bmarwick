@@ -70,7 +70,7 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2024</h2> 
 
-Hongliang Lu, Xinglong Zhang, Yaping Qin, Guobing Yang, Yun Chen, Pengchen Xu, Ming Huang, Ming Jiang, Ben Marwick & Yue Hu (2024) New Evidence of Human Occupation in Southwest China Since 44,800 Years ago, _Lithic Technology_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hongliang-el-al-2024-Zhaoguodong.pdf.pdf)] [[code & data](https://doi.org/10.5281/zenodo.14567758)] [[DOI](http://doi.org/10.1080/01977261.2024.2435718)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2024.2435718" class="altmetric-embed" style="display: inline"></span>
+Hongliang Lu, Xinglong Zhang, Yaping Qin, Guobing Yang, Yun Chen, Pengchen Xu, Ming Huang, Ming Jiang, Ben Marwick & Yue Hu (2024) New Evidence of Human Occupation in Southwest China Since 44,800 Years ago, _Lithic Technology_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hongliang-el-al-2024-Zhaoguodong.pdf)] [[code & data](https://doi.org/10.5281/zenodo.14567758)] [[DOI](http://doi.org/10.1080/01977261.2024.2435718)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2024.2435718" class="altmetric-embed" style="display: inline"></span>
 
 Marwick B. (2024) Introducing the Associate Editor of Reproducibility. _Advances in Archaeological Practice_. 2024;12(2):61-62.  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2024-introducing-the-associate-editor-of-reproducibility.pdf)] [[DOI](http://doi.org/10.1017/aap.2024.15)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aap.2024.15" class="altmetric-embed" style="display: inline"></span>
 
