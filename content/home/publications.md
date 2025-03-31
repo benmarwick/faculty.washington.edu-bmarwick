@@ -68,6 +68,10 @@ subtitle = "Scholarly publications & pre-prints"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<h2>2025</h2> 
+
+Ruan, Q., H. Li, P. Xiao, B. Li, H. Monod, A. Sumner, K. Zhao, J. Liu, Z. Jia, C. Wang, A. Fan, M. Moncel, B. Marwick, M. Peresani, Y. Wang, F. Chen, & D. Delpiano (2025)  Quina lithic technology indicates diverse Late Pleistocene human dynamics in East Asia _Proceedings of the National Academy of Science_ 122 (14) e2418029122 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Ruan-et-al-2025.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/MZN9B)] [[DOI](http://doi.org/10.1073/pnas.2418029122)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1073/pnas.2418029122" class="altmetric-embed" style="display: inline"></span>
+
 <h2>2024</h2> 
 
 Hongliang Lu, Xinglong Zhang, Yaping Qin, Guobing Yang, Yun Chen, Pengchen Xu, Ming Huang, Ming Jiang, Ben Marwick & Yue Hu (2024) New Evidence of Human Occupation in Southwest China Since 44,800 Years ago, _Lithic Technology_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Hongliang-el-al-2024-Zhaoguodong.pdf)] [[code & data](https://doi.org/10.5281/zenodo.14567758)] [[DOI](http://doi.org/10.1080/01977261.2024.2435718)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2024.2435718" class="altmetric-embed" style="display: inline"></span>
