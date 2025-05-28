@@ -70,6 +70,8 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2025</h2> 
 
+Huan, F., Yang, S., Marwick, B. et al. (2025). Lithic miniaturization in South China since the terminal Pleistocene: A multivariate analysis of lithic reduction from Fodongdi, Fulin and Xiqiaoshan. _Journal of Geographic Science_  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Huan-et-al-2025-lithic-mini.pdf)] [[code & data](https://doi.org/10.5281/zenodo.13958749)] [[DOI](http://doi.org/10.1007/s11442-025-2375-7)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s11442-025-2375-7" class="altmetric-embed" style="display: inline"></span>
+
 Ruan, Q., H. Li, P. Xiao, B. Li, H. Monod, A. Sumner, K. Zhao, J. Liu, Z. Jia, C. Wang, A. Fan, M. Moncel, B. Marwick, M. Peresani, Y. Wang, F. Chen, & D. Delpiano (2025)  Quina lithic technology indicates diverse Late Pleistocene human dynamics in East Asia _Proceedings of the National Academy of Science_ 122 (14) e2418029122 [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Ruan-et-al-2025.pdf)] [[code & data](https://doi.org/10.17605/OSF.IO/MZN9B)] [[DOI](http://doi.org/10.1073/pnas.2418029122)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1073/pnas.2418029122" class="altmetric-embed" style="display: inline"></span>
 
 <h2>2024</h2> 
