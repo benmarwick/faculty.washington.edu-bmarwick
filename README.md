@@ -15,7 +15,7 @@ All content on these pages is in the [public domain](http://creativecommons.org/
 
 ## Things to keep in mind
 
-* Edit pages, then `blogdown::build_site()`, to inspect it locally run `blogdown::serve_site()`, then `git commit` and `git push`
+* Edit pages, then `blogdown::build_site(); blogdown::serve_site()`, to inspect it locally, then `git commit` and `git push`
 
 * Deploy from my local copy directory to the UW server (bypassing github): `rsync -ravz public/* bmarwick@ovid.u.washington.edu:public_html` or use WinSCP. May also need to `chmod 755`  
  

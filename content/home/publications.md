@@ -70,7 +70,9 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2025</h2> 
 
-Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](https://doi.org/10.31235/osf.io/whkjs_v1)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/10.31235/osf.io/whkjs_v1)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/whkjs_v1" class="altmetric-embed" style="display: inline"></span>
+Beck., J and B. Marwick (2025 under review) Pushing the Envelope: Creative Change in Peer Review. _American Anthropologist_
+
+Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025 in press). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](https://doi.org/10.31235/osf.io/whkjs_v1)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/10.31235/osf.io/whkjs_v1)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/whkjs_v1" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B. (2025). Is archaeology a science? Insights and imperatives from 10,000 articles and a year of reproducibility reviews. _Journal of Archaeological Science_, 180, 106281. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2025-JAS-science.pdf)] [[code & data](https://doi.org/10.5281/zenodo.14897252)] [[DOI](https://doi.org/10.1016/j.jas.2025.106281)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.jas.2025.106281" class="altmetric-embed" style="display: inline"></span>
 
