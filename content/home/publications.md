@@ -70,9 +70,14 @@ subtitle = "Scholarly publications & pre-prints"
 
 <h2>2025</h2> 
 
-Beck., J and B. Marwick (2025 under review) Pushing the Envelope: Creative Change in Peer Review. _American Anthropologist_
+Shafizadeh, S., Khaki, M., & Marwick, B. (2025). Between Nomads and Settlers: A Quantitative Analysis of Lithic Assemblages from Tula'i (Tuleii), Zagros, Iran. _Lithic Technology_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[code & data](https://doi.org/10.5281/zenodo.10463252)] [[DOI](http://doi.org/10.1080/01977261.2025.2577033)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2025.2577033" class="altmetric-embed" style="display: inline"></span>
 
-Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025 in press). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](https://doi.org/10.31235/osf.io/whkjs_v1)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/10.31235/osf.io/whkjs_v1)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31235/osf.io/whkjs_v1" class="altmetric-embed" style="display: inline"></span>
+Beck., J and B. Marwick (2025 under review) Pushing the Envelope: Creative Change in Peer Review. _American Anthropologist_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](http://doi.org/)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span>
+
+Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025 in press). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](https://doi.org/10.31235/osf.io/whkjs_v1)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span>
+
+Marwick B. Digital Innovations in European Archaeology. Kevin Garstki. 2020. Cambridge University Press, Cambridge. 80 pp. \$20.00 (paperback), ISBN 978-1-108-74412-6. \$16.00 (e-book), ISBN 978-1-108-89515-6. _American Antiquity_.  2025:1-2. 
+[[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-2025-review-garstki-2020.pdf)]  [[DOI](https://doi.org/10.1017/aaq.2025.10139)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aaq.2025.10139" class="altmetric-embed" style="display: inline"></span>
 
 Shafizadeh, S., Khaki, M., and Marwick, B. (2025). Between Nomads and Settlers: A Quantitative Analysis of Lithic Assemblages from Tula’i (Tuleii), Zagros, Iran._ Lithic Technology_, 1–17.  [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Shafizadeh-et-al-2025-LT.pdf)] [[code & data](https://doi.org/10.5281/zenodo.10463251)] [[DOI](https://doi.org/10.1080/01977261.2025.2577033)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2025.2577033" class="altmetric-embed" style="display: inline"></span>
 
