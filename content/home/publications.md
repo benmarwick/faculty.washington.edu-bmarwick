@@ -68,11 +68,16 @@ subtitle = "Scholarly publications & pre-prints"
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<h2>2026</h2> 
+
+<!-- Beck., J and B. Marwick (2025 under review) Pushing the Envelope: Creative Change in Peer Review. _American Anthropologist_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](http://doi.org/)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span> -->
+
+
+Yue, J.-P., Song, G.-D., Yang, S.-X., Kang, S.-G., Li, J.-Y., Marwick, B., Ollé, A., Fernández-Marchena, J. L., Shu, P.-X., Liu, H.-Y., Zhang, Y.-X., Huan, F.-X., Zhao, Q.-P., Qiao, B.-T., Shen, Z.-S., Deng, C.-L., and M. Petraglia (2026). Technological innovations and hafted technology in central China ~160,000–72,000 years ago. _Nature Communications_ 17(1), 615. [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Yue-et-al-2026-hafted-tech-China.pdf)] [[DOI](https://doi.org/10.1038/s41467-025-67601-y)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1038/s41467-025-67601-y" class="altmetric-embed" style="display: inline"></span>
+
 <h2>2025</h2> 
 
-Beck., J and B. Marwick (2025 under review) Pushing the Envelope: Creative Change in Peer Review. _American Anthropologist_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](http://doi.org/)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span>
-
-Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025 in press). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](https://doi.org/10.31235/osf.io/whkjs_v1)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span>
+Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-et-al-2025-hire-ed.pdf)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/10.1017/aaq.2025.10117)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aaq.2025.10117" class="altmetric-embed" style="display: inline"></span>
 
 Shafizadeh, S., Khaki, M., & Marwick, B. (2025). Between Nomads and Settlers: A Quantitative Analysis of Lithic Assemblages from Tula'i (Tuleii), Zagros, Iran. _Lithic Technology_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Shafizadeh-et-al-2025-LT.pdf)] [[code & data](https://doi.org/10.5281/zenodo.10463252)] [[DOI](http://doi.org/10.1080/01977261.2025.2577033)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2025.2577033" class="altmetric-embed" style="display: inline"></span>
 
