@@ -77,16 +77,9 @@ Yue, J.-P., Song, G.-D., Yang, S.-X., Kang, S.-G., Li, J.-Y., Marwick, B., Ollé
 
 <h2>2025</h2> 
 
-<<<<<<< HEAD
-Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-et-al-2025-hire-ed.pdf)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/10.1017/aaq.2025.10117)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aaq.2025.10117" class="altmetric-embed" style="display: inline"></span>
-=======
-<!--
-Beck, J. and B. Marwick (2025 under review) Pushing the Envelope: Creative Change in Peer Review. _American Anthropologist_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/)] [[DOI](http://doi.org/)] <span data-badge-popover="right" data-badge-type="4" data-doi="" class="altmetric-embed" style="display: inline"></span> -->
-
 Duong Thuy Nguyen, Dung Chi Nguyen, Thuy Thi An, Chun- Yuan Huang, Chuan- Chou Shen, Czuppon György, Dong Van Bui, Linh Ngoc Nguyen, Hong- Wei Chiang, Yue- Gau Chen, Ha Vu Van, Quang Minh Nguyen, Tuan Minh Dang, Lam Dinh Doan, Ben Marwick, Yin Lin (2025). Stable isotope potential of Northern Vietnam stalagmites: A 51-cave survey with the Hendy test and U/Th analysis. _Vietnam Journal of Earth Sciences_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Duong-Thuy-Nguyen-et-al-VJES-2026.pdf)]  [[DOI](https://doi.org/10.15625/2615-9783/24038)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.15625/2615-9783/24038" class="altmetric-embed" style="display: inline"></span>
 
 Marwick, B., Poole, A. M., Zhang, A., Shafizadeh, S., and J. Beck (2025). Hire Ed: Job Market Dynamics for Tenure-Track Faculty Positions in Archaeology. _American Antiquity_ Published online 2025:1-23. [[preprint](https://doi.org/10.31235/osf.io/whkjs_v1)] [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Marwick-et-al-2025-AQ-hire-ed.pdf)] [[code & data](https://doi.org/10.5281/zenodo.15847809)] [[DOI](https://doi.org/10.1017/aaq.2025.10117)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1017/aaq.2025.10117" class="altmetric-embed" style="display: inline"></span>
->>>>>>> 3e37fc8509b94244a85bbf10b8b3bfe0eb016830
 
 Shafizadeh, S., Khaki, M., & Marwick, B. (2025). Between Nomads and Settlers: A Quantitative Analysis of Lithic Assemblages from Tula'i (Tuleii), Zagros, Iran. _Lithic Technology_ [[PDF](http://faculty.washington.edu/bmarwick/PDFs/Shafizadeh-et-al-2025-LT.pdf)] [[code & data](https://doi.org/10.5281/zenodo.10463252)] [[DOI](http://doi.org/10.1080/01977261.2025.2577033)] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1080/01977261.2025.2577033" class="altmetric-embed" style="display: inline"></span>
 
